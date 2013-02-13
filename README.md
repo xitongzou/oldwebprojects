@@ -22,3 +22,5 @@ I functioned as the webmaster, programmer and graphics artist for these websites
 Project details
 ==============
 Alot of my early websites were essentially ‘shrine sites’ dedicated to something I liked. I am also an anime lover and so I created a graphics design site called Japanime which focused on providing anime resources such as history, characters and biography of over 50 animes.
+
+-Tong Zou
