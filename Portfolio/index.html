@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tong Zou's Portfolio</title>
+<script type="text/javascript" src="content/jquery-1.2.2.pack.js"></script>
+<script type="text/javascript" src="content/ddaccordion.js">
+
+/***********************************************
+* Accordion Content script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+
+</script>
+<script type="text/javascript">
+
+/***********************************************
+* Dynamic Ajax Content- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var bustcachevar=1 //bust potential caching of external pages after initial request? (1=yes, 0=no)
+var loadedobjects=""
+var rootdomain="http://"+window.location.hostname
+var bustcacheparameter=""
+
+function ajaxpage(url, containerid){
+var page_request = false
+if (window.XMLHttpRequest) // if Mozilla, Safari etc
+page_request = new XMLHttpRequest()
+else if (window.ActiveXObject){ // if IE
+try {
+page_request = new ActiveXObject("Msxml2.XMLHTTP")
+} 
+catch (e){
+try{
+page_request = new ActiveXObject("Microsoft.XMLHTTP")
+}
+catch (e){}
+}
+}
+else
+return false
+page_request.onreadystatechange=function(){
+loadpage(page_request, containerid)
+}
+if (bustcachevar) //if bust caching of external page
+bustcacheparameter=(url.indexOf("?")!=-1)? "&"+new Date().getTime() : "?"+new Date().getTime()
+page_request.open('GET', url+bustcacheparameter, true)
+page_request.send(null)
+}
+
+function loadpage(page_request, containerid){
+if (page_request.readyState == 4 && (page_request.status==200 || window.location.href.indexOf("http")==-1))
+document.getElementById(containerid).innerHTML=page_request.responseText
+}
+
+function loadobjs(){
+if (!document.getElementById)
+return
+for (i=0; i<arguments.length; i++){
+var file=arguments[i]
+var fileref=""
+if (loadedobjects.indexOf(file)==-1){ //Check to see if this object has not already been added to page before proceeding
+if (file.indexOf(".js")!=-1){ //If object is a js file
+fileref=document.createElement('script')
+fileref.setAttribute("type","text/javascript");
+fileref.setAttribute("src", file);
+}
+else if (file.indexOf(".css")!=-1){ //If object is a css file
+fileref=document.createElement("link")
+fileref.setAttribute("rel", "stylesheet");
+fileref.setAttribute("type", "text/css");
+fileref.setAttribute("href", file);
+}
+}
+if (fileref!=""){
+document.getElementsByTagName("head").item(0).appendChild(fileref)
+loadedobjects+=file+" " //Remember this object as being already added to page
+}
+}
+}
+
+</script>
+
+<script type="text/javascript">
+
+
+ddaccordion.init({
+	headerclass: "submenuheader", //Shared CSS class name of headers group
+	contentclass: "submenu", //Shared CSS class name of contents group
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
+	defaultexpanded: [], //index of content(s) open by default [index1, index2, etc] [] denotes no content
+	animatedefault: false, //Should contents open by default be animated into view?
+	persiststate: true, //persist state of opened contents within browser session?
+	toggleclass: ["", ""], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	togglehtml: ["suffix"], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	animatespeed: "normal", //speed of animation: "fast", "normal", or "slow"
+	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
+		//do nothing
+	},
+	onopenclose:function(header, index, state, isclicked){ //custom code to run whenever a header is opened or closed
+		//do nothing
+	}
+})
+
+
+</script>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+	<div id="header">
+		
+	</div>
+	<div id="border">
+		<div id="main">
+			<div id="left">
+				<div id="menu">
+                  <ul>
+				 	<li><a class="menuitem" a href="javascript:ajaxpage('content/home.html','right');">Home</a></li>  
+				  	<li><a class="menuitem" a href="javascript:ajaxpage('content/aboutme.html', 'right');">About me </a></li>       
+                 <li><a class="menuitem" href="javascript:ajaxpage('content/Career_Goals_2.html', 'right');">Career Goals</a></li>                  
+                  <li><a class="menuitem" href="javascript:ajaxpage('content/Co_op_Internship_3.html', 'right');">Co-op/Internship</a>               </li>
+                  <li><a class="menuitem" href="javascript:ajaxpage('content/Awards_and_Honors_4.html', 'right');">Awards/Honors</a></li>                 
+                <li>  <a class="menuitem submenuheader">Projects</a></li>
+                                                                                                        
+                  <div class="submenu">
+	<ul>
+	<li><a href="javascript:ajaxpage('content/mazerace.html', 'right');">MazeRace(2006)</a></li>
+	<li><a href="javascript:ajaxpage('content/blackjack.html', 'right');">BlackJack(2007)</a></li>
+	<li><a href="javascript:ajaxpage('content/chatserver.html', 'right');">Chat Server(2008)</a></li>
+    <li><a href="javascript:ajaxpage('content/extraction.html', 'right');">Data Extraction Tools(2008)</a></li>
+	</ul>
+</div>
+<li><a class="menuitem submenuheader">Websites</a></li>
+<div class="submenu">
+	<ul>
+<li><a href="javascript:ajaxpage('content/divinereq.html', 'right');">Divine Requiem (2006)</a></li>
+<li><a href="javascript:ajaxpage('content/utfocus.html', 'right');">UTFocus (2007)</a></li>
+	</ul>
+  </div>
+  <li><a class="menuitem submenuheader">Credentials</a></li></ul>
+<div class="submenu">
+	<ul>
+<li><a href="content/users/zouxiton/Resume and Credentials/resume1.rar">Resume</a></li>
+<li><a href="content/users/zouxiton/Resume and Credentials/coverletter.rar">Cover Letter</a></li>
+<li><a href="content/users/zouxiton/Resume and Credentials/referenceletter.rar">Reference Letter</a></li>
+<li><a href="content/users/zouxiton/Resume and Credentials/transcript.rar">Transcript</a></li>
+	</ul>
+  </div>
+			  </div>
+				<div id="menubottom">
+					<ul>
+						    <li><a href="http://www.facebook.com/profile.php?id=28123459" target="_blank">FACEBOOK </a></li>
+		<li><a href="http://www.youtube.com/xitongzou" target="_blank">YOUTUBE </a></li>
+						<li><a href="mailto:Gofishus@hotmail.com">EMAIL </a></li>
+					
+					</ul>
+				</div>
+			</div>
+			<div id="right">
+				<div class="content">
+				  <h3 align="center">Welcome</h3>
+				  <p>This is a portfolio detailing my future development goals, work philosophy/beliefs, skill areas, works in progress, past work experience and history, Awards and certificates, records of volunteer service and links to my resume,references,cover letters and transcripts.</p>
+				  <p><br />
+				    Click on the link to the left to view my resume, the projects link refer to previous assignments that I have done in my courses, I have posted the most interactive ones. Websites will give you different websites I have worked in the past in zipped form. <span style="font-weight: bold;">You will need </span><strong>WinRAR</strong><span style="font-weight: bold;"> to open my files (You will need a web editor to view the php files and there is a readme for each project) and MS Word 2007 for my documents.</span>The Credentials link will give you access to my cover letters and transcripts in addition to my resume. Finally, essays and articles will take you to various essays I have written in the past as a demonstration of my abilities in the english language. </p>
+				</div>
+		  </div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div id="footer">
+
+	</div>	
+	<div id="footerend">
+	  <div align="center">
+	    <p><span>© Copyright Tong Zou  2008</span><span><br />
+        All rights reserved.</span> </p>
+      </div>
+	</div>
+</div>
+</body>
+</html>

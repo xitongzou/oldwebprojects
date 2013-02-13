@@ -1,0 +1,276 @@
+body {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+	text-align:center;
+	background-color:#5ba0d6;
+}
+* {margin:0px;padding:0px;}
+.clear{clear:both;}
+#container {
+	margin: 0px auto;
+	text-align: left;
+	width: 979px;
+}
+#header {
+	background-image:url(images/header1.jpg);
+	width:979px;
+	height:232px;
+	display:block;
+}
+#border {
+	background-image:url(images/border.gif);
+	background-repeat: repeat-y;
+	width:979px;
+}
+#main {
+	background-image:url(images/contentbg.gif);
+	background-color:#abe4fe;
+	margin: 0px 12px 0px 10px;
+	background-repeat: repeat-x;
+}
+#left {
+	width:261px;
+	float:left;
+	display:inline;
+	background-image:url(images/contentbg.gif);
+	background-color:#CCCCCC;
+	
+}
+#right {
+	float:right;
+	width:580px;
+}
+/***************** Content ***********************/
+.content {
+	width:530px;
+}
+.content h3 {
+	width:520px;
+	height:20px;
+	text-indent:700px;
+	overflow:hidden;
+	margin: 10px 0px 15px 0px;
+	padding: 0px 0px 10px 0px;
+	background-image: url(images/welcome.gif);
+	background-repeat: no-repeat;
+}
+.content p {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	color: #003a65;
+	padding: 10px 0px 0px 6px;
+	font-weight:900;
+}
+.content a {
+	color:#2e260f;
+}
+.content a:hover {
+	color:#cf0002;
+}
+.product {
+	width:530px;
+	margin: 20px 0px;
+}
+.product h3 {
+	background-image:url(images/products.gif);
+	background-repeat:no-repeat;
+	width:530px;
+	height:33px;
+	text-indent:700px;
+	overflow:hidden;
+	border-bottom: 1px dashed #2e2304;
+	margin: 10px 0px 15px 0px;
+	padding: 0px 0px 10px 0px;
+}
+.product a {
+	border: 1px solid #6698bd;
+	display:inline;	
+	float:left;
+	margin: 6px 0px 6px 11px;
+}
+.product a:hover {
+	border: 1px solid #c40000;
+}
+.product img {
+	border: 6px solid #ffffff;
+}
+/***************** Menu ***********************/
+#menu {
+	background-image:url(images/menu.gif);
+	width:261px;
+	height:449px;
+	margin-left:93px;
+}
+#menu ul {
+	padding: 4px 0px 0px 0px;
+	width:220px;
+	margin-left:15px;
+}
+#menu li {
+	background-image: url(images/arrow.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+	border-bottom: 0px dotted #2e2304;
+	list-style-type: none;
+	padding: 4px 4px 4px 0px;
+	text-align:center;
+}
+#menu a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: 900;
+	color: #2e260f;
+	text-decoration: none;
+	font-size: 14px;
+	
+}
+#menu a:hover {
+	color:#c40000;
+}
+.lastchild{
+	border-bottom: none !important;
+}
+#menubottom {
+	background-image:url(images/menubottom.jpg);
+	background-repeat:no-repeat;
+	width:261px;
+	height:76px;
+	margin-left:93px;
+}
+#menubottom ul {
+	padding: 20px 0px 0px 0px;
+	width:240px;
+	margin-left:15px;
+}
+#menubottom li {
+	float:left;
+	display:inline;
+	width:77px;
+	text-align:center;
+}
+#menubottom a {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight: bolder;
+	font-size:10px;
+	text-transform: uppercase;
+	color: #666633;
+}
+#menubottom a:hover {
+	color:#c40000;
+}
+/***************** Footer ***********************/
+#footer {
+	background-color:#8bcaef;
+	background-image:url(images/footer.jpg);
+	height:74px;
+	width:979px;
+}
+#footerend {
+	background-image:url(images/borderfooterend.gif);
+	background-repeat: no-repeat;
+	width:979px;
+	height:9px;
+	display:block;
+}
+#copyright {
+	/*background-image:url(images/copyright.jpg);*/
+	background-repeat:no-repeat;
+	width:220px;
+	height:63px;
+	display:inline;
+	margin-left:103px;
+	float:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: 800;
+	color: #463d16;
+	padding: 30px 20px 0px 20px;
+	text-align:center;
+}
+#copyright a {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #463d16;
+}
+#payment {
+	float:left;
+	display:inline;
+	margin: 10px 0px 20px 135px;
+}
+#payment img {
+	border: none;
+}
+
+/** Menu style **/
+.glossymenu{
+margin: 5px 0;
+padding: 5px;
+width: 120px; /*width of menu*/
+border: 0px solid #9A9A9A;
+border-bottom-width: 0;
+float:left;
+height: 400px;
+
+}
+
+.glossymenu a.menuitem{
+background: url(content/button.png);
+font: bold 14px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+color: black;
+display: block;
+position: relative; /*To help in the anchoring of the ".statusicon" icon image*/
+width: 120px;
+padding: 4px 0;
+padding-left: 10px;
+text-decoration: none;
+}
+
+
+.glossymenu a.menuitem:visited, .glossymenu .menuitem:active{
+color: black;
+}
+
+.glossymenu a.menuitem .statusicon{ /*CSS for icon image that gets dynamically added to headers*/
+position: absolute;
+top: 5px;
+right: 5px;
+border: none;
+}
+
+.glossymenu a.menuitem:hover{
+background-image: url(content/button.png);
+}
+
+.glossymenu div.submenu{ /*DIV that contains each sub menu*/
+background: white;
+}
+
+.glossymenu div.submenu ul{ /*UL of each sub menu*/
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.glossymenu div.submenu ul li{
+border-bottom: 0px solid blue;
+}
+
+.glossymenu div.submenu ul li a{
+display: block;
+font: normal 13px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+color: black;
+text-decoration: none;
+padding: 4px 0;
+padding-left: 10px;
+}
+
+.glossymenu div.submenu ul li a:hover{
+background: #DFDCCB;
+colorz: white;
+}
+
+.style1 {font-size: 12px}
