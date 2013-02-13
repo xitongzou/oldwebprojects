@@ -1,0 +1,269 @@
+<!doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+
+<head>
+<title>News/Updates</title>
+<meta name="GENERATOR" content="Arachnophilia 4.0">
+<meta name="FORMATTER" content="Arachnophilia 4.0">
+<style type="text/css">
+
+
+#sDiv0, #sDiv1, #sDiv2, #sDiv3, #sDiv4, #sDiv5, #sDiv6, #sDiv7, #sDiv8, #sDiv9
+{
+position:absolute; height:1; width:1; font-family:arial black; font-size:9px; color:#FFFFAA; z-index:10;
+}
+
+</style>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+<!--
+
+/*
+Document firework script (By Matt Gabbert, mgabbert@usrtoday.com, http://www.nolag.com)
+Featured on Dynamicdrive.com
+For full source and 100's more DHTML scripts, visit http://www.dynamicdrive.com
+*/
+
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && self.innerWidth && (window.pageXOffset>-1));
+//my way of making sure the browser will have what I need
+
+var allDivs      = new Array(10);
+var documentWidth,documentHeight;
+
+function initAll(){
+	if(!ns && !ie && !w3)	return;
+
+	for(dNum=0; dNum<10; ++dNum){
+		if(ie)		allDivs[dNum]=eval('document.all.sDiv'+dNum+'.style');
+		else if(ns)	allDivs[dNum]=eval('document.layers["sDiv'+dNum+'"]');
+		else if(w3)	allDivs[dNum]=eval('document.getElementById("sDiv'+dNum+'").style');
+		moveTo(dNum,0,0);
+	}		
+}
+
+function moveTo(i,tempx,tempy){
+	if (ie){
+		documentWidth  =document.body.offsetWidth+document.body.scrollLeft-20;
+		randomy=Math.floor(Math.random()*document.body.offsetHeight)+document.body.scrollTop-20;
+	}
+	else if (ns){
+		documentWidth=window.innerWidth+window.pageXOffset-20;
+		randomy=Math.floor(Math.random()*window.innerHeight)+window.pageYOffset-20;
+	}
+	else if (w3){
+		documentWidth=self.innerWidth+window.pageXOffset-20;
+		randomy=Math.floor(Math.random()*self.innerHeight)+window.pageYOffset-20;
+	}
+
+	if(tempx>-50){
+		tempx-=45;
+		allDivs[i].left=tempx;
+		allDivs[i].top =tempy;
+		setTimeout("moveTo("+i+","+tempx+","+tempy+")",40)
+	}
+	else
+		setTimeout("moveTo("+i+",documentWidth-10,randomy)",2000/i+40);
+}
+
+window.onload=initAll
+//End-->
+</script>
+</head>
+
+<body bgcolor="black" text="yellow" link="#0000ff" vlink="red" alink="#ff0000">
+<div id="sDiv0">*</div>
+<div id="sDiv1">*</div>
+<div id="sDiv2">*</div>
+<div id="sDiv3">*</div>
+<div id="sDiv4">*</div>
+<div id="sDiv5">*</div>
+<div id="sDiv6">*</div>
+<div id="sDiv7">*</div>
+<div id="sDiv8">*</div>
+<div id="sDiv9">*</div>
+<center><img src="news.jpg"></center>
+
+<p align="center">If you have any news you would like to add,or if you want me to link to your website,you can submit it<a href="mailto:Tong_Zou@Hotmail.com">here</a>Or you could submit it in the Suggestion Box,Guest Book,or post it on the DBZ Forum.
+
+<table border="1" width="75%" bordercolor="red" cellpadding="2">
+
+<tr align="center">
+
+<td colspan="1">
+
+<font face="lucida sans" size="2"></font><b><font size=3 color=red>Comment</B></font></td>
+<td colspan="1"><font face="lucida sans" size="2"></font><b><font size=3 color=red>Author</b></font></td></tr>
+<tr><td>Well, despite my last update, i have good news and bad news. The good news is that i have a new anime site at <a href="http://www.angelfire.com/oz/japanime">http://www.angelfire.com/oz/japanime</a>. The bad news is that i won't be updating this site anymore :(. Rest assured though, my HTML career is not over, and my new site is on Japanese Anime, including DBZ! It even has the same familiar layout as this site! So you might want to check it out! I also won't be updating this site anymore, as you know. BTW, my name on my new site is Gofishus, not tongzouca2, sounds cooler no?</td>
+<td>Apr.1,2004 by tongzouca2</td></tr> 
+<tr><td>I have come with some grave news :(. I will not be updating the site anytime soon anymore because of lack of time. I have found that either i am too busy doing other things or am enjoying myself too much outside (I do have a life outside the computer you know). You may also have noticed that my interest in DBZ have diminished. While i will always have a spot for DBZ in my heart,I still constantly seek new interets and experiences. Now that the DBZ Series is over, I feel that my interest should belong somewhere else (Sorry guys, DBGT just doesn't cut it). I will leave one last parting gift; a DBZ flash game. I don't take credit for it, but i thought you guys might like this so <a href="http://www.angelfire.com/d20/crono/dbz.swf">Here it is</a>. My flash programming will continue, and i may update again someday, who knows? Until then, this is tongzouca2 signing off for the (hopefully not) last time.</td> 
+<td>Mar.25,2004 by tongzouca2</td></tr> 
+<tr><td>I now have March Break to cope with my busy schedule so hopefully updates will be coming soon :). My Soul Calibur flash game is also coming along very well, you can view it at its current state <a href="http://www.angelfire.com/d20/crono/SC.swf">Here</a>. its still uncompleted and right now i just have the menu but i need feedback.
+</td><td>Mar.15,2004 by tongzouca2</td></tr> 
+<tr><td>Banpresto has opened up a small minisite for their upcoming Dragonball Z game: &quot;Bukutogeki&quot;, for the Gameboy Advance. The entire website for is written in Japanese and entirely image-based (thus: no translation).You still can access the screens <a href="http://www.hotline-web.com/dbz2/character.html" target=_blank>by clicking here</a>.<br><br>There also a &quot;DBZ: Super Sonic Warriors&quot; heading our way. For the first time on the Gameboy Advance, DBZ fighting action can unfold in the air as players can fly at will. &quot;Super Sonic Warriors&quot; features the most skilled heroes and villains, including Son Goku, Vegeta, Cell, Freeza and Buu. Engage in massive tag team battles, and experience the DBZ story in an all-new way, complete with alternate endings. The fighting is fast and fierce, and the flight mode gives players a nice way to date to experience the intensity of Dragonball Z.<br><br>(source: <a href="http://www.cube-europe.com/news.php?nid=6240)" target=_blank>Cube-Europe</a>)</font><br><br>
+<td>Feb.27,2004 by tongzouca2</td></tr>
+<tr><td>Happy Valentines day all! Sorry I haven't been updating the site much but as you know busy guys have busy things to do. I am currently working on a Flash MX game as well as coping with my homework. Also I kno it is the second anniversary of the site as well. I thank everyone who tried helping me out. So hang on guys, the site will be progressing more soon.</td>
+<td>Feb.14,2004 by tongzouca2</td></tr> 
+<tr><td>A little dbz gaming news:<br><br><i>The Magicbox is reporting that Atari will be releasing Dragonball Z: Super Sonic, a new RPG, on the Gameboy Advance in late June. They are also reporting that Budokai II may see its Gamecube port around August, however this is unconfirmed at this time. <br><br>For those across the ocean in Eurpoe, Gamespot is reporting that Atari will be releasing DBZ: Taiketsu next month. </i> <br>(Source:<a href="http://www.dbzsc.com" target=_blank>DBZSC</a>)<br><br></td>
+<td>Jan.22,2004 by tongzouca2</td></tr>
+<tr><td>Happy New Year! my first resolution of 2004 will be to update more and to stop being lazy. i know thats hard but if you guys encourage me via email, etc. then i will grant your wishes. I am still holding on after all these hockey injuries so go easy on me!</td>
+<td>Jan.1,2004 by tongzouca2</td></tr>
+<tr><td>Merry CHristmas and happy Chanukah to everyone! i hope you got what you wanted i know i did. As a special gift to you i am posting more FAQs and updated the site again. have a safe holiday. </td>
+<td>Dec.25,2003 by tongzouca2</td></tr>
+<tr><td>Wow! Dragonball Z Budokai 2 looks amazing =). You can fuse, fight kid buu and the graphics even look more cartoonish! check <a href="http://news.gaminghorizon.com/media/1070587957.html">here</a> for more info. </td>
+<td>Dec.10,2003 by tongzouca2</td></tr>
+<tr><td>Sorry about the slow updates! After months of psychiatric treatment i find that i am still addicted to Soul Calibur 2. I will someday get off my lazy ass and update so you shouldnt worry.</td>
+<td>Nov.21,2003 by tongzouca2</td></tr>
+<tr><td>With DBGT on the horizon, everyone should be excited today. unfortunately, i have to work on the days that DBGT is on :-( </td>
+<td>Nov.12,2003 by tongzouca2</td></tr>
+<tr><td>Happy Halloween everyone! Remember to check your candy for any dangerous substances! sadly i will be handing out candy but thats just me lol! </td>
+<td>Oct.31,2003 by tongzouca2</td></tr>
+<tr><td>You may have noticed that I have been updating two times a month regulary...well it's going to stay that way from now on. I've been busy taking injuries in football, cutting myself at work and designing posters for school. Anyways...check out the new poll! be sure to vote on it!</td>
+<td>Oct.5,2003 by tongzouca2</td></tr>
+<tr><Td>First off, we now have covers for both GT Calculations and GT Revelations, thanks to <a href="http://www.rightstuf.com" target=_blank>Rightstuf.com</a>. Both DVD/VHS&#39;s will be released on Dec 30. <br><br><img src="http://www.dbzgtlegacy.com/123cgi/uploads/gt calculations.jpg"> <img src="http://www.dbzgtlegacy.com/123cgi/uploads/gt revelations.jpg"><br><br>Next, new Z Store products. YYH DVD #17, Sword & Dragon, is available as of today. Also, JAKKS action figures series 27 is out, which includes Kid Buu, Ubuu, grownup Trunks, adult Goku, and Vegeta in leather jacket. Click <a href="http://www.zstore.com/Search.bok?category=DragonballZ:Figures:Series+27" target=_blank>here</a> for more. If Labs series 5 is also to be reeased in November, and it incudes Brolly, USSJ Trunks in a muscle shirt, and USSJ Goku. Click <a href="http://www.zstore.com/Search.bok?category=DragonballZ:Figures:IF+Labs:Series+5" target=_blank>here</a> for more on that as well.</td>
+<td>Sept.23,2003 by tongzouca2</td></tr>
+<tr><td>Well, school's just started so i'm now crammed with homework. In addition i also have to work and practice with football so i won't be updating it much. Anyways, lets get on with the news:<br><br>
+Recently, IGN got hands-on with Gamecube&#39;s upcoming Dragonball Z Budokai. It has several changed features, in case you haven&#39;t heard. Although, the main difference is in the graphics. Budokai for the GC will be Cel Shaded. w00t&#33; To find out about the full features of the game (or what has been revealed so far, at least), or just take a look at the perty screenies, click <a href="http://cube.ign.com/articles/435/435606p1.html" target=_blank>here</a> That&#39;s all for now. LaTeR.&gt;.&gt;.</font><br><br></td>
+<td>Sept.5,2003 by tongzouca2</td></tr>
+<tr><td><br><br><a href="http://www.dbzgtlegacy.com/showpic.shtml?http://www.dbzgtlegacy.com/123cgi/uploads/budokai2.jpg" target=_blank>BUDOKAI 2 COVER</a><br>(Source:<a href="http://www.dbzsc.com" target=_blank>DBZSC</a>)<br><br>Another nice cover, hopefully the game will be awesome too.<br><br>There&#39;s been a lot of confusing crap going on about that certain September 29th lineup...(I think you know which one)...<br>But in the September issue of TV Guide&#39;s Channel Guide, it has THIS for the Toonami lieup starting Sept. 29:<br><br><i>5:00 - SD Gundam</i><br><i>5:30 - Dragonball Z</i><br><i>6:00 - Cyborg 009</i><br><i>6:30 - DB</i><br><br>Hey, wait a minute&#33; No Jack, no He-Man, no Hot Wheels or Transformers? I know, I know...this is cool and awesome and all, but TV Guide has been known to get things wrong before. So I guess we&#39;ll never really know until that fateful day comes.<br><br></td>
+<td>Aug.18,2003 by tongzouca2</td></tr>
+<tr><td>First off, new episodes of Dragonball will air on Toonami beginning September 1st (6:30 ET). I assume they will run from piccolo damiaoh until the end of Dragonball.<br><br>
+And finally, after nearly a year of speculation, Cartoon Network has confirmed that Dragonball GT, the sequel to the immensely popular series Dragoonball Z, will be joining the network beginning this fall. Dragonball GT from FUNimation Productions, Ltd. will air Fridays at 6:30 p.m. (ET, PT), beginning October 3 as part of the Toonami action programming block.</i><br>(Source: <a href="http://www.animationinsider.net" target=_blank>Animation Insider</a>)<br><br>Well this is a HUGE surprise, previously we had thought no GT on CN until Fall 2004... well its a good decision by CN, by Fall 2004 most people wouldn&#39;t even care about DBZGT anymore.<br><br>Also,Throughout September, several different DBZ movies will air on Toonami at 6:00 each Friday.<br><br>September 5: Bardock: The Father of Goku <br>September 12: The History of Trunks <br>September 19: Cooler&#39;s Revenge <br>September 26: The Return of Cooler <br>(Source: <a href="http://www.toonamiinfolink.com" target=_blank>Toonami Infolink</a>)</td>
+<td>Aug.08,2003 by tongzouca2</td></tr>
+<tr><td>YYH for GBA: 22 action packed levels - over 30 hours of gameplay. Six playable characters, including Yusuke, Kuwabara, Kurama, Hiei, Botan and Kayko. All the best attack moves and weapons from the TV show brought to life. Every enemy from the animated series, plus all-new enemies to defeat.</i><br>(Source: <a href="http://www.zstore.com" target=_blank>ZStore</a>)<br><br>Well this is certainly big news. Hopefully this game will be as good as the description implies. And it&#39;s made by.. you guessed it.. Atari<br>The release date is December 2003.</td>
+<td>Jul.18,2003 by tongzouca2</td></tr>
+<tr><td>New movie releases:<br><br>I can't tell you guys where I got this, but here are the speculated DBZ movie release dates:<br><br>"Bojack: Supreme Evil" -- Feb. '04<br>"Broly's Return" -- Aug. '04<br>"The Bio Warrior" -- Feb. '05<br>"Rise of Janemba" -- Aug. '05<br>"The Legend of Tapion" -- Feb. '06<br><br>I know, this is exciting!!! Please email me, if you have any questions or comments.</td>
+<td>JUl.10,2003 by tongzouca2</td></tr>
+<tr><td>New DBZ GAmes:<br><br>As many of you already know, Legacy of Goku 2 is out for the GameBoy Advance. I'll be posting a review for this game as soon as I can get my hands on it. Also, DBZ Budokai is scheduled to hit the GameCube this October, and Budokai 2 to be released this december. If you haven't already seen the trailer, <a href="http://www.dragonballz.com/e3/e3big.wmv" target="new">here</a> is a link to it via DBZonPS2.com. Another game is scheduled to hit the GBA this November called Dragonball Z - Taiketsu. I'll have more info on those for you soon. I'll try to also get the legacy of Goku 2 rom for those of u who want it. Ta for now!<br><br></td>
+<td>Jun.29,2003 by tongzouca2</td></tr>
+<tr><td>Legacy of Goku 2:<br><br>The dragonball gameboy advance game is slated for a June release and it will span from the Trunks Saga all the way to the Cell Saga. You will be able to play as such characters as Goku, Vegeta, Trunks, Piccolo, and Gohan. If you liked the first one, you will probably like this one. If you didn't like the first one, well....atleast rent it. You can go <a href="http://www.gamespot.com/gba/rpg/legacyofgoku2/news_6024987.html">here</a> for a longer version of what I just typed as well as a few screen shoots. You can run but you can't GLIDE!!</td>
+<td>Jun.13,2003 by tongzouca2</td></tr>
+<tr><td>Sorry guys,exams are coming and I don't have much time on my hands. Anyways... The new DBZ Ultimate Battle for PS came out, and apparently most of the text is japanese. I wouldn't really buy it unless you know japanese and/or you are a hardcore DBZ fan. That's the news for now, Kudos!<br><br>P.S: it's my birthday today so please send me some emails!</td>
+<td>May 23,2003</td></tr>
+<tr><td><br><br>FUNimation has gave me some new info on DBGT for all you hardcore fans:<br><br><i>All of the episodes of Dragon Ball GT will be available to our fans (uncut), in both dubbed and subbed versions. <br> <br>The release on April 15th will begin right before the Baby Saga. <br> <br>The original Japanese opening (the "Dan Dan" song), commercial bumpers, ending and next episode preview are included on every episode (subbed).</i><br><br>Yes they did skip the first 15 episodes but they have confirmed they will release those skipped episodes.  They also mentioned they have a SSJ4 Goku shirt for anyone that purchases the first four DVDs I am assuming through the ZStore.  So there ya go... that is what is on the horizon for Dragonball GT.  Still no TV date.<br></font>
+</td>
+<td>MAy 13,2003 by tongzouca2</td></tr>
+<tr><td>DBZ Budokai: This highly accalimed PS2 game has finnally came out and it has attracted the attention of most DBZ gamers, it will span from the Saiyan Saga all the way to the Cell Saga. You will be able to play characters like Goku, Vegeta, the Androids, Cell, Frieza, the Ginyu force and even Hercule!. If you liked Hyper dimension, you will probably like this one because the game is based on different episodes of the show! The graphics are amazing and rival Tekken and Mortal combat. You can go <a href="http://www.gamespot.com/ps2/action/dragonballzbudokai/readers.html">here</a> for some better reviews.</font></td>
+<td>Apr.26,2003 by tongzouca2</td></tr>
+<tr><td><br><br>I received an email from FUNimation themselves that gave me some new info on DBGT for all you hardcore fans:<br><br><i>All of the episodes of Dragon Ball GT will be available to our fans (uncut), in both dubbed and subbed versions. <br> <br>The release on April 15th will begin right before the Bebi Saga. <br> <br>The original Japanese opening (the "Dan Dan" song), commercial bumpers, ending and next episode preview are included on every episode (subbed).</i><br><br>Yes they did skip the first 15 episodes but they have confirmed they will release those skipped episodes.  They also mentioned they have a SSJ4 Goku shirt for anyone that purchases the first four DVDs I am assuming through the ZStore.  So there ya go... that is what is on the horizon for Dragonball GT.  Still no TV date.<br></font></td>
+<td>Apr.15,2003 by tongzouca2</td></tr>
+<tr><td>The new Funimation Newsletter is here!<br><br>
+Industry Insight:<br> Dragon Ball Z is one of the most popular anime titles in the <b>world</b> and Dragon Ball GT arrives in April. This month’s Industry Insight looks at what FUNimation is doing to help our fans celebrate the arrival of Dragon Ball GT to the United States. On April 15, Dragon Ball GT DVDs will hit the streets. FUNimation has several things going on to help fans celebrate the arrival of Dragon Ball GT, including an exclusive t-shirt offer. The specially designed t-shirt from ODM is only available inside Dragon Ball GT VHS and DVDs. Best of all, it's FREE! The t-shirts are made of durable, 100% pre-shrunk cotton and feature an exclusive SS4 Goku design. Check out other t-shirts from ODM at the Z Store and your local retailers.<br><br>Yu Yu Hakusho a "Best Bet" - Yu Yu Hakusho has been tearing up the ratings since its debut on Cartoon Network's Toonami block on March 3. TV Guide just picked Yu Yu Hakusho as a "Best Bet" so don't miss the adventures of Yusuke and his crew as they battle the forces of darkness.<br><br>Did you know that the Be a Star contest has been extended? Fan response was absolutely overwhelming, and we had so much fun reviewing your entries that we have decided to extend the contest until May 16. We have a lot of talented fans out there, and to keep things fair we will pick one winner from the video entries that were received before the first deadline (March 10) and one winner from the video entries we receive until May 16. Entries do not have to be big productions. The selection criteria for the winners include: originality, personality, best voice and accuracy. Stop by dragonballgt.com for the official rules and to view video clips from some of our entries. Enter today! Don't miss your chance to become part of Dragon Ball history!<br><br>Did you know that there are high-quality Lupin III feature films available? Absolutely, and they are available from FUNimation! No doubt you have seen episodes of our favorite international thief on Cartoon Network. Now experience Lupin in his fast-action, feature-length films from FUNimation. Stop by www.lupinthethird.com for more information. <br><br>Exclusive DBZ <br>CCG Cards! <br>Limited edition DBZ cards! **Includes special foil editions**<br>Collect all four!<br>Click for Images & Info<br><br>Next Month<br>Look for a Fast food promotion for Dragon Ball The Path to Power<br><br><a href="http://www.dragonballz.com/prime/7.htm">Full FUNimation Letter</a>.</td>
+<td>Apr.4,2003 by tongzouca2</td></tr>
+<tr><td>Sorry, been out and about recently and haven't had much time to work on the site. But, I did some last night, but decided to wait until today. So,Check out the new DBZ <a href="wallpapers.html">Wallpapers!</a>.</td>
+<td>Mar.24,2003 by tongzouca2</td.</tr>
+<tr><td>Hey, Whats everyone doing for March Break? I kno that I have loads of homework! anyways, I got some new FAQs in the <a href="FAQs.html">FAQs Section</a>. Check it out!
+<TD>Mar.7,2003 by tongzouca2</td></tr>
+<tr><td>Sorry guys, there hasn't been much going on right now though I have found a nice site about DBZ Parodies <a href="http://www.newgrounds.com/collections/dbz.html"> Right Here</a>.</td>
+<td>Feb.28,2003 by tongzouca2</td></tr>
+<tr><td>Hey again! no news right now but Its valentine's day so all you guys and gals give your sweetheart something DBZ ok? I kno I did</td>
+<td>Feb.14,2003 by tongzouca2</td></tr>
+<tr><td>New episodes begin this March 17 (Thanks SzR):<br><br>3/17 - Dragon Ball Z - "End of Earth" - 6:30 PM<br>3/18 - Dragon Ball Z - "True Saiyans Fight Alone" - 6:30 PM<br>3/19 - Dragon Ball Z - "Battle For the Universe Begins" - 6:30 PM<br>3/20 - Dragon Ball Z - "Vegeta's Respect" - 6:30 PM<br>3/21 - Dragon Ball Z - "Minute of Desperation" - 6:30 PM<br>3/24 - Dragon Ball Z - "Old Buu Emergest" - 6:30 PM<br>3/25 - Dragon Ball Z - "Earth Reborn" - 6:30 PM<br>3/26 - Dragon Ball Z - "Call to Action" - 6:30 PM<br>3/27 - Dragon Ball Z - "People of Earth Unite" - 6:30 PM<br>3/28 - Dragon Ball Z - "Spirit Bomb Triumphant" - 6:30 PM<br>3/31 - Dragon Ball Z - "Celebrations With Majin Buu" - 6:30 PM<br>4/02 - Dragon Ball Z - "He's Always Late" - 6:30 PM<br>4/03 - Dragon Ball Z - "Grandaughter Pan" - 6:30 PM<br>4/04 - Dragon Ball Z - "Buu's Re-incarnation" - 6:30 PM<br>4/07 - Dragon Ball Z - "Goku's Next Journey" - 6:30 PM<br>
+<br>Thats all the news for now, partly cause the reruns have been a little boring lol</td>
+<td>Jan.28,2003 by tongzouca2</td></tr>
+<tr><td>Well the new year starts out with a bang! <a href="music.html">DBZ Music videos</a> are now here!, and ready to be downloaded. A big thanks to DBZGTLegacy for making this possible! Thanks again! I also might be adding, or taking out some music vids over the next week or so, But check out what's there for now!</td>
+<td>Jan.5,2003 by tongzouca2</td></tr>
+<tr><td>Merry Christmas everyone! So...I hope everyone is happy with their Christmas, I know i did. I can't wait till 2003!</td>
+<td>Dc.25,2002 by tongzouca2</td></tr>
+<tr><td>Well, sorry I haven't updated much (tons of homework) but here's a new poll for y'alls to enjoy!</td>
+<td>Dec.12,2002 by tongzouca2</td></tr>
+<tr><td>Steve from KH.com sent me this<br><br><i>" ...  on December 6, in New York City, get ready for the Shonen Jump America Launch Party, an event so unbelievably awesome in its scope that there will NEVER be another one like it!!!<br><br>So why will it be soooooo cool &#8230; the original creator of Dragon Ball Z is coming over from Japan&#8230;Akira Toriyama himself!!!!! Reportedly it has been years since has left Japan. Can you possibly think of anything more cool ......<br><br>... joining in on the fun will be Score Entertainment (the Hummer will be there!), Infogrames &#8211; the makers of the ... upcoming DBZ Budokai, Irwin Toys, the makers of the cool line of DBZ action figures,  Viz Communications who produces Shonen Jump and Shueisha the parent company for all things DBZ, as well as our friends at FUNimation Studios!<br><br>"... Score Entertainment needs your help! We are looking for 60 die-hard fans to help us out with this event by volunteering and becoming a sort of Saiyan for the Day. Besides getting to go to THE Dragon Ball Z event of the century, you will also earn a CCPP II and more. This is a once in a lifetime opportunity, and it will be on a first come, first serve basis."</i><br><br>This is the MUST ATTEND event for DBZ of all time!!!  If you live in NYC, you better not miss this!  Head to www.scoreonline.net or www.dbzcardgame.com for more information.</td>
+<td>Nov.23,2002 by tongzouca2</td></tr>
+<tr><td>Well I hope you liked the Buu saga, because you get to watch it all over again for the rest of the year.  I checked Cartoon Network and reruns will air til at least January 3rd, which will be the Meet Vegito episode.  Don't lose sleep over it, they will air the end of DBZ in the Spring.</td>
+<td>Nov.14,2002 by tongzouca2</td></tr>
+<tr><td>In other news, besides me losing friends over GTA3, happy halloween to all and make it safe, so I can disrupt it and steal candy. Cyas.</td>
+<td>Oct.31,2002 by tongzouca2</td></tr>
+<tr><td>Sorry guys(and girls!), The news is slow this month. But I promise to have a worthwhile update in the next few weeks, OK?</td>
+<td>Oct.20,2002 by tongzouca2</td></tr>
+<tr><td>Some small updates here. <a href="http://www.dbzstore.com">The Z Store</a> now has the first Kirby (which I only watch for the impersonation of Paul Lynde in it) DVD and video up to pre-order. More importantly, they have the <a href="http://www.zstore.com/Detail.bok?no=1328">DBZ GBC Game</a> available to pre-order which is becoming available in November and is at the price of $30.00. Game goes through the Cell and Buu sagas apparently and looks more promising than Legacy of Goku. <a href="http://www.dragonballtoys.com">Dragon  Ball Toys</a> also has the new line of Striking Z Fighters up as well.<br><br>If you watch FOX (which we all know you do because of their blockbuster programming which really shows what a station can accomplish), you may be familiar with their TV show "30 Seconds to Fame" (most likely airs between something like "When Babies go Wrong IV" and "Hidden Cameras in an Unusual Area"). The point of me mentioing this show is that Mike McFarland's comedy troupe (Section 8 Comedy which also has Josh Martin and Chris Rager as members) will most likely be performing on the show, so keep you eyes open for them.<br><br>Lastly, Sam from <a href="http://www.saiyanz-rage.net">SzR</a> has sent me info that in the next Shonen Jump Newsletter a 6-page interview with Akira Toriyama will occur where we will get some light shed on us regarding some various topics...such as a new Dragon Ball manga.<br><br>That's the news, and I am Tongzouca2.</td>
+<td>Oct.8,2002 by tongzouca2</td></tr>
+<tr><td>Nice week off, since I got lots of homework and lots of tests overwith. But now, I'm back and with a slight bit of news. In an ad in Japan, there was a talk of Dragon Ball coming back. Back to be re-printed that is. You all know of how Dragon Ball was supposed to be re-printed, along with some other great manga's, and will start soon. So, if you hear any speculation on that Dragon Ball is coming back, it is ONLY BEING RE-PRINTED. I speak for all the staff members here when I say, I DO NOT WANT E-MAILS ASKING IF THERE IS NEW DRAGON BALL, because the fact is, it is only being re-printed! After saying that about three to four times, you should get it now. Cyas.</td>
+<td>Sept.28,2002 BY TONGZOUCA2</TD></TR>
+<tr><td>Sorry guys! I haven't updated in a while because of school and stuff but...anyways I have over 20 of those DBZ character-quote things that randomly appear on the top of this webpage, check it out!</td>
+<td>Sept.14,2002 by tongzouca2</td></tr>
+<tr><td>OK, ladies and gentlemen I finally have tracked down the rom of Legacy of Goku! and the DBZ Card Game(in the <a href="Roms.html">DBZ Roms</a> section)!
+be sure to check it out!</td>
+<td>Aug.30,2002 by tongzouca2</td></tr>
+<tr><td>OK heres the latest gossip kiddies!<a href="http://www.dragonballz.com">The Official Site</a> has updated their Saga and Character Guides to reflect the following information. The characters "Bee", "Pan" and "Uub" have been added to the Character section and the episode titles to the Kid Buu Saga are as follows:    <br>261. Evil Kid Buu!  <br>262. End of Earth  <br>263. True Saiyans Fight Alone  <br>264. Battle for the Universe Begins  <br>265. Vegeta's Respect  <br>266. Minute of Desperation  <br>267. Old Buu Emerges  <br>268. Earth Reborn  <br>269. Call to Action  <br>270. People of Earth Unite  <br>271. Spirit Bomb Triumphant  <br>272. Celebrations with Majin Buu  <br>273. He's Always Late  <br>274. Granddaughter Pan  <br>275. Buu's Reincarnation  <br>276 Goku's Next Journey  <br><br>For further descriptions of the episodes go to the site itself.<br> <br>Episodes: 261-276<br></td>
+<td>Aug.24,2002 by tongzouca2</td></tr>
+<tr><td>I made a new banner!(yay!) email me if you like it! Anyways...
+Sam from <a href="http://www.saiyanz-rage.net">SzR</a> sent this in:<br><br><i>I have contacted Toonami/Cartoon Network Reps. about DBGT and new DBZ episodes.  This is what they had to say.<br><br>"Hi Sam, <br>I think that there might have been a misunderstanding.  Dragonball GT will not be airing on Cartoon Network in September 2002.  However,  the new Dragon Ball Z episodes will begin September 16, 2002."<br><br>So DBGT is definetly not airing on Cartoon Network this year. That is the official word from Cartoon Network. And Season 6 of DBZ, New episodes will start September 16, 2002.</i><br><br>I think this should put all rumors of GT in 2002 to rest, and I assume this means they will come out in September 2003 like I have been hearing for over a year.</td>
+<td>Aug.8,2002 by tongzouca2</td></tr>
+<tr><td>After various pokes with a stick, I am alive. And I have brought a <a href="manga.html">Manga section</a> for all you peeps who dont kno what a manga is
+With that said, good bye till next update, which I have no idea when that will occur lol.</td>
+<td>Jul.20,2002 by tongzouca2</td></tr>
+<tr><td>Sorry guys. I have been dead the last past weeks again. But good news! I have got a <a href="db.html">dragonball section</a> for peeps who want to get more info on them! I'm also hoping to get the FanArt Section back up and more FanFics will be coming ur way! 
+Well ta-ta for now!</td>
+<td>Jul.12,2002 by tongzouca2</td></tr>
+<tr><td>DBZ Legacy of Goku news:<br><br>
+Thanks to you DBZ fans, video game sales results for May 2002 showed that Dragon Ball Z® Legacy of Goku was far and away the #1 title for Game Boy® Advance (GBA) during the period, according to NPDFunworld TRSTS Video Games Services. Not only was Dragon Ball Z® Legacy of Goku #1 but it crushed the nearest competitors. The explosive performance of Dragon Ball Z® Legacy of Goku also catapulted the game to the #2 slot among the Top 100 Selling Video Games for May 2002, and the #28 slot for the year to date, according to NPDFunworld. When combined with the strong sales of Infogrames’ Dragon Ball Z®: Collectible Card Game, which debuted in late May, the Dragon Ball Z® franchise earned Infogrames the #1 rank among all GBA publishers for May 2002.</i><br><br>Now I don't really have that good of an opinion on this game, but I guess it is good news that the DBZ game is the top seller.
+</td><td>Jun.25,2002 by tongzouca2</td></tr>
+<tr><td>Updated the poll again and the chat room seems to be constantly down...Im workin on it so dont give up guys! this is tongzouca2 once again signing off!</td>
+<td>Jun.15,2002 by tongzouca2</td></tr>
+<tr><td>-Thanks goes out to Gofish for sending me this <a href="http://www.infogrames.co.uk/site/site_show_product.php?productID=23">link</a>. 
+
+<br>-The site gives you a release date of November 30,2002 and some basic info on the game as well as some (small) screenshots. Here is what the site posted about Dragon Ball Z: Legendary Super Warriors Combines action with dramatic story lines. 
+<br>-Acquire new skills in the story mode and customise them for use in the battle mode. 
+
+<br>-Fight with or against your favourite Dragon Ball Z characters &#8211; choose from 23 different characters. 
+
+<br>-Buy new skills with your tournament prize money, or exchange skills with your friends. 
+
+<br>-Full of animation based on the TV series. <br><br>Detailed character art makes the most of PS2 graphic capacity.
+
+<br>- Features: <br><li>Story mode: Collect skills while playing the Dragon <li>Ball Z story <br><li>Battle mode: Allows you to fight with custom-edited <li>characters <br><li>Practice mode: Perfect key attack combinations in preparation for battle <br><li>Skill Edit mode: Edit or exchange acquired skills <br><li>Tenkaichi Budokai mode: You must win gold medal at the tournament to access this mode PLUS an extra hidden mode that the player must unlock</li>
+</ul>
+-Games looks kind of promising for it's number of different modes, only time will tell how it does though. Hopefully it will be better than Legacy of Goku which works very well as a coaster.
+</td>
+<td>Jun.7,2002 by tongzouca2</td></tr>
+<tr><td>Hey everyone, its my birthday today!! The new poll is now up and running! Thanx for voting everyone! we really appreciate it! 'nuff said fer now!</td>
+<td>May.23,2002 by tongzouca2</td></tr>
+<tr><td>haven't updated in a while...Anyways, i desperately need staff members so if you know HTML,ASP,CGI,PHP,etc. or you want to manage a specific section of my site and you want to be on my site, <a href="mailto:Tong_Zou@hotmail.com">Email Me!</a>.
+I'll give you full credit, and put up a unique page on you in the "Contacts" section!</td>
+<td>May.5,2002 by tongzouca2</td></tr>
+<tr><td>Now I've got a third website! I'm on a roll...you can visit it at <a href="http://www.angelfire.com/d20/crono">www.angelfire.com/d20/crono</a>!</td>
+<td>Apr.15,2002 by tongzouca2</td></tr>
+<tr><td>Wow, tell me what you think of my site! It now has over 200 HTML documents! I also organized it a lot!</td>
+<td>Apr.1,2002 by tongzouca2</td></tr>
+<tr><td>Hey,great design eh? Email me if you like it! I put the pages on pop-ups so you never even have to leave this page! DragonBall Z Fantasy Rules!</td>
+<td>Mar.24,2002 by tongzouca2</td></tr>
+<tr><td>Well, 100 HTML documents later... my site looks exactly as I wanted it. I won't be updating it a lot anymore... but I still will once in a while!</td>
+<td>Mar.15,2002 by tongzouca2</td></tr>
+<tr><td>Hey, Guess what, I've got a second website! That's right, you can visit it at <a href="http://www.angelfire.com/d20/liero">www.angelfire.com/d20/liero</a>!</td>
+<td>Mar.8,2002 bt tongzouca2</td></tr>
+<tr><td>Well..I've been busy so I don't update it much anymore.I put the links on one seperate page so that it won't take too long to load(still takes like 20 min. to load but better than an hour).Feel Free to post something or sign up on my forum!</td>
+<td>Mar.2,2002 by tongzouca2</td></tr>
+
+<tr><td>Well, let's see...I've got Javascript,CGI,PHP,DHTML,SHTML,and Java!
+
+Er...Anyone know ASP or XML?</td>
+
+<td>Feb.23,2002 by tongzouca2</td></tr>
+
+<tr><td>Hey did you like my Java applets and DHTML? Email me if you want me to put more!I also put some gif icons!</td>
+
+<td>Feb.17,2002 by tongzouca2</td></tr>
+
+<tr><td>I just added some new songs in and a section for my friends & online games,email me if you like my site!(or post it on my forum!).</td>
+
+<td>Feb.15,2002 by tongzouca2</td></tr>
+
+<tr><td>I just added some PHP&CGI to make my page look more vast.I also added some songs in!Be sure to post something on my forum!(I'm beginning to think I'm the only one to appreciate my site!)</td>
+
+<td>Feb.12,2002 by tongzouca2</td></tr>
+
+<tr><td>How do you like the new design? Pretty sweet eh?I added a quick guide for those of you who want a short summary of all the main characters.</td>
+
+<td>Feb.10,2002 by tongzouca2</td></tr>
+
+<tr><td><font pt="8" face="lucida sans" size="2"></font><font size=4 color=yellow>I just updated my site a few days ago...added some more bios,some songs&downloads,and some javascript to spruce up my page.Also I desperately need email...Fine,if you don't want to email me that badly,you can at least post something on my<a href="http://pub59.ezboard.com/btongzousdbzdomain">DBZ Forum</a></font></td>
+
+<td>Feb.8,2002 by tongzouca2</td></tr>
+
+</font></table></p>
+
+</body>
+
+</html>

@@ -1,0 +1,173 @@
+html, body {
+	min-width: 700px;
+	height: 100%;
+  	font-family: Verdana, sans-serif, Arial;
+	background-color: black;
+	color: white;
+}
+
+#pagebox {
+	width: 700px;
+	/**border: 1px solid white;**/ 
+	margin: 0 auto;
+}
+
+/** BANNER STYLES **/
+#topbanner {
+	width: 700px;
+	height: 136px;
+	background: url(images/banner.jpg);
+	/**padding-top: 1em;
+	padding-left: 1em;*/
+}
+
+/** TOP NAVIGATION STYLES **/
+#top_nav {
+	margin-left: 13.5em;
+	/** margin-top: 1.2em; */
+	padding-right: 2em;
+}
+
+#top_nav hr{
+	background-color: yellow;
+	color: yellow;
+}
+.topnavoption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.topnavoption:hover {
+	color: yellow;
+	font-weight: bold;
+}
+
+/** LEFT SIDE BAR STYLES **/
+#sidenav {
+	width: 15%;
+	/*border: 1px solid black;*/
+	padding: 0.7em;
+	float: left;	/*border-right: 1px solid black;*/
+	margin-top: 0.5em;
+}
+
+#sidenav a {
+	text-decoration: none;
+	color: white;
+}
+
+.sidenav_line {
+	background-color: yellow;
+	color: yellow;
+}
+
+/** SIDE BAR LINKS STYLES **/
+.navoption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.navoption:hover {
+	color: yellow;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+/** EVENTS SUB CHOICE STYLES **/
+#sub_events {
+	font-size: 10px;
+	text-align: right;
+}
+
+#sub_events li {
+	list-style: none;
+}
+
+.subevent:hover {
+	color: yellow;
+	font-weight: bold;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+/** RIGHT NAV BAR STYLES **/
+#rightnav {
+	width: 15%;
+	float: right;
+	margin-left: 0.5em;
+	margin-top: 0.5em;
+	padding-top: 0.5em;
+	/**padding-left: 0.5em;*/
+	padding-right: 0.5em;
+	font-size:9px;
+}
+
+.sponsor {
+	cursor: pointer;
+}
+
+/** MAIN PAGE CONTENTS **/
+#pagecontent {
+	width: 60%;
+	min-height: 500px;
+	/*border: 1px solid white;*/
+	float: left;
+	margin-top: 0.5em;
+	margin-right: 0.5em;
+	padding-top: 1em;
+	padding-left: 1em;
+	font-size:12px;
+	line-height: 140%;
+}
+
+.pagetitle {
+	font-size: 9px;
+	text-decoration:underline;
+}
+
+.content {
+	padding:0 10px 0 0;
+	background:#000000 url(images/borders.png) 100% 0 repeat-y;
+}
+.ci {
+	padding:0 0 0 12px;
+	background:#000000 url(images/borders.png) 0 0 repeat-y;
+}
+.ct {
+	height:17px;
+	margin:0 -12px;
+	background:url(images/box.png) 100% 0 no-repeat;
+}
+.ct div {
+	width:18px;
+	height:17px;
+	background:url(images/box.png) 0 0 no-repeat;
+}
+.cb {
+	height:17px;
+	margin:0 -12px;
+	background:url(images/box.png) 100% 100% no-repeat;
+}
+.cb div {
+	width:18px;
+	height:17px;
+	background:url(images/box.png) 0 100% no-repeat;
+}
+/** BOTTOM BAR STYLES **/
+#bottombar {
+	height: 50px;
+	width: 100%;
+	/**background: url(images/bottombg.png);*/
+}
+
+.bottomtext {
+	margin-left: 1em;
+	font-size:10px;
+}
+
+.centertext {
+	margin-left: 7em;
+	font-size: 9px;
+}

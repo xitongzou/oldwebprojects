@@ -1,0 +1,796 @@
+<html>
+<head>
+<title>DragonBall Z Fantasy</title>
+<META name="Description" content="Lots of DragonBallZ stuff for DBZ freaks!">
+<META name="Keywords" content="DBZ,DragonBallZ,Tong,DragonBall,DragonBallGT,
+saiyans,supersaiyans,Goku,Gohan,Vegeta,Piccolo,Trunks,Tong Zou,DB,DBGT,SSJ,SSJ2,SSJ3,SSJ4,Roms,Emulators">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 2000">
+<SCRIPT LANGUAGE = "JavaScript">
+
+function changePage()
+
+{
+
+   var f = document.forms.navigation;
+
+
+
+   var uri = f.pages.options[f.pages.selectedIndex].value;
+
+   newPage =
+
+// These settings describe the pop-up browser
+
+// window - you can edit them.
+
+window.open(uri,"NewPage","height=480,width=640,location=no,scrollbars=yes,menubar=no,toolbar=no,resizable=yes,status=yes");
+
+   }
+
+</SCRIPT>
+<SCRIPT LANGUAGE = "JavaScript">
+
+<!--
+
+
+
+// Array of day names
+
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+
+
+
+var monthNames = new Array("January","February","March","April","May","June","July",
+
+                           "August","September","October","November","December");
+
+
+
+var dt = new Date();
+
+var y  = dt.getYear();
+
+
+
+// Y2K compliant
+
+if (y < 1000) y +=1900;
+
+
+
+document.write(dayNames[dt.getDay()] + ", " + monthNames[dt.getMonth()] + " " + dt.getDate() + ", " + y);
+
+// -->
+
+</SCRIPT>
+
+<script language="JavaScript">
+
+<!--
+
+
+
+// You may edit the message below.
+
+var startMsg = "DragonBall Z Fantasy!";
+
+
+
+var str     = "";
+
+var msg     = "";
+
+var leftMsg = "";
+
+
+
+
+
+function setMessage()
+
+{
+
+    if (msg == "")
+
+    {
+
+        str = " ";
+
+        msg = startMsg;
+
+        leftMsg = "";
+
+    }
+
+
+
+    if (str.length == 1)
+
+    {
+
+        while (msg.substring(0, 1) == " ")
+
+        {
+
+            leftMsg = leftMsg + str;
+
+            str = msg.substring(0, 1);
+
+            msg = msg.substring(1, msg.length);
+
+        }
+
+
+
+        leftMsg = leftMsg + str;
+
+        str = msg.substring(0, 1);
+
+        msg = msg.substring(1, msg.length);
+
+
+
+        for (var ii = 0; ii < 120; ii++)
+
+        {
+
+           str = " " + str;
+
+        }
+
+    }
+
+    else
+
+        str = str.substring(10, str.length);
+
+
+
+    window.status = leftMsg + str;
+
+// This editable value (1000 = 1 second) 
+
+// corresponds to the speed of the shooting
+
+// message.
+
+    timeout = window.setTimeout('setMessage()',100);
+
+
+
+}
+
+// -->
+
+</script>
+
+<script language="JavaScript">
+
+
+
+<!--
+
+
+
+function createHexArray(n)
+
+{
+
+   this.length=n;
+
+   for (var i=1; i<=n; i++)
+
+      this[i]=i-1;
+
+
+
+   this[11]="A";
+
+   this[12]="B";
+
+   this[13]="C";
+
+   this[14]="D";
+
+   this[15]="E";
+
+   this[16]="F";
+
+
+
+   return this;
+
+}
+
+
+
+
+
+hx = new createHexArray(16);
+
+
+
+
+
+function convertToHex(x)
+
+{
+
+   var high=x/16;
+
+   var s=high+"";
+
+   s=s.substring(0,2);
+
+   high=parseInt(s,10);
+
+   var left=hx[high+1];
+
+   var low=x-high*16;
+
+   s=low+"";
+
+   s=s.substring(0,2);
+
+   low=parseInt(s,10);
+
+   var right=hx[low+1];
+
+   var string=left+""+right;
+
+   return string;
+
+}
+
+
+
+function makeRainbow(text)
+
+{
+
+   text=text.substring(3,text.length-4);
+
+   color_d1=255;
+
+   mul=color_d1/text.length;
+
+   for(i=0;i < text.length;i++)
+
+   {
+
+      color_d1=255*Math.sin(i/(text.length/3)); "255*Math.sin(i/(text.length/3))"
+
+      color_h1=convertToHex(color_d1);
+
+      color_d2=mul*i;
+
+      color_h2=convertToHex(color_d2);
+
+      document.write("<FONT COLOR=\"#FF"+color_h1+color_h2+"\">"+text.substring(i,i+1)+"</FONT>");
+
+   }
+
+}
+
+//-->
+
+</SCRIPT>
+<script language="JavaScript1.2">
+
+/*
+Highlight Table Cells Script- 
+Last updated: 99/01/21
+© Dynamic Drive (www.dynamicdrive.com)
+For full source code, installation instructions,
+100's more DHTML scripts, and Terms Of
+Use, visit dynamicdrive.com
+*/
+
+function changeto(highlightcolor){
+source=event.srcElement
+if (source.tagName=="TR"||source.tagName=="TABLE")
+return
+while(source.tagName!="TD")
+source=source.parentElement
+if (source.style.backgroundColor!=highlightcolor&&source.id!="ignore")
+source.style.backgroundColor=highlightcolor
+}
+
+function changeback(originalcolor){
+if (event.fromElement.contains(event.toElement)||source.contains(event.toElement)||source.id=="ignore")
+return
+if (event.toElement!=source)
+source.style.backgroundColor=originalcolor
+}
+</script>
+</head>
+<body background="star.gif" text="white" link="yellow" alink="red" vlink="cyan">
+<div align="center"> 
+<!--#include virtual="/cgi-bin/script_library/random_content?directory=random&member_name=d20/tong"-->
+<BR>
+<img src="homepage.gif"><BR>
+<img src="mainpic.jpg" width=750 height=200><BR>
+  <table width="622" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td id="ignore" height="1193"> 
+        <div align="center"> 
+          <table width="483" border="0" cellspacing="0" cellpadding="0">
+            <tr> 
+              <td id="ignore" colspan="3" height="133"> 
+                <div align="center">
+<p><br>
+
+<APPLET CODEBASE="classes/" CODE="RunningRainbow.class " width=90% height=15>
+
+<param name="delay" value="100">
+
+<param name="shift" value="2">
+
+<param name="direction" value="right">
+
+<param name="method" value="gaussian">
+
+<param name="ss" value="0.1">
+
+<param name="ar" value="0.">
+
+<param name="ag" value="0.33">
+
+<param name="ab" value="0.66">
+
+<param name="ar1" value="1.">
+
+</applet>
+</div>
+              </td>
+            </tr>
+            <tr valign="top"> 
+              <td id="ignore" width="156" height="770"> 
+                <div align="center"> 
+                 <table onMouseOver="changeto('#999999')" onMouseOut="changeback('#333333')" border="0" cellspacing="1" cellpadding="0" bordercolor="#000033" width="100%">
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" width="246"> 
+                        <div align="center"><font face="BankGothic Md BT" size="4" color="#FFFFFF">
+<tr bgcolor="#000033"> 
+                      <td  id="ignore" width="246"> 
+                        <div align="center"><font face="BankGothic Md BT" size="4">.:<SCRIPT><!--
+
+// You may edit the message below.
+
+   {makeRainbow("<< DragonBall Z Fantasy  >>");} //-->
+
+</SCRIPT>:.</font></div>
+                      </td>
+                    </tr>
+                    <tr bgcolor="#333333"> 
+                      <td width="246"><font size="1" face="Verdana">&raquo;<a href="DBZ.html" target="new">Home</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="News.html" target="new">News</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Contact.html" target="new">Contact</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Site.html" target="new">Site FAQ</a></font></td>
+                    </tr>
+                     <tr bgcolor="#333333"> 
+                      <td width="246"><font size="1" face="Verdana">&raquo;<a href="Chat.html" target="new">Chat Room</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font face="Verdana" size="1">&raquo;<a href="http://pub59.ezboard.com/btongzousdbzdomain"  target="new">Message Board</a></font></td>
+                    </tr>
+                     <tr bgcolor="#333333"> 
+                      <td width="246"><font size="1" face="Verdana">&raquo;<a href="Links.html" target="new">Links</a></font></td>
+                    </tr>
+<tr bgcolor="#000033"> 
+                      <td  id="ignore" width="246"> 
+                        <div align="center"><font face="BankGothic Md BT" size="4">
+                   <img src="info.gif"></font></div>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Biographies.html" target="new">Biographies</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="En.html" target="new">Encyclopedia</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Guides.html" target="new">Guides</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Power.html" target="new">Power 
+                        Levels</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Family.html" target="new">Family 
+                        Tree</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Final.html" target="new">Final Battle</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Misc.html" target="new">Miscellaneous</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Sum.html" target="new">Summaries</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Timeline.html" target="new">Timeline</a></font></td>
+                    </tr>
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" width="246"> 
+                        <div align="center"><font face="BankGothic Md BT" size="4"><img src="multi.gif"></font></div>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Pictures.html" target="new">Picture Gallery 
+                        </a> </font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Clips.html" target="new">Clips</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Gifs.html" target="new">Gif Gallery</a></font></td>
+                    </tr>
+			<tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="music.html" target="new">Music Videos</a></font></td>
+			   </tr> 
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Screenshots.html" target="new">Screenshots</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Downloads.html" target="new">Downloads</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Software.html" target="new">Software/Plug-ins</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Song.html" target="new">Song Gallery</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Online.html" target="new">Online Games</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="legal.html" target="new">Roms/Emulators</a></font></td>
+                    </tr>
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" width="246"> 
+                        <div align="center"><font face="BankGothic Md BT" size="4"><img src="interact.gif"></font></div>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font face="Verdana" size="1">&raquo;<a href="Fic.html" target="new">Fanfiction</a></font></td>
+                    </tr>  
+                   <tr> 
+                      <td width="246" bgcolor="#333333"><font face="Verdana" size="1">&raquo;<a href="Art.html" target="new">Fan-Art</a></font></td>
+                    </tr>         
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font face="Verdana" size="1">&raquo;<a href="If.html" target="new">What if...</a></font></td>
+                    </tr>                       
+                     <tr bgcolor="#333333"> 
+                      <td width="246"><font size="1" face="Verdana">&raquo;<a href="Vote.html" target="new">Voting Poll</a></font></td>
+                    </tr>
+                     <tr bgcolor="#333333"> 
+                      <td width="246"><font size="1" face="Verdana">&raquo;<a href="Trivia.html" target="new">Trivia Quiz</a></font></td>
+                    </tr>
+                     <tr bgcolor="#333333"> 
+                      <td width="246"><font size="1" face="Verdana">&raquo;<a href="Humour.html" target="new">Humour</a></font></td>
+                    </tr>
+                     <tr> 
+                      <td width="246" bgcolor="#333333"><font face="Verdana" size="1">&raquo;<a href="search.html"  target="new">Search</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font size="1" face="Verdana">&raquo;<a href="Trans.html" target="new">Translations</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="246" bgcolor="#333333"><font face="Verdana" size="1">&raquo;<a href="Battle.html"  target="new">BattleField</a></font></td>
+                    </tr>
+                    <tr bgcolor="#000033"> 
+                      <td id="ignore" width="246"> 
+                        <div align="center"><font face="BankGothic Md BT" size="4">.:Poll:.</font></div>
+                      </td>
+                    </tr>
+                    <tr id="ignore"> 
+                      <td id="ignore" width="246" bgcolor="#333333" height="36"> >
+                        <div align="center">
+<!-- v- PollGEAR Code by http://htmlgear.com -v -->
+
+
+<script language="JavaScript" src="http://htmlgear.lycos.com//poll/control.poll?u=tongzou&i=28&a=render">
+</script>
+<noscript>
+<font face='arial' size='1'> take my poll at:
+<A HREF="http://htmlgear.lycos.com//poll/control.poll?u=tongzou&i=28&a=render">Poll of The Month:</A>   <img src='http://htmlgear.lycos.com/img/log/po_i_getgear.GIF' border='0'><br>htmlGEAR.com</a></font>
+</noscript>
+<!-- ^- End PollGEAR Code -^ -->
+
+<div align="center"></div>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                  <br>
+                </div>
+              </td>
+              <td width="505" height="770"> 
+                <div align="center"> 
+                  <table border="0" cellspacing="1" cellpadding="0" align="center" width="100%">
+                    <tr bgcolor="#000033"> 
+                      <td> 
+                        <div align="center"><!-- #BeginEditable "title" --><font face="BankGothic Md BT" size="4">
+<table><tr><td><b><font face="verdana, helvetica, arial" size="2"><img src="dark.gif"></td>
+<td><SCRIPT><!--
+
+// You may edit the message below.
+
+   {makeRainbow("<< DragonBall Z Fantasy!!! >>");} //-->
+
+</SCRIPT></td>
+<td><img src="dark.gif"></b></font></center></td></tr></table>
+</font><!-- #EndEditable --></div>
+                            </td>
+                    </tr>
+                    <tr bgcolor="#000000" valign="top"> 
+                      <td height="477"> 
+                        <table width="100%" border="2" cellspacing="1" cellpadding="0" bordercolor="#333333">
+                          <tr valign="top"> 
+                            <td id="ignore"><!-- #BeginEditable "main" --> 
+                        </div>
+<CENTER><IFRAME name="new" frameBorder=0 marginHeight=0 marginWidth=0 
+scrolling=auto src="News.html" height=850 width=850>
+<a href="http://leader.linkexchange.com/4/X315797/clickle" target="_top"><img width=468 height=60 border=0 ismap alt="" src="http://leader.linkexchange.com/4/X315797/showle?"></a></IFRAME></center><BR></tr></table>
+<p align="center"><br>
+<!-- Discliamer -->
+<center><table width="650" bgcolor="#c0c0c0"><tr><td bgcolor="#097494">
+<font face="arial" size="2" color="#c0c0c0">
+<center><big><b><u>Discliamer</b></u></big></center>
+<p align="left"><b>*This site is <b>NOT</b> trying to infringe on any copyrights. It is merely a fan site. The rights to Dragonball Z belong to <b>Akira Toriyama, TOEI Animation, Bird Studios, Shonen Jump, and FUNimation.*</b></b></p align="left">
+</font face="arial" size="2" color="#c0c0c0"></td></tr></table></center>
+ </td>
+                          </tr>
+                        </table>
+<p align="center"><br>
+                        </p>
+                        </td>
+                    </tr>
+                  </table>
+                  </div>
+              </td>
+              <td width="150" height="770"> 
+                <div align="center"> 
+                  <table width="100%" border="0" cellspacing="1" cellpadding="0">
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" height="14"> 
+                        <div align="center"><font face="BankGothic Md BT" size="4">.:Top 
+                          News:.</font></div>
+                      </td>
+                    </tr>                    
+               <tr bgcolor="#333333"> 
+                 <td id="ignore" height="15"> 
+                        <div align="center"> 
+<table>
+<TR>
+<TD>
+<P><FONT SIZE="4"><B>            
+<p align="center"><em><font face="Verdana" color="#C1C1C1"><strong><big>Hot News</big></strong></font></em><br>
+            <font face="Verdana" size="2" color="cyan"><!--webbot bot="HTMLMarkup" StartSpan --><marquee direction="up" scrollAmount='2' style="width:'125';height:'65'">
+-Original Dragon Ball airing at 5:30 pm on Cartoon Network
+
+-Season 5 of DBZ has ended, series has begun its boring reruns on Cartoon Network.
+
+-Movie #5 expected in January 2002, #6 to follow around October 2002. #5 will not be released in theaters.
+
+-Infogrames/Wizard Works is currently producing the upcoming DBZ games. First game is "The Legacy of Goku" for Game Boy Advance. Looks great ^_^. Also, coming out with a 3D Single player/multiplayer fighter that may come out for any next gen console like Gamecube, X-Box, and PS2.
+
+-Thanks goes out to jpinballjay for sending me this <a href="http://www.infogrames.co.uk/site/site_show_product.php?productID=23">link</a>. 
+
+-The site gives you a release date of November 30,2002 and some basic info on the game as well as some (small) screenshots. Here is what the site posted about Dragon Ball Z: Legendary Super WarriorsCombines action with dramatic story lines. 
+-Acquire new skills in the story mode and customise them for use in the battle mode. 
+
+-Fight with or against your favourite Dragon Ball Z characters &#8211; choose from 23 different characters. 
+
+-Buy new skills with your tournament prize money, or exchange skills with your friends. 
+
+-Full of animation based on the TV series. <br><br>Detailed character art makes the most of PS2 graphic capacity.
+
+- Features: <br><li>Story mode: Collect skills while playing the Dragon <li>Ball Z story <br><li>Battle mode: Allows you to fight with custom-edited <li>characters <br><li>Practice mode: Perfect key attack combinations in preparation for battle <br><li>Skill Edit mode: Edit or exchange acquired skills <br><li>Tenkaichi Budokai mode: You must win gold medal at the tournament to access this mode PLUS an extra hidden mode that the player must unlock</li>
+
+-Games looks kind of promising for it's number of different modes, only time will tell how it does though. Hopefully it will be better than Legacy of Goku which works very well as a coaster.
+</marquee><!--webbot BOT="HTMLMarkup" endspan --></font></p>
+</TD>
+</TR>
+</TABLE>
+<table>
+                    <tr bgcolor="#333333"> 
+                      <td  id="ignore" > 
+                        <div align="center"><font face="Verdana" size="1"> 
+                          Link to my page!</font><br>
+                          <img src="images/tong.gif" width="88" height="31"> 
+                          <br>
+                          <textarea name="textfield" cols="8" style="background:#000000;color:#FFFFFF;face:Verdana"">&lt;a href=&quot;http://www.angelfire.com/d20/tong&quot;&gt &lt;img src=
+&quot;http://www.angelfire.com/d20/tong/images/tong.gif&quot; width=&quot;88&quot; height=&quot;31&quot; border=&quot;0&quot; alt=&quot;DragonBall Z Fantasy&quot;&gt;&lt;/a&gt;</textarea>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr bgcolor="#333333"> 
+                      <td> 
+                        <div align="center"><font size="1" face="BankGothic Md BT"><a href="mailto:Tong_Zou@hotmail.com"><font size="2">Become 
+                          an affiliate</font></a></font></div>
+                      </td>
+                      <td> 
+                        <div align="center"><font size="1" face="BankGothic Md BT"><a href="Af.html"><font size="2">My Affiliates</font></a></font></div>
+                      </td>
+                    </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td id="ignore">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="1" cellpadding="0">
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" height="14"> 
+                        <div align="center"><font size="4" face="BankGothic Md BT">.:Guestbook:.</font></div>
+                      </td>
+                    </tr>
+                     <tr bgcolor="#333333"> 
+                      <td> 
+                        <div align="center">
+                        <a href="mailto:Tong_Zou@hotmail.com"><img src="email.gif" alt="email"></a><br><p>
+<a href="http://htmlgear.lycos.com/guest/control.guest?u=tongzou&i=2&a=view" target="new"><font face="arial,helv,helvetica,sans serif" size=-1>View My Guestbook</font></a><br>
+<a href="http://htmlgear.lycos.com/guest/control.guest?u=tongzou&i=2&a=sign" target="new"><font face="arial,helv,helvetica,sans serif" size=-1>Sign My Guestbook</font></a><br></div>
+                      </td>
+                    </tr>
+<tr bgcolor="#333333"> 
+                      <td id="ignore">
+<tr bgcolor="#333333"> 
+                      <td> 
+                        <div align="center">
+<!-- v- Pass-it-on Gear Code by http://htmlgear.com -v -->
+
+<a href="http://htmlgear.lycos.com//pass/control.pass?u=tongzou&i=1&a=render&">Recommend this page;<a href="http://htmlgear.lycos.com/specs/pass.html"><img align=middle border=0 width=16 height=14 src="http://htmlgear.lycos.com/img/log/pa_i_gear.GIF"></a><P></a>
+<!-- ^- End  Pass-it-on Gear Code -^ -->
+ </div>
+              </td>
+            </tr>
+                  </table>
+                  <table onMouseOver="changeto('#999999')" onMouseOut="changeback('#333333')" width="100%" border="0" cellspacing="1" cellpadding="0">
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" height="14"> 
+                        <div align="center"><font size="4" face="BankGothic Md BT">.:Webring:.</font></div>
+                      </td>
+                    </tr>
+                    <tr bgcolor="#333333"> 
+                      <td id="ignore"> 
+                        <div align="center"><a href="http://dir.webring.com/rw?d=Entertainment___Arts/Comics_and_Animation/Anime/Titles/Dragon_Ball/"><img src="logo.gif" width="88" height="31" border="0"></a></div>
+                      </td>
+                    </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td id="ignore">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td id="ignore">&nbsp;</td>
+                    </tr>
+                  </table>
+<table width="100%" border="0" cellspacing="1" cellpadding="0">
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" height="14"> 
+                        <div align="center"><font size="4" face="BankGothic Md BT">.:Search:.</font></div>
+                      </td>
+                    </tr>
+                    <tr bgcolor="#333333"> 
+                      <td id="ignore">
+<tr bgcolor="#333333"> 
+                      <td> 
+                       <FORM ACTION="/cgi-bin/script_library/site_search/search" METHOD="GET">
+<table border="0" cellpadding="2" cellspacing="0">
+	<tr>
+		<td colspan="2">Search term: <INPUT NAME="search_term"><br></td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">Case-sensitive -
+		 <INPUT TYPE="checkbox" NAME="case_sensitive">yes<br></td>
+	</tr>
+	<tr>
+		<td align="right"><font face="verdana, helvetica, arial" size="2"><INPUT TYPE="radio" NAME="search_type" VALUE="exact" CHECKED>exact</font></td>
+		<td><INPUT TYPE="radio" NAME="search_type" VALUE="fuzzy">fuzzy<br></td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center"><INPUT TYPE="hidden" NAME="display" VALUE="#FF0000"><INPUT TYPE="submit" value="Search!"></td>
+	</tr>
+</table>
+</FORM><form name="navigation">
+
+  <select name="pages" size="1" onChange="changePage();">
+
+<!--For each line of code, you need to do the following:-->
+
+<!--Place your URLs within the quotation marks.-->
+
+<!--Edit the text at the end of each line.-->
+
+    <option value="http://www.angelfire.com">Go to....
+
+    <option value="http://www.angelfire.com">Angelfire
+
+    <option value="http://www.DragonballZ.com">Official DBZ website!
+
+    <option value="http://www.hotbot.com">Hotbot
+
+    <option value="http://www.yahoo.com">Yahoo!
+
+    <option value="http://www.AOL.com">AOL
+
+    <option value="http://www.Altavista.com">Altavista
+
+    <option value="http://www.lycos.com">Lycos
+
+    <option value="http://www.ezboard.com">EZboard
+
+    <option value="http://www.zdnet.com">ZDnet
+
+    <option value="http://www.webmonkey.com">Webmonkey
+
+    <option value="http://download.cnet.com/downloads/">CNET
+
+    <option value="http://www.hotmail.com">Hotmail
+
+    <option value="http://www.htmlgear.com">HTMLgear
+
+  </select>
+
+</form>
+                      </td>
+                    </tr>
+</table>
+                  <table width="100%" border="0" cellspacing="1" cellpadding="0">
+                    <tr bgcolor="#000033"> 
+                      <td  id="ignore" height="14"> 
+                        <div align="center"><font size="4" face="BankGothic Md BT">.:Stats:.</font></div>
+                      </td>
+                    </tr>
+                    <tr bgcolor="#333333"> 
+                      <td id="ignore">
+<tr bgcolor="#333333"> 
+                      <td> 
+                        <div align="center">
+                      <img src="http://counter.golden.net/cgi-bin/Count.cgi?ft=9|frgb=69;139;50|tr=0|trgb=0;0;0|wxh=15;20|md=6|dd=A|df=login.dat"> 
+
+                      </td>
+                    </tr>
+   <tr bgcolor="#333333"> 
+                      <td id="ignore">
+<tr bgcolor="#333333"> 
+                      <td> 
+                        <div align="center">
+<font size=1 color=white>
+<a target="_top" href="http://w.extreme-dm.com/?login=tongzou">
+<img name=im src="http://w1.extreme-dm.com/i.gif" height=38
+border=0 width=41 alt=""></a><script language="javascript"><!--
+an=navigator.appName;d=document;function
+pr(){d.write("<img src=\"http://w0.extreme-dm.com",
+"/0.gif?tag=tongzou&j=y&srw="+srw+"&srb="+srb+"&",
+"rs="+r+"&l="+escape(d.referrer)+"\" height=1 ",
+"width=1>");}srb="na";srw="na";//-->
+</script><script language="javascript1.2"><!--
+s=screen;srw=s.width;an!="Netscape"?
+srb=s.colorDepth:srb=s.pixelDepth;//-->
+</script><script language="javascript"><!--
+r=41;d.images?r=d.im.width:z=0;pr();//-->
+</script><noscript><img height=1 width=1 alt="" 
+src="http://w0.extreme-dm.com/0.gif?tag=tongzou&j=n"></noscript>
+</font></tr>
+                  </table>               
+               </div>
+              </td>
+            </tr>
+          </table>
+</div>
+</body>
+</html>

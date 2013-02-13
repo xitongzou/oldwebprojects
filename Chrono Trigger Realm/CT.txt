@@ -1,0 +1,1100 @@
+      ___            ___            ___            ___            ___
+     /\  \          /\  \          /\  \          /\  \          /\  \
+    //\\  \        //\\  \        //\\  \        //\\  \        //\\  \
+   ///\\\  \      ///\\\  \      ///\\\  \      ///\\\  \      ///\\\  \
+  ///  \\\  \    ///  \\\  \    ///  \\\  \    ///  \\\  \    ///  \\\  \
+ ///  / \\\  \  ///  / \\\  \  ///  / \\\  \  ///  / \\\  \  ///  / \\\  \
+///__/   \\\__\///__/   \\\__\///__/   \\\__\///__/   \\\__\///__/   \\\__\
+\\\  \  __\/__/\\\  \ ___\/__/\\\  \    \/__/\\\  \    \/__/\\\  \    \/__/
+ \\\  \/\  \    \\\  /\  \     \\\  \         \\\  \         \\\  \
+  \\\  \\\ _\    \\\ \\\__\     \\\  \         \\\  \         \\\  \
+   \\\///  /      \\\///  /      \\\  \         \\\  \         \\\  \
+    \\//  /        \\//  /        \\\__\         \\\__\         \\\__\
+     \/__/          \/__/          \/__/          \/__/          \/__/  TM
+Guide to:             GAME GENIE CODE CREATORS CLUB
+CHRONO TRIGGER        -----------------------------
+For the SNES                   Version 3.0
+
+
+TABLE OF CONTENTS
+
+Introduction
+Version History
+Notes
+Codes:
+-Start up codes
+-Battle codes
+-Action screen codes
+-Status screen and title screen codes
+-Map screen codes
+-Music codes
+GGCCC & contact info.
+
+
+Welcome to the fourth version of the GGCCC's Game Genie Guide to Chrono
+Trigger!  Due to the continued interest in codes for Chrono Trigger, the FAQ
+has been updated once again!  Inside you will find codes and techniques that
+will allow you to:
+
+*Save your game anywhere
+*Level 99 and all techs/magic after a battle
+*Start up modification codes for all characters
+*Listen to unreleased music clips
+*See Magus vs. Magus
+*Walk on the 1999 A.D. map
+*Fight any monster, including Bull Frog, Departed, Frog King and others
+*Change the battle music
+*Skip and reset events
+...and MUCH more!
+
+
+What's new in version 3.0? (10/2/98)
+*More codes 
+*Format redone
+*Certain non-working codes removed or updated
+*Misc. error corrections and updated GGCCC info.
+
+
+Version History of this FAQ:
+
+Chrono Trigger FAQ 2.1 - Updated in December of 1996. No major change of the
+way it was made up however a few new codes were added. New codes were added
+by sfgordon@tir.com. New sections were also added.
+
+Chrono Trigger FAQ 2.0 - Created in March of 1996. The whole FAQ was redone
+by lukas@westworld.com in an easier to read format.
+
+Chrono Trigger FAQ 1.0 - Created in October of 1995. This was compiled by
+LrdRokol@aol.com and was the GGCCC's first FAQ ever.
+
+
+A quick note...
+*Multiple versions of the Chrono Trigger game pak exist!  Therefore certain
+codes may not work for you.  Different versions of the Game Genie exist as
+well, try the conversion chart below if the code doesn't appear to be
+working:
+
+D <-> 6     0 <-> A         Change the 3rd slot of the code:    
+F <-> B     9 <-> 2         Ex.
+4 <-> C     1 <-> 3         Old code = BC38-8F06
+7 <-> 8     5 <-> E         New code = BC18-8F06
+
+
+  ==========================================================================
+
+
+START UP CODES
+--------------
+
+EEDD-7F5D       Start with a higher max. HP
+63DD-745D       Start with a higher max. MP
+BDDD-74ED       Start with max. power
+BDDD-777D       Start with max. stamina
+BDDD-775D       Start with max. speed
+BDDD-778D       Start with max. magic
+BDDD-77ED       Start with max. hit ratio
+BDDF-7D7D       Start with max. evade
+BDDF-7D5D       Start with max. magic defense
+<By: GALOOB, makers of the GAME GENIE>
+
+
+Character modification codes for all characters  <By: thespook@novia.net>
+Note: For the following codes you must start a new game and play until the
+specified character joins your party.
+
+DFDD-7D7D       Crono will appear as Marle in subscreen 
+D4DD-7D7D       Crono will appear as Lucca in subscreen 
+D7DD-7D7D       Crono will appear as Robo in subscreen 
+D0DD-7D7D       Crono will appear as Frog in subscreen 
+D9DD-7D7D       Crono will appear as Ayla in subscreen 
+D1DD-7D7D       Crono will appear as Magus in subscreen 
+D5DD-7D7D       Crono will appear as Epoch (a strangely colored Crono) in
+                subscreen
+DCDF-7D8D       Crono will be at Level 10 (affects no other stats) 
+F7DF-7DED       Crono will have 19 Exp. (quick level up) 
+B4D4-7FED       Crono will be equipped with R'bow Helm as a helm 
+12D4-747D       Crono will be equipped with Moon Armor as armor 
+D3D4-745D       Crono will be equipped with Shiva Edge as a weapon 
+85D4-748D       Crono will be equipped with Power Seal as an accessory 
+EED9-7F5D       Marle will start with a higher max. HP 
+63D9-745D       Marle will start with a higher max. MP 
+BDD9-74ED       Marle will start with max. power 
+BDD9-777D       Marle will start with max. stamina 
+BDD9-775D       Marle will start with max. speed 
+BDD9-778D       Marle will start with max. magic 
+BDD9-77ED       Marle will start with max. hit ratio 
+BDD1-7D7D       Marle will start with max. evade 
+BDD1-7D5D       Marle will start with max. magic defense 
+DCD1-7D8D       Marle will be at Level 10 (affects no other stats) 
+F7D1-7DED       Marle will have 19 Exp. (quick level up) 
+B4D5-7FED       Marle will be equipped with R'bow Helm as a helm 
+1AD5-747D       Marle will be equipped with PrismDress as armor 
+D3D5-745D       Marle will be equipped with Shiva Edge as a weapon 
+C3D5-748D       Marle will be equipped with Black Rock as an accessory 
+DDDC-7D7D       Lucca will appear as Crono in subscreen 
+EEDC-7F5D       Lucca will start with a higher max. HP 
+63DC-745D       Lucca will start with a higher max. MP 
+BDDC-74ED       Lucca will start with max. power 
+BDDC-777D       Lucca will start with max. stamina 
+BDDC-775D       Lucca will start with max. speed 
+BDDC-778D       Lucca will start with max. magic 
+BDDC-77ED       Lucca will start with max. hit ratio 
+BDD8-7D7D       Lucca will start with max. evade 
+BDD8-7D5D       Lucca will start with max. magic defense 
+DCD8-7D8D       Lucca will be at Level 10 (affects no other stats) 
+F7D8-7DED       Lucca will have 19 Exp. (quick level up) 
+B4DA-7FED       Lucca will be equipped with R'bow Helm as a helm 
+1ADA-747D       Lucca will be equipped with PrismDress as armor 
+46DA-745D       Lucca will be equipped with WonderShot as a weapon 
+81DA-748D       Lucca will be equipped with Magic Seal as an accessory 
+DDDE-7D7D       Robo will appear as Crono in subscreen 
+EEDE-7F5D       Robo will start with a higher max. HP 
+63DE-745D       Robo will start with a higher max. MP 
+BDDE-74ED       Robo will start with max. power 
+BDDE-777D       Robo will start with max. stamina 
+BDDE-775D       Robo will start with max. speed 
+BDDE-778D       Robo will start with max. magic 
+BDDE-77ED       Robo will start with max. hit ratio 
+BDDD-5D7D       Robo will start with max. evade 
+BDDD-5D5D       Robo will start with max. magic defense 
+DCDD-5D8D       Robo will be at Level 10 (affects no other stats) 
+F7DD-5DED       Robo will have 19 Exp. (quick level up) 
+B4DF-5FED       Robo will be equipped with R'bow Helm as a helm 
+1EDF-547D       Robo will be equipped with RavenArmor as armor 
+D3DF-545D       Robo will be equipped with Shiva Edge as a weapon 
+C3DF-548D       Robo will be equipped with Black Rock as an accessory 
+DDD0-5D7D       Frog will appear as Crono in subscreen 
+EED0-5F5D       Frog will start with a higher max. HP 
+63D0-545D       Frog will start with a higher max. MP 
+BDD0-54ED       Frog will start with max. power 
+BDD0-577D       Frog will start with max. stamina 
+BDD0-575D       Frog will start with max. speed 
+BDD0-578D       Frog will start with max. magic 
+BDD0-57ED       Frog will start with max. hit ratio 
+BDD9-5D7D       Frog will start with max. evade 
+BDD9-5D5D       Frog will start with max. magic defense 
+DCD9-5D8D       Frog will be at Level 10 (affects no other stats) 
+F7D9-5DED       Frog will have 19 Exp. (quick level up) 
+B4D1-5FED       Frog will be equipped with R'bow Helm as a helm 
+1ED1-547D       Frog will be equipped with RavenArmor as armor 
+D3D1-545D       Frog will be equipped with Shiva Edge as a weapon 
+C3D1-548D       Frog will be equipped with Black Rock as an accessory 
+DDDB-5D7D       Ayla will appear as Crono in subscreen 
+EEDB-5F5D       Ayla will start with a higher max. HP 
+63DB-545D       Ayla will start with a higher max. MP 
+BDDB-54ED       Ayla will start with max. power 
+BDDB-577D       Ayla will start with max. stamina 
+BDDB-575D       Ayla will start with max. speed 
+BDDB-578D       Ayla will start with max. magic 
+BDDB-57ED       Ayla will start with max. hit ratio 
+BDDC-5D7D       Ayla will start with max. evade 
+BDDC-5D5D       Ayla will start with max. magic defense 
+DCDC-5D8D       Ayla will be at Level 10 (affects no other stats) 
+F7DC-5DED       Ayla will have 19 Exp. (quick level up) 
+B4D8-5FED       Ayla will be equipped with R'bow Helm as a helm 
+1ED8-547D       Ayla will be equipped with RavenArmor as armor 
+D3D8-545D       Ayla will be equipped with Shiva Edge as a weapon 
+C3D8-548D       Ayla will be equipped with Black Rock as an accessory 
+DDD3-5D7D       Magus will appear as Crono in subscreen 
+EED3-5F5D       Magus will start with a higher max. HP 
+63D3-545D       Magus will start with a higher max. MP 
+BDD3-54ED       Magus will start with max. power 
+BDD3-577D       Magus will start with max. stamina 
+BDD3-575D       Magus will start with max. speed 
+BDD3-578D       Magus will start with max. magic 
+BDD3-57ED       Magus will start with max. hit ratio 
+BDDE-5D7D       Magus will start with max. evade 
+BDDE-5D5D       Magus will start with max. magic defense 
+DCDE-5D8D       Magus will be at Level 10 (affects no other stats) 
+F7DE-5DED       Magus will have 19 Exp. (quick level up) 
+B4DD-8FED       Magus will be equipped with R'bow Helm as a helm 
+1EDD-847D       Magus will be equipped with RavenArmor as armor 
+D3DD-845D       Magus will be equipped with Shiva Edge as a weapon 
+C3DD-848D       Magus will be equipped with Black Rock as an accessory 
+
+For the above codes that modify the character's equipment (helm, armor,
+weapon, accessory), you can replace the first two slots of the code with
+the below combinations for different items/equipment.
+
+DD - *nothing*     FD - Slasher     4D - Dart Gun     7D - MirageHand
+DF - Wood Sword    FF - Bronze Bow  4F - Auto Gun     7F - Stone Arm
+D4 - Iron Sword    F4 - Iron Bow    44 - PicoMagnum   74 - Doom Finger
+D7 - Steel Saber   F7 - Lode Bow    47 - Plasma Gun   77 - Magma Hand
+D0 - Lode Sword    F0 - Robin Bow   40 - Ruby Gun     70 - Megaton Arm
+D9 - Red Katana    F9 - Sage Bow    49 - Dream Gun    79 - Big Hand
+D1 - Flint Edge    F1 - Dream Bow   41 - Megablast    71 - Kaiser Arm
+D5 - Dark Saber    F5 - Comet Arrow 45 - Shock Wave   75 - Giga Arm
+D6 - Aeon Blade    F6 - Sonic Arrow 46 - WonderShot   76 - Terra Arm
+DB - Demon Edge    FB - Valkerye    4B - Graedus      7B - Crisis Arm
+DC - Alloy Blade   FC - Siren       4C - *Gun symbol* 7C - *Arm symbol*
+D8 - Star Sword    F8 -*Bow symbol* 48 - *Gun symbol* 78 - Bronze Edge
+DA - Vedic Blade   FA -*Bow symbol* 4A - *Gun symbol* 7A - Iron Sword
+D2 - Kali Blade    F2 -*Bow symbol* 42 - *Gun symbol* 72 - Masamune
+D3 - Shiva Edge    F3 -*Bow symbol* 43 - Tin Arm      73 - Flash Blade
+DE - Bolt Sword    FE - Air Gun     4E - Hammer Arm   7E - Pearl Edge
+
+0D - Rune Blade    9D - Bent Sword  1D - Titan Vest   5D - Gloom Cape
+0F - Brave Sword   9F - Bent Hilt   1F - Gold Suit    5F - White Mail
+04 - Masamune      94 - Masamune 0  14 - Ruby Vest    54 - Black Mail
+07 - Demon Hit     97 - Swallow     17 - Dark Mail    57 - Blue Mail
+00 - Fist          90 - Slasher 2   10 - Mist Robe    50 - Red Mail
+09 - Fist          99 - Rainbow     19 - Meso Mail    59 - White Vest
+01 - Fist          91 - *nothing*   11 - Lumin Robe   51 - Black Vest
+05 - Iron Fist     95 - *nothing*   15 - Flash Mail   55 - Blue Vest
+06 - Bronze Fist   96 - *nothing*   16 - Lode Vest    56 - Red Vest
+0B - *Fist symbol* 9B - *nothing*   1B - Aeon Suit    5B - Taban Vest
+0C - *Fist symbol* 9C - *nothing*   1C - Zodiac Cape  5C - Taban Suit
+08 - Dark Scythe   98 - Hide Tunic  18 - Nova Armor   58 - *nothing*
+0A - Hurricane     9A - Karate Gi   1A - Prism Dress  5A - Hide Cap
+02 - Star Scythe   92 - Bronze Mail 12 - Moon Armor   52 - Bronze Helm
+03 - Dark Sickle   93 - Maiden Suit 13 - Ruby Armor   53 - Iron Helm
+0E - Mop           9E - Iron Suit   1E - Raven Armor  5E - Beret
+
+6D - Gold Helm     BD - Ozzie Pants CD - Silver Erng  8D - Silver Rock
+6F - Rock Helm     BF - Haste Helm  CF - Gold Erng    8F - White Rock
+64 - Cera Topper   B4 - R'bow Helm  C4 - Silver Stud  84 - Gold Rock
+67 - Glow Helm     B7 - Mermaid Cap C7 - Gold Stud    87 - Hero Medal
+60 - Lode Helm     B0 - *nothing*   C0 - Sight Scope  80 - Muscle Ring
+69 - Aeon Helm     B9 - Bandana     C9 - Charm Top    89 - Flea Vest
+61 - Prism Helm    B1 - Ribbon      C1 - Rage Band    81 - Magic Seal
+65 - Doom Helm     B5 - Power Glove C5 - Frenzy Band  85 - Power Seal
+66 - Dark Helm     B6 - Defender    C6 - Third Eye    86 - Relic
+6B - Gloom Helm    BB - Magic Scarf CB - Wallet       8B - SeraphSong
+6C - Safe Helm     BC - Amulet      CC - Green Dream  8C - Sun Shades
+68 - Taban Helm    B8 - Dash Ring   C8 - Berserker    88 - Prism Specs
+6A - Sight Cap     BA - Hit Ring    CA - Power Scarf  8A - *nothing*
+62 - Memory Cap    B2 - Power Ring  C2 - Speed Belt   82 - Tonic
+63 - Time Hat      B3 - Magic Ring  C3 - Black Rock   83 - Mid Tonic
+6E - Vigil Hat     BE - Wall Ring   CE - Blue Rock    8E - Full Tonic
+
+AD - Ether         2D - Petal       3D - Ruby Knife
+AF - Mid Ether     2F - Fang        3F - Yakra Key
+A4 - Full Ether    24 - Horn        34 - Clone
+A7 - Elixir        27 - Feather     37 - Toma's Pop
+A0 - HyperEther    20 - Seed        30 - 2 Petals
+A9 - MegaElixir    29 - Bike Key    39 - 2 Fangs
+A1 - Heal          21 - Pendant     31 - 2 Horns
+A5 - Revive        25 - Gate Key    35 - 2 Feathers
+A6 - Shelter       26 - PrismShard  36 - *nothing*
+AB - Power Meal    2B - C. Trigger
+AC - Lapis         2C - Tools
+A8 - Barrier       28 - Jerky
+A2 - Power Tab     22 - Race Log
+A3 - Magic Tab     23 - Moon Stone
+AE - Speed Tab     2E - Sun Stone
+
+
+
+BATTLE CODES
+------------
+
+A1EE-EFD9  
+All characters go to level 99 after one battle!  Save tabs until after you
+do this to boost the the stats without a **.  <By: whrek@aol.com>
+
+22EC-ED60
+Get all techs/magic after one battle, including double and triple techs!  Go
+into battle with different characters to get everyone's techs.
+<By: lukas@westworld.com>
+
+A1EE-EDD9
+Get 999 HP, 99 MP and all techs after a battle.  Turn the GG off when the
+game freezes, it will look like you are going to level 99 but you are only
+getting full HP and MP and the techs.  <By: edgarggw@aol.com>
+
+1438-7765
+You are invincible and if a monster hits you they all die!
+<By: tmslgs@aol.com>
+
+9DA6-7765       Infinite MP for lead party member
+9DAB-7765       Infinite MP for 2nd party member
+9DA8-77D5       Infinite MP for 3rd party member
+Works in battle mode only.  <By: greatwyrm@aol.com>
+
+Change monsters you fight in battle!  <By: lukas@westworld.com>
+xxDC-5FAF or xxDC-5F6F
+Replace xx with different combinations to access different monsters when you
+enter a battle.  The monsters you will get is very random, partly depends on
+the original monster group you decide to enter battle with.  You can access
+all monsters, including dummied out ones.  Keep in mind that the code
+accesses parts of monsters as well.  For example, Lavos Spawn is only one
+monster but has two attackable parts.  One downside to the code is that the
+monster's graphic will be glitched if you are not in an area native to where
+that monster is (color swap monsters are ok).  All special magic/tech
+attacks the monster uses are fine, though.
+Unusual monsters:
++-----------+------+---------------+------------------+--------------------+
+|   Name    |  HP  | Attacks/Magic | Charm/Twin Charm | Exp./G/Tech P./Won |
++-----------+------+---------------+------------------+--------------------+
+| Bull Frog |  100 | Regular/None  | Nothing/Nothing  | 127/200/4/Nothing  |
+| Departed  | 1650 | Regular/None  | HyperEther/Same  | 555/500/8/Lapis    |
+| Frog King |    1 | Regular/None  | Nothing/Nothing  | 10/100/1/Nothing   |
+| Johnny    |  408 | Regular/None  | Nothing/Nothing  | 246/150/8/Nothing  |
+| Octobino  |    1 | Regular/None  | Nothing/Nothing  | 146/250/4/Nothing  |
+| Octorider |  100 | None/None     | Nothing/Nothing  | 30/45/2/Nothing    |
+| Ogre      |    1 | None/None     | Nothing/Nothing  | 348/650/8/Nothing  |
+| Omicrone  |    1 | None/None     | Nothing/Nothing  | 455/600/8/Nothing  |
++-----------+------+---------------+------------------+--------------------+
+
+3365-5D00
+Win a battle after killing only 1 enemy.  For some enemies there is no need
+to fight.  You will only get Exp./tech points/G for the monster you killed,
+however.  <By: scmche19@skypoint.com>
+
+EE8E-7769
+Get nearly every item in the game after winning a battle.  After battle,
+the game will freeze, but it's actually processing items.  Wait a while,
+and the battle will end.  Now take a look at your item list.  You should
+have 98-100% of the items in the game.  Note: the "dummied" items are
+totally useless.  They were literally erased from the game and have no use.
+All you see of them is the icons.  <By: balefire99@aol.com>
+
+EEE8-E7D9
+Gain more HP and MP after winning a battle.  After battle, all characters HP
+and MP will increase just as if you gained a level. This works also for
+people not in your current party.  <By: balefire99@aol.com>
+
+FF65-5F0F
+Enemies reappear after a battle.  <By: scmche19@skypoint.com>
+
+B325-7765
+Only techs damage enemies.  <By: gamewiz4u@aol.com>
+
+33DD-7D6D
+No menus in battle mode.  <By: lukas@westworld.com>
+
+33DD-74DD
+Different, random sound effects in battle.  <By: lukas@westworld.com>
+
+24A0-5700
+Invincible to almost all types of monster attacks/magic.  Stronger enemies
+may kill some of the party members but not the lead character.
+<By: scmche19@skypoint.com>
+
+1A6F-E400    
+Automatically win a battle.  Go into a fight and as soon as one of your
+characters goes to attack the enemies will disappear and the game will
+continue normally.  <By: lukas@westworld.com>
+
+EED0-EFE5
+Techs you use will have the graphic of another tech.  Change first 2 slots
+of the code for different effects.  <By: lukas@westworld.com>
+                       
+65EB-E4A9
+Max. out all abilities such as power, magic, speed, etc. for every
+character.  <By: wcook10721@aol.com>
+
+F5A0-54A1
+All attacks in battle (physical or magic) do 9999 damage.  Use this code
+with the invincibility code 24A0-5700 to max. party member's attributes
+when they gain levels.  The attributes will go down again if levels are
+gained while the codes are not active.  <By: scmche19@skypoint.com>
+
+5E2A-5F01
+Random effects after winning a battle.  You may get a weapon from an enemy
+that gives an item, have your HP raised to 999 at level 1 or learn most or
+all techs after a battle.  The effect depends on the time period and
+location.  When using this code, let the game freeze before choosing an
+attack command, then turn the GG off and back on.  Before the game freezes
+again kill all of the enemies.  <By: scmche19@skypoint.com>
+
+7F67-5DD0
+Play dead to win battles instantly.  When you go into combat your party
+members will fall down like they died.  Turn the GG off, the monsters
+disappear, and the game continues normally.  Works on bosses as well.
+<By: lukas@westworld.com>
+
+FF34-5F0D    
+Some enemies may not appear when the fight begins.  <By:lukas@westworld.com>
+
+BC46-E7A1
+Get a series of pop-up texts during a battle such as "Energy is stored in
+the wheels," "Mortal blow!," "Yakra's Needlespin" etc.  May freeze the game
+after serveral messages.  <By: lukas@westworld.com>
+
+A27E-8DAO
+Instantly run away from any monster! (Revised).  Works on bosses, even
+Lavos.  Game will act as if you had beaten them normally.
+<By: lukas@westworld.com>
+
+xxDB-7770
+Replace xx to change the death sound effect when you kill a regular enemy.
+D3-7E, EC-EE = silent  <By: lukas@westworld.com>
+
+AAD6-7DE0
+Regular enemies die like bosses.  Different code.  <By: lukas@westowrld.com>
+
+75D6-7DE0 + B2D6-7F70 + 06D6-7450 + 4BD6-7780
+Regular enemies go out with a BANG!  <By: lukas@westworld.com>
+
+00D9-5F6F
+Erase saves when you go into a battle.  Use this in the intro if save
+data is corrupt.  <By: lukas@westworld.com>
+
+FFDD-77DF
+Erases Crono's name when you enter a battle.  Effect is permanent if you
+save.  <By: lukas@westworld.com>
+
+EE91-5DA7
+Race Johnny when you enter a battle.  <By: lukas@westworld.com>
+
+2964-7765
+Enemies can't use techs/magic/special attacks at all.  Try this on Spekkio!
+He's hilariously easy.  A few notes: You'll see Spekkio's physical attacks.
+Also, when fighting the 2nd Lavos, you *must* turn off the GG after you
+destroy both arms for it to use Obstacle and lower its defense.  Also, you
+must turn it off again at the Lavos Core for the Active Life bit to turn off
+defense.  <By: glescoe@aol.com>
+
+9DB9-7765
+This is a better version of gamewiz4u@aol.com's "More Wierd Battles" code.
+This one doesn't crash at all.  The character's dont do any animations in
+battle.  <By: rubicant15@aol.com>
+
+9DB7-7765
+Messed up bar in battles.  This code makes the bar with the names/HP/MP look
+like it has gears turning in it in battles.  <By: rubicant15@aol.com>
+
+B627-7765
+Damage and Healing numbers are spread out in battle.  Ex: insted of saying
+9999, it will look like 9  9  9  9.  It may even spread across the whole
+screen!  <By: rubicant15@aol.com>
+
+B621-7765
+Damage number glitch.  This code makes on of the damage or healing digits in
+battle glitch out so you can't see exactly how much damage you do.
+<By: rubicant15@aol.com>
+
+EE34-5D60
+Any character's attack does more damage.  This code also works with techs
+but not magic.  <By: lukas@westworld.com>
+
+552A-EDD9
+Techs have strange effects.  When you use a tech it may hit your party,
+confuse all enemies, etc.  <By: thespook@novia.net>
+
+5527-EDD0
+All attacks do very little damage, both for your party and the enemies.
+<By: thespook@novia.net>
+
+553D-5DD0
+Non-magic attacks do very little damage.  <By: thespook@novia.net>
+
+5537-8DD0
+Magic attacks do high damage.  <By: thespook@novia.net>
+
+8DA8-7765
+Robo's techs use all MP.  <By: sirgarland@aol.com>
+
+A1E2-E4A9
+Get more gold after a battle.  Amounts may vary depending on the monster(s).
+Some party members may jump to different places on the screen during the
+battle so use this code with a walk thru walls code in case your characters
+get stuck in a wall.  <By: lukas@westworld.com>
+
+3BC4-7765
+Most moving monsters will try to run away in battle.  Will not work on
+enemies that don't move or bosses.  Some monsters may fight back if you
+attack while they are trying to run.  A few enemies may glitch the game,
+like the Winged Apes.  Not perfect, but a helpful code.
+<By: lrdrokol@aol.com>
+
+B625-7765
+Increase the evade rate.  Chances are about 1 in 10 of getting hit, for both
+monsters and your party.  Regular attacks only.  <By: lrdrokol@aol.com>
+
+DCF3-7765
+Everyone (party and monsters) are invisible in battle.
+<By: lrdrokol@aol.com>
+
+B323-7765    
+Enemies and your party are invincible in battles.  Turn the GG off when it
+is your turn to attack.  <By: lrdrokol@aol.com>
+
+B623-7765
+Any and all attacks do 9999 damage, both your party and monsters.  Equip
+Crono with the Haste Cap for 4x 9999 damage when using the "Confuse" tech.
+<By: lrdrokol@aol.com>
+
+6666-7765
+Techs are not listed on the tech screen but still work.
+<By: strato508@aol.com>
+
+FF67-7765
+Lowers Lucca's max. HP when she uses techs.  <By: strato508@aol.com>
+
+DC67-7765
+Can't use techs in battle.  <By: strato508@aol.com>
+
+BB23-7765
+All attacks do 0 damage.  <By: strato508@aol.com>
+
+BA23-7765
+All attacks do 0 damage, can erase saved games.  <By: strato508@aol.com>
+
+BE23-7765
+All attacks do 1 damage.  <By: strato508@aol.com>
+
+B423-7765
+Enemies die by disappearing.  <By: strato 508@aol.com>
+
+A523-7765
+Critical hits do 0 damage, enemies disappear instead of die.
+<By: strato508@aol.com>
+
+AF23-7765
+Enemies disappear when killed with a weapon.  They will die normally if
+killed with a tech.  <By: strato508@aol.com>
+
+366E-7765
+Use a tech, you win the battle and will get level ups and items.
+<By: gamewiz4u@aol.com>
+
+0023-77A5
+Make damage repeat.  Turn the GG off after 3 times to prevent the game from
+crashing.  <By: gamewiz4u@aol.com>
+
+EDF3-7765
+Have no control of your party in battle.  Chrono, Marle, etc. may attack
+friends or foes.  <By: edgarggw@aol.com>
+
+9DAA-7765
+Strange things happen during a battle.  <By: gamewiz4u@aol.com>
+
+AAE7-7765
+Enemies die like bosses (flash + disappear)  <By: edgarggw@aol.com>
+
+EE6D-7765
+Enemies will look like your party in battle.  <By: edgarggw@aol.com>
+
+A1E4-E7A9
+Get lots of gold after a battle.  <By: edgarggw@aol.com>
+
+5683-7765
+Speedbar never goes down.  <By: gamewiz4u@aol.com>
+
+B621-7765
+Alters the damage your party and the enemies take in a battle.
+<By: gamewiz4u@aol.com>
+
+9DB3-7765
+Party members do things without you in control.  Turn the GG off to continue
+normally.  <By: gamewiz4u@aol.com>
+
+9DB5-7765
+Enter a battle, the game will appear to have crashed but press the "A"
+button.  When you use an attack, it looks like you glide and when you do a
+tech you don't move your arms.  Your characters don't do the victory dance.
+Game may freeze sometimes.  <By: gamewiz4u@aol.com>
+
+65B2-7760
+Does strange things after a battle.  You may get lots of exp. and just a
+few gold and tech points or you may get lots of gold and just a little exp.
+and tech points.  If you fight an enemy that usually gives an item after a
+battle you might get lots of a different item.  During the battle enemies
+might keep attacking over and over again so turn the GG off and back on when
+they stop.  Try to keep the GG on most of the battle.  This code may not do
+anything when fighting certain enemy groups.  Try fighting large groups of
+enemies.  <By: lukas@westworld.com>
+
+336A-ED09
+Alter stats and other things after a battle.  After you start a new game, go
+to Guardia Forest with Crono only.  Then go to the bird with the bell and
+fight the 2 beetles.  Do not touch the other creatures.  When in battle, the
+game will freeze.  Turn the GG off and back on.  After killing one beetle,
+run away from battle.  When the screen messes up turn the GG off again, then
+turn it back on when you hear the running away sound.  The normal screen
+will also be messed up so go to the menu screen and exit.  If the trick
+worked, Crono's stats will have changed and there will be 6 cats at Crono's
+house.  If you go upstairs at his house Crono's mom will wake him up again.
+<By: scmche19@skypoint.com>
+
+3BBE-7765
+Mixed up characters in battle.  <By: gamewiz4u@aol.com>
+
+EEFE-7405
+Invisible in a fight.  <By: xxfinexx@aol.com>
+
+B323-74A5  
+Every attack on enemy or companion, hurts Crono by "0" HP.
+<By: xxfinexx@aol.com>
+
+B323-7465
+Regular attacks do 1 HP damage, dual techs = 2 HP damage, triple techs = 2
+HP damage.  <By: xxfinexx@aol.com>
+
+B323-7405
+Every attack on enemy or companion = 9999 HP.  This code hits 9999 every
+time.  <By: xxfinexx@aol.com>
+
+AA39-7D05
+Enemies and your party are invincible.  <By: xxfinexx@aol.com>
+
+EEE3-7765
+For the first few rounds of battle the damage that is dealt to you
+increasingly goes down.  <By: phoenix573@aol.com>
+
+DBF3-7765
+Strange battles.  Enemies will turn into glitched letters and you may win or
+lose a battle instantly.  Techs do no damage.  You will lose automatically
+more than you win automatically.  <By: phoenix573@aol.com>
+
+A523-7765
+Assorted damage in battles.  Sometimes you take 0, sometimes you take normal
+amounts, ignore disappearing characters.  <By: sirgarland@aol.com>
+
+AA34-7765
+Take zero damage in battles.  <By: lrdmagus@aol.com>
+
+B023-7765
+Immune to some attacks and spells.  Hallation, some spells and critical
+attacks do little or no damage.  <By: ggwhelix@aol.com>
+
+6623-7765
+Immune to most attacks and spells.  Enemies do 1 damage except Hallation,
+normal attacks do nothing, critical attacks do 2 damage.
+<By: ggwhelix@aol.com>
+
+EE23-7765   
+Enemies can do no damage, critical attacks do no damage, and everything else
+does 1 damage.  <By: ggwhelix@aol.com>
+
+2223-7765
+Erases 2nd saved game and all are invincible in battles.  Effects may vary
+depending on the situation.  <By: ggwhelix@aol.com>
+
+B424-7765
+Invincibility in battles, but if a monster throws you there is a possibility
+you might get stuck.  <By: tmslgs@aol.com>
+
+FC23-7D65
+Every hit kills, party or monster.  <By: sabin956@aol.com>
+
+EEC4-7DD5
+Enemies won't attack unless close.  <By: sabin956@aol.com>
+
+
+Following codes may cause an eternal battle (EB).  Battles don't end; hidden
+enemies will continue attacking you.  To get out of the battle, you must
+quickly have 2 characters kill the same enemy twice (the enemy must take one
+hit to kill).  This is the only known way to get out of an EB, and may not
+work in all situations.  <By: xxfinexx@aol.com>
+
+568F-7765
+In battle, use a tech and you will get a weird message saying, "Got 1x
+Lightning" or "Got 1x rovoke."  All monsters are instantly killed and
+results in an EB.  <By: lrdrokol@aol.com>
+
+CD3B-7765
+Instantly destroys all enemies (and some bosses) when you try to attack or
+use a tech.  Will result in an EB.  <By: lrdrokol@aol.com>
+
+AA34-7D65
+Party is invincible in battles, EB.  <By: xxfinexx@aol.com>
+
+AA34-7DD5
+Enemies disappear instead of die, which results in an EB.  Crono takes ALL
+the HP adds (cure), and subtracts (attacks) for companions.
+<By: xxfinexx@aol.com>
+
+AA34-7D05      
+EB, 3rd person invincible, 1 hit kills 1st person, Revive revives 1st person
+to full HP, 1st person dies when enemy misses, 3rd person gets hurt when
+certain enemies are attacked, 2nd person dies when revived or cured, Cure
+doesn't effect 3rd person.  <By: xxfinexx@aol.com>
+
+AA34-7FD5    
+In battles, if the 2nd person gets hit, the 1st person dies, if the 2nd
+person is cured, he/she sometimes dies. There are many other things too like
+an EB.  <By: xxfinexx@aol.com>
+
+AA34-7FAD  
+1st person invincible, attacks against the 2nd person take 4 HP, attacks
+against the 3rd person only take 8 HP, EB.  <By: xxfinexx@aol.com>
+
+AA34-7F0D  
+1st invincible, 2nd and 3rd die with 1 hit, 1st cannot be cured, EB.
+<By: xxfinexx@aol.com>
+
+AA34-746D
+Everyone is invincible, EB.  <By: xxfinexx@aol.com>
+
+B434-7765
+Party is invincible, however, results in an EB.  <By: tmslgs@aol.com>
+
+
+
+ACTION SCREEN CODES
+-------------------
+
+Magus vs. Magus!  <By: aerostar13@aol.com>
+Requirements: CT Walk Thru Walls Code (EEBO-EFA4)
+1. Begin a new game or New Game +.
+2. Play normally until you get chased into the future and land in the Bangor
+   Dome.
+3. Go thru Lab 16.
+4. Turn the Walk Thru Walls code on.
+5. Go thru Sewer Access to the Keeper's Dome.
+6. Walk thru the sealed doors and get the Epoch.
+7. Travel to 12000 B.C. and play the rest of the game normally... until you
+   get Magus.
+8. When you get Magus and the Black Omen appears, go to the Denandoro Mts.
+   and fight Masamune (sometimes he's already dead).
+9. Go to Melchior's and fix the Masamune (don't try and walk out the door
+   while they're working or the game will freeze).
+10. Go back to 600 A.D.  Magus' Castle will be there!
+11. Go in with Magus in your party and see Magus vs. Magus!
+
+C41A-ED04
+Save your game anywhere, including the Programmer's ending and at Lavos
+(when Lavos changes attack mode).  Walk into any area with a save point.
+Touch it and it will hear a ching, do it again and it won't.  Now check
+your status screen and you can save anywhere.  Code still works without
+the GG as long as you don't enter an area with a save point.
+<By: lukas@westworld.com>
+
+0B60-7FA4
+Near perfect walk thru walls code!  Walk anywhere on any screen.  However,
+you will not be able to change areas with the GG on.
+<By: lukas@westworld.com>
+
+C356-EDA7
+Wave background (like when fighting Lavos Core) when you enter an area.
+Game may glitch if you keep switching areas.  <By: lukas@westworld.com>
+
+EEB0-EFA4
+Revised walk thru walls code.  Doesn't work in all areas and can't move on
+all parts of the screen.  However you can change areas (walk thru sealed
+doors, etc.).  Use this code to skip a large portion of the game by walking
+through the sealed doors to get Epoch on the first visit to the future.
+Also, there is a "secret path" in the room where Janus and Schala talk,
+right above the book cases.  It will take you to one of the ending scenes,
+then dump you on the elevator shaft in the Ocean Palace with all characters
+in your party, including Magus.  Credit goes out to the person on the
+Gamewiz board who found this.  <By: lukas@westworld.com>
+
+1BCD-5FA7 
+Characters not in your party move very fast.  <By: lukas@westworld.com>
+
+0E6F-7767
+Walk thru walls - up direction only.  Must reset if you get stuck.
+<By: lukas@westworld.com>
+
+EE6F-54AD
+Conversations repeat, can also listen to conversations from other parts of
+the game.  Talk to a person (or look at a sign, etc.), go to the menu
+screen, then exit.  The text should repeat.  Now, if you go to different
+areas, go to the menu screen and quit, you may get speech from another part
+of the game.  <By: lukas@westworld.com>
+
+29BD-5F07
+Teleport code.  Depending on what area you enter (or if you change areas)
+many things may happen like:
+1. Get an ending.
+2. Get transported to an event in the game.
+3. Get transported to another area in the same era.
+4. Get transported to another era.
+5. Get transported to a map.
+6. Get transported to an area where you can't move (glitch).
+See the "Walk on 1999 A.D. map" for an interesting use for the code ;)
+<By: lukas@westworld.com>
+
+5D56-ED67
+Earthquake screen.  <By: lukas@westworld.com>
+
+DEC0-5767
+The movements of some creatures is strange, may cause glitches.
+<By: lukas@westworld.com>
+
+FF01-54DF
+Change character looks.  Examples: Crono's Mom looks like Melchoir, the cat
+is the King of Guardia, Gato is a Reptite, etc.  Note: Game may black out if
+you enter enemy-only areas with GG on.  <By: lukas@westworld.com>
+
+3EBF-5767
+This code will transport your characters to different places than the other
+transport codes (when you switch areas).  Will also change where you are on
+the map if you leave an area.  <By: edgarggw@aol.com>
+
+22B4-546B   
+Leave the GG off until you enter a building in Truce 1000 A.D.  Turn the GG
+on and leave the building.  When you see the map turn the GG off again.  Now
+you will be watching the "Killed by Lavos" ending.
+<By: lukas@westworld.com>
+
+EEB4-546B
+This code is very weird.  It is a modified version of the code for the bad
+ending every time you go into a Truce Village house.  Turn on the GG when it
+starts saying "Crono..."  Then go down and talk to Crono's Mom. She will
+give you the chance to name Lucca but you will only get a black screen
+instead of the name screen.  Press Start to go on from this point.  Then go
+straight upstairs and go back down.  You have about a 50/50 chance of seeing
+Crono's Mom sitting in her chair.  If she is, then when you come up to her
+she will say something like "Crono, I heard you were going to be executed."
+This means you skipped ahead into the game.  The save menu name is now
+Forward to the Past.  You only have Crono, but the events are the same as if
+you had gone through the game to that point except the men are still
+guarding Lucca's machine.  It certainly is weird and there are many
+glitches, but it might be modified. Also if you keep it on, you may see the
+bad ending in a building in Truce.  <By: strato508@aol.com>
+
+4CB5-5F6D
+Strange walk thru walls code. You can "slide" your characters to the left
+and right in any area.  Turn the GG off to stop them.  Be careful where you
+stop and try not to walk off the screen.  <By: lukas@westworld.com>
+
+6CB5-5DD7
+Your party will run very fast but in an up direction only.  If you get stuck
+against a wall turn off the GG and do a regular sprint to free yourself.
+<By: lukas@westworld.com>
+
+2AB4-77DD
+Teleport code.  To use this code, enter any area and walk around in circles
+and such with any character.  Eventually you will be transported to a random
+area, event, or ending.  Sometimes you will be transported to a random area
+where you can't move (glitch).  You should use this code with a walk thru
+walls in case you get stuck when you change screens.
+<By: lukas@westworld.com>
+
+
+
+STATUS SCREEN AND TITLE SCREEN CODES
+------------------------------------
+
+3F65-EF06
+Get some items just by going into the items screen (try equipping characters
+first).  <By: scmche19@skypoint.com> 
+
+EE68-7DOC   
+This code has two effects.  The first is this: go into a shop (things should
+have different prices), exit it, go back in, and voila!  Everything will
+cost only 1GP, and you will be able to sell ANY item in your inventory;
+allowing you to rid yourself of old accessories, armor, etc.  But you
+won't get anything for the things you sell.  The second effect is this:
+simply go to the stat screen, and any character will be able to equip
+anything.  Ex: equip Robo with a Rainbow, Crono with a Prism Dress, etc.
+This doesn't mean you can equip, say, weapons in your armor slot, it means
+you can equip any weapon in your weapon slots, etc.  Note: There are two bad
+sides to this code, the first is that you can't use items, and the second
+is that it causes graphic glitches while walking on the map. So, only use
+the effects of this code when needed.  <By: balefire99@aol.com>
+
+1065-5466      
+Get Magus on your menu screen.  Leave the GG off until you enter an area.
+Turn it on and then go to your menu screen.  Crono will now have a Magus
+portrait and equipment. You can't keep the "Crono Magus" but you can
+unequip Magus' equipment and keep it.  <By: lukas@westworld.com>
+
+F2B0-54A6
+Heal party to a certain or above normal HP on menu screen.
+<By: scmche19@skypoint.com>
+
+Replace Gaspar on the character exchange screen with:
+9BE7-77AB               Algetty villager
+9BE7-74AB               Belthasar
+00E7-7FAB               Melchior
+9BE7-77AB + 9BE7-74AB   Toma <By: darkforsaken@iname.com>
+<By: lukas@westworld.com>
+
+7ED6-7FAD
+Enter an area from the map and the saved game screen from after the title
+screen will show up.  <By: lukas@westworld.com>
+
+1971-E46F
+Get a menu screen with 9 possible character slots after the title screen,
+showing that two more party members were planned but not put in the final
+version.  <By: lukas@westworld.com>
+
+33DD-776D
+Game never starts up, erases saved data.  <By: lukas@westowrld.com>
+
+3CF5-5FD3
+Silver pendulum on title screen.  <By: lukas@westworld.com>
+
+xx72-E707
+Changes what appears at the title screen.
+DF - Partial credits list
+15 - Glitched version of time warp at Magus' castle.
+<By: lukas@westworld.com>
+
+EE6F-D767
+Pendulum screen never ends.  <By: sirgarland@aol.com>
+
+0082-E707
+Play the jet bike race at the title screen.  Turn GG off to go to the saves
+menu.  <By: lukas@westworld.com>
+
+4282-E707
+Time warp graphics on the title screen.  Turn GG off to go to the saves
+screen.  <By: lukas@westworld.com>
+
+A06E-7D07
+Start a game on level 0.  Instead of getting the normal saved game screen
+after the title screen you will get the one from the menu.  Choose a slot
+and save.  Then reset the game with the GG turned off.  Use New Game + on
+that save and Crono will begin with 0 of almost everything.  No known useful
+effect for this code yet.  <By: lukas@westworld.com>
+
+
+
+MAP SCREEN CODES
+----------------
+
+Walk on the 1999 A.D. Day of Lavos map! <By: lukas@westworld.com>
+1. Enter the following codes:
+   29BD-5F07 (teleport)
+   7F67-5DD0 (invincibility - turn GG off when party falls "dead" in battle) 
+   EEB0-EFA4 (walk thru walls)
+2. Turn GG off and start a new game.
+3. Go to the fair, turn the GG on right before you enter the area where
+   Gato is.
+4. Once you change areas it will show Crono fall of the cliffs on the side
+   of Death Peak and land by a save point.  Turn the GG off.
+5. Walk North/Northwest and go into the cave.
+6. Once in the cave, turn on the GG and "kill" the Lavos Spawn.
+7. Have the GG on, walk-thru walls to the right (past the chest with the
+   Giga Arm in it), walk up both sets of stairs, and into the cave entrance.
+8. You will see your map Crono on a greenish colored screen.  Walk to the
+   right.  Viola!  You are now walking on the 1999 A.D. map!  Even pops up
+   in the lower left corner :)  Press select to look at the large map.  Walk
+   "around" the map to go on different continents.  You can save your game
+   here too, but not a good idea as you are unable to leave.
+
+4444-54D8       Yellow text on map screen <By: lukas@westworld.com>
+5444-54D8       Purple text on map screen <By: gamewiz4u@aol.com>
+0444-54D8       Orange text on map screen <By: gamewiz4u@aol.com>
+1444-54D8       Pink text on map screen   <By: rubicant15@aol.com>
+
+3EBF-5767
+Enter an area from the map and leave.  You will be moved to a different
+part of the map.  If you get stuck you will need to reset.
+<By: gamewiz4u@aol.com>
+
+BC18-8F06
+A walk thru walls type code that works when you are on the map.  Watch out,
+you can get stuck and will have to reset.  <By: lukas@westworld.com>
+
+3B65-54D8
+Invisible characters on map screen.  <By: lukas@westworld.com>
+
+A2A4-E7BB
+Walk in the clouds on the Zeal map.  Have a saved game by Enhasa in Zeal
+12000 B.C.  Once you do that, use this code.  You will now be able to walk
+off the continent and move anywhere in the clouds.
+<By: lukas@westworld.com>
+
+
+
+1.5 - MUSIC CODES
+-----------------
+
+The Chrono Trigger battle music jukebox!  <By: lukas@westworld.com>
+Following code will replace the music for most battles that use the regular
+battle theme.
+
+xxD9-7407
+                                        
+DD - *Dragon tank                       FD - Sun Keep
+DF - Present (1000 A.D. map)            FF - *Seagulls
+D4 - Middle Ages (600 A.D. map)         F4 - *Leene's Bell
+D7 - Dark Ages (12000 B.C. Zeal map)    F7 - Epoch
+D0 - Prehistoric (65000000 B.C. map)    F0 - Schala's theme
+D9 - Future (2300 A.D. map)             F9 - Spekkio/Nu
+D1 - The Millennial Fair                F1 - Danger!
+D5 - Marle's theme                      F5 - The Trial
+D6 - Forest                             F6 - Crono's theme
+DB - Zeal Palace                        FB - *The Blackbird interior
+DC - Factory                            FC - *Outside the Blackbird
+D8 - Ayla's theme                       F8 - Success!
+DA - Guardia Castle                     FA - Marle returns
+D2 - Lavos                              F2 - Bleak future
+D3 - Robo's theme                       F3 - 1000 A.D. town
+DE - Crono awakes                       FE - Marle vanishes (telepod)
+
+4D - *Jail/dripping water               7D - Pendulum/Title screen
+4F - *Flowing water                     7F - Ocean Palace
+44 - *Wind                              74 - Lavos Core
+47 - Crono goes to jail                 77 - Lab 16/32
+40 - Organ                              70 - *Inside Lavos
+49 - Won clone!                         79 - *Lavos awakens
+41 - Dead                               71 - Hunting Range
+45 - Johnny                             75 - Time warp
+46 - Magus' theme                       76 - Dactyl Nest
+4B - Boss battle                        7B - Battle with Lavos (2nd form)
+4C - Frog's theme                       7C - *Lavos scream
+48 - Good Night                         78 - Belthasar
+4A - Race with Johnny                   7A - Catherdral interior
+42 - Dome                               72 - Opened sealed chest
+43 - Sealed chest                       73 - End of time
+4E - Denadoro Mts.                      7E - Ending theme (for New Game +)
+
+0D - Magus' Castle                      9D - Crashing Epoch
+0F - *Chanting                          9F - 2nd battle theme (Unreleased)
+04 - Gato                               94 - Singing Mtn. (Unreleased)
+07 - *Unknown
+00 - Black Omen
+09 - Battle theme
+01 - Tyrano Lair
+05 - *Tidal wave
+06 - Reinstate execution
+0B - Moonlight Parade
+0C - *Zeal falls
+08 - *Tide
+0A - *Inside Lavos
+02 - Ending theme (Marle)
+03 - Big boss battle
+0E - Unknown (Unreleased)
+
+
+Listen to unreleased sound clips in Chrono Trigger!
+Enter the code, but leave the GG off until you are ready to enter the
+specified area from the map:
+Music #1 = 2nd Battle Theme, #2 = Singing Mountain, #3 = Unknown 
+Clip #1: 6ED7-5F64  Death Peak 2300 A.D.
+Clip #2: E3D7-5FA4  Forest Ruins 1000 A.D. (Blue pyramid next to Medina)
+Clip #3: 8ED7-5FA4  Zenan Bridge 600 A.D. (Either side)
+<By: lukas@westworld.com>
+
+DC4B-57FE
+Strange new music and sound effects.  <By: lukas@westworld.com>
+
+0040-57FE
+More strange music and sound effects.  <By: lukas@westworld.com>
+
+39F6-EFA4
+Music doesn't change when you enter an area from the map or switch areas.
+<By: lukas@westworld.com>
+
+
+END OF CODES
+
+  ==========================================================================
+
+Thank you for downloading ctggg30.txt!
+Chrono Trigger Game Genie Guide v. 3.0 brought to you by the GGCCC:
+http://ggccc.dragonfire.net 
+Latest versions of this FAQ can be found here and also at RPGamer:
+http://www.rpgamer.com
+
+Feel free to distribute this FAQ, please keep all text intact and unaltered.
+If you plan to upload this file to your web site, drop a line to Aero
+<aerostar13@aol.com> or Strato <strato508@aol.com> 
+
+This FAQ is currently maintained by:
+Luke <lukas@westworld.com>
+Send E-Mail for corrections, code submissions, comments, etc.
+
+
+Until the next update....
+
+  ==========================================================================
+
+      (c) 1996, 1998 Game Genie Code Creators Club, All rights reserved. 
+  The text of this file may not be reproduced, stored in a retrieval system,
+     transmitted, or published, in any form or by any means, electronic,
+    mechanical, photocopying or otherwise, without being fully creditted
+       or without the prior written permission of the club.  E-mail to
+                              AeroStar13@aol.com.
+
+
+-EOF-

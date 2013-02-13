@@ -1,0 +1,114 @@
+/**
+ * Styles for each individual sub page loaded into page content div
+ */
+
+#home {
+	height: 40px;
+	width: 300px;
+	background: url(images/news_title.png) no-repeat;
+}
+
+.news_date {
+	font-size: 9px;
+	color:#FFFF00;
+}
+
+#aboutaf {
+	height: 40px;
+	width: 400px;
+	background: url(images/aboutaf_title.png) no-repeat;
+}
+
+#aboutut {
+	height: 40px;
+	width: 400px;
+	background: url(images/aboutut_title.png) no-repeat
+}
+
+#events {
+	height: 40px;
+	width: 400px;
+	background: url(images/events_title.png) no-repeat;
+}
+
+/** Upcomin event styles */
+#upcoming {
+	height: 40px;
+	width: 400px;
+	background: url(images/upcoming_title.png) no-repeat;
+}
+
+.event_title {
+	color:#FFFF00;
+	font-size: 14px;
+}
+/*************************/
+#future {
+	height: 40px;
+	width: 400px;
+	background: url(images/future_title.png) no-repeat;
+}
+
+#charities {
+	height: 40px;
+	width: 400px;
+	background: url(images/charities_title.png) no-repeat;
+}
+
+.charitylink{
+	color:#FFFF00;
+}
+
+/** Sponsor page styles */
+#sponsors {
+	height: 40px;
+	width: 400px;
+	background: url(images/sponsors_title.png) no-repeat;
+}
+
+.sponsorname {
+	color: #FFFF00;
+	font-size: 14px;
+	font-weight:bold;
+}
+
+.sponsorinfo {
+	font-size: 10px;
+}
+
+/***********************/
+/** Gallery Page styles */
+#gallery {
+	height: 40px;
+	width: 400px;
+	background: url(images/gallery_title.png) no-repeat;
+}
+
+.albums {
+	cursor: pointer;
+	font-size:14px;
+}
+.albums:hover {
+	color: #FFFF00;
+}
+
+.gallery_link {
+	cursor: pointer;
+	font-size:11px;
+}
+
+.gallery_link:hover {
+	color: #FFFF00;
+}
+
+#afstaff {
+	height: 40px;
+	width: 400px;
+	background: url(images/afstaff_title.png) no-repeat;
+}
+/** JOIN AF **/
+.link {
+	color: #FFFF00;
+	text-decoration:underline;
+	cursor: pointer;
+}

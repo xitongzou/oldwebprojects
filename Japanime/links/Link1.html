@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<title>Japanime!</title>
+<!-- <style type="text/css">
+
+
+#sDiv0, #sDiv1, #sDiv2, #sDiv3, #sDiv4, #sDiv5, #sDiv6, #sDiv7, #sDiv8, #sDiv9
+{
+position:absolute; height:1; width:1; font-family:arial black; font-size:9px; color:#FFFFAA; z-index:10;
+}
+
+</style>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+<!--
+
+/*
+Document firework script (By Matt Gabbert, mgabbert@usrtoday.com, http://www.nolag.com)
+Featured on Dynamicdrive.com
+For full source and 100's more DHTML scripts, visit http://www.dynamicdrive.com
+*/
+
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && self.innerWidth && (window.pageXOffset>-1));
+//my way of making sure the browser will have what I need
+
+var allDivs      = new Array(10);
+var documentWidth,documentHeight;
+
+function initAll(){
+	if(!ns && !ie && !w3)	return;
+
+	for(dNum=0; dNum<10; ++dNum){
+		if(ie)		allDivs[dNum]=eval('document.all.sDiv'+dNum+'.style');
+		else if(ns)	allDivs[dNum]=eval('document.layers["sDiv'+dNum+'"]');
+		else if(w3)	allDivs[dNum]=eval('document.getElementById("sDiv'+dNum+'").style');
+		moveTo(dNum,0,0);
+	}		
+}
+
+function moveTo(i,tempx,tempy){
+	if (ie){
+		documentWidth  =document.body.offsetWidth+document.body.scrollLeft-20;
+		randomy=Math.floor(Math.random()*document.body.offsetHeight)+document.body.scrollTop-20;
+	}
+	else if (ns){
+		documentWidth=window.innerWidth+window.pageXOffset-20;
+		randomy=Math.floor(Math.random()*window.innerHeight)+window.pageYOffset-20;
+	}
+	else if (w3){
+		documentWidth=self.innerWidth+window.pageXOffset-20;
+		randomy=Math.floor(Math.random()*self.innerHeight)+window.pageYOffset-20;
+	}
+
+	if(tempx>-50){
+		tempx-=45;
+		allDivs[i].left=tempx;
+		allDivs[i].top =tempy;
+		setTimeout("moveTo("+i+","+tempx+","+tempy+")",40)
+	}
+	else
+		setTimeout("moveTo("+i+",documentWidth-10,randomy)",2000/i+40);
+}
+
+window.onload=initAll
+//End-->
+</script> 
+</head>
+<body bgcolor="1B294C" text="yellow" link="yellow" vlink="#800080" alink="#ff0000">
+<br><p><center>
+<img src="banner.jpg"><p></p>
+Welcome to Japanime! I'm Gofishus, the webmaster. First off, I'm not going to be updating much because I just don't have the time or patience to update daily. I'll try to get the animes finished but be patient, school and parents, etc are making me very stressed x_x. Any news or info i will post on the tagboard or in the news section. If you have further information please visit the <a href="FAQs.html">FAQs</a>, <a href="Contact.html">Contact</a> & <a href="History.html">History</a>
+ sections. 
+Remember that this site gives brief information about each anime series/movie. If u want detailed information, then check out a specific fansite. But do enjoy my site, and don't be afraid to sign the guestbook or comment on the tagboard  =P. 
+<br>Listen to the Classic Rock <a href="#" onClick="window.open ('http://www.kylosa.com/Hosting/japanime/radio.blog/index.php', 'newwindow', config='height=300, width=250, toolbar=no, menubar=no, scrollbars=yes, resizable=no, location=no, directories=no, status=no')">Radio</a><p>
+<!-- BEGIN CBOX - http://www.cbox.ws -->
+<table border="0" cellpadding="0" cellspacing="0" summary="cbox tagboard" align="center">
+<tr><td align="center">
+<iframe frameborder="0" width="150" height="225" src="http://cbox.ws/box/?boxid=645153&amp;boxtag=2908&amp;sec=main" marginheight="2" marginwidth="2" scrolling="yes" allowtransparency="yes" name="cboxmain" style="border: #DBE2ED 1px solid;" id="cboxmain"></iframe>
+</td></tr><tr><td align="center">
+<iframe frameborder="0" width="150" height="75" src="http://cbox.ws/box/?boxid=645153&amp;boxtag=2908&amp;sec=form" marginheight="2" marginwidth="2" scrolling="no" allowtransparency="yes" name="cboxform" style="border: #DBE2ED 1px solid; border-top: 0px;" id="cboxform"></iframe>
+</td></tr>
+</table>
+<!-- END CBOX -->
+
+<p>
+  <script type="text/javascript" src="iscroll.js"></script>
+  
+</body>
+</html>

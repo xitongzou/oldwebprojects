@@ -1,0 +1,556 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><HEAD><TITLE>Japanime</TITLE>
+<META name="Description" content="The ultimate japanese anime resource!"><META name="Keywords" content="DBZ, pokemon, digimon, evangelion, escaflowne, naruto, cowboy bebop, gundam wing, japanese anime, medabots, yu-gi-oh, beyblade, sailor moon, trigun, monster rancher"><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252"><META NAME="Generator" CONTENT="Microsoft Word 2000">
+<STYLE type=text/css>A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ffffff
+}
+A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: overline underline
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #1B294C; SCROLLBAR-HIGHLIGHT-COLOR: #1B294C; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #1B294C; SCROLLBAR-DARKSHADOW-COLOR: #1B294C; BACKGROUND-COLOR: #1B294C
+}
+</STYLE>
+<SCRIPT LANGUAGE = "JavaScript">
+
+<!--
+
+
+
+// Array of day names
+
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+
+
+
+var monthNames = new Array("January","February","March","April","May","June","July",
+
+                           "August","September","October","November","December");
+
+
+
+var dt = new Date();
+
+var y  = dt.getYear();
+
+
+
+// Y2K compliant
+
+if (y < 1000) y +=1900;
+
+
+
+document.write(dayNames[dt.getDay()] + ", " + monthNames[dt.getMonth()] + " " + dt.getDate() + ", " + y);
+
+// -->
+
+</SCRIPT>
+<SCRIPT TYPE="text/javascript">
+<!--
+// copyright 1999-2001 Idocs, Inc. http://www.idocs.com/tags/
+// Distribute this script freely, but keep this 
+// notice with the code.
+var submitRolls = new Object();
+
+function submitroll(src, oversrc, name)
+{
+this.src=src;
+this.oversrc=oversrc;
+this.name=name;
+this.alt="Search";
+this.write=submitroll_write;
+}
+
+function submitroll_write()
+{
+var thisform = 'document.forms[' + (document.forms.length - 1) + ']';
+submitRolls[this.name] = new Object();
+submitRolls[this.name].over = new Image();
+submitRolls[this.name].over.src = this.oversrc;
+submitRolls[this.name].out = new Image();
+submitRolls[this.name].out.src = this.src;
+
+document.write
+	(
+	'<A onMouseOver="if (document.images)document.images[\'' + this.name + "'].src=submitRolls['" + this.name + '\'].over.src"' + 
+	' onMouseOut="if (document.images)document.images[\'' + this.name + "'].src=submitRolls['" + this.name + '\'].out.src"' + 
+	' HREF="javascript:'
+	);
+
+if (this.sendfield)
+	{
+	if (! this.sendvalue)
+		this.sendvalue = 1;
+	document.write(thisform, ".elements['", this.sendfield, "'].value='", this.sendvalue, "';");
+	}
+
+document.write(thisform + '.submit();void(0);"');
+if (this.msg)document.write(' onClick="return confirm(\'' , this.msg, '\')"');
+document.write('>');
+
+document.write('<IMG SRC="' + this.src + '" ALT="' + this.alt + '" BORDER=0 NAME="' + this.name + '"');
+if (this.height)document.write(' HEIGHT=' + this.height);
+if (this.width)document.write(' WIDTH='  + this.width);
+if (this.otheratts)document.write(' ' + this.otheratts);
+document.write('></A>');
+if (this.sendfield)
+	{
+	document.write('<INPUT TYPE=HIDDEN NAME="' + this.sendfield + '">');
+	document.forms[document.forms.length - 1].elements[this.sendfield].value='';
+	}
+}
+
+//-->
+</SCRIPT>
+<script language="JavaScript">
+
+<!--
+
+
+
+// You may edit the message below.
+
+var startMsg = "Japanime!";
+
+
+
+var str     = "";
+
+var msg     = "";
+
+var leftMsg = "";
+
+
+
+
+
+function setMessage()
+
+{
+
+    if (msg == "")
+
+    {
+
+        str = " ";
+
+        msg = startMsg;
+
+        leftMsg = "";
+
+    }
+
+
+
+    if (str.length == 1)
+
+    {
+
+        while (msg.substring(0, 1) == " ")
+
+        {
+
+            leftMsg = leftMsg + str;
+
+            str = msg.substring(0, 1);
+
+            msg = msg.substring(1, msg.length);
+
+        }
+
+
+
+        leftMsg = leftMsg + str;
+
+        str = msg.substring(0, 1);
+
+        msg = msg.substring(1, msg.length);
+
+
+
+        for (var ii = 0; ii < 120; ii++)
+
+        {
+
+           str = " " + str;
+
+        }
+
+    }
+
+    else
+
+        str = str.substring(10, str.length);
+
+
+
+    window.status = leftMsg + str;
+
+// This editable value (1000 = 1 second) 
+
+// corresponds to the speed of the shooting
+
+// message.
+
+    timeout = window.setTimeout('setMessage()',100);
+
+
+
+}
+
+// -->
+
+</script>
+<script language="JavaScript1.2">
+//Gradual-Highlight image script- By Dynamic Drive
+//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+//This credit MUST stay intact for use
+function high(which2){
+theobject=which2
+highlighting=setInterval("highlightit(theobject)",50)
+}
+function low(which2){
+clearInterval(highlighting)
+if (which2.style.MozOpacity)
+which2.style.MozOpacity=0.3
+else if (which2.filters)
+which2.filters.alpha.opacity=30
+}
+function highlightit(cur2){
+if (cur2.style.MozOpacity<1)
+cur2.style.MozOpacity=parseFloat(cur2.style.MozOpacity)+0.1
+else if (cur2.filters&&cur2.filters.alpha.opacity<100)
+cur2.filters.alpha.opacity+=10
+else if (window.highlighting)
+clearInterval(highlighting)
+}
+</script>
+ <script type="text/javascript" src="fsmenu.js"></script>
+<link rel="stylesheet" type="text/css"
+  href="listmenu_o.css" id="listmenu-o" title="Vertical 'Office'" />
+</head>
+<BODY text=black background="images/layoutbg.jpg" onload="getcontent_height()">
+<DIV id=Layer1 style="Z-INDEX: 1; LEFT: 0px; WIDTH: 750px; POSITION: absolute; TOP: 0px;">
+<IMG src="images/mainlay.jpg"></DIV></DIV>
+
+<Div align="left">
+<DIV id=Layer2 
+style="Z-INDEX: 5; LEFT: 5px; WIDTH: 120px; POSITION: absolute; TOP: 155px; HEIGHT: 115px">
+<font color=#336699 face=verdana size=1>
+
+<p><strong><img src="main.jpg"></strong><BR>
+<p>
+<ul class="menulist" id="listMenuRoot">
+ <li><a href="Index.html" target="new">Home</a></li>
+ <li><a href="Contact.html" target="new">Contact</a></li>
+  <li><a href="http://www.gaiaonline.com" target="_blank">Forum</a></li>
+	<li><a href="Links.html" target="new">Links</a></li>
+</ul>
+<script type="text/javascript" src="layout.js">
+</script>
+
+<p><strong><img src="anime.jpg"></strong><BR>
+<ul class="menulist" id="listMenu2Root">
+ <li>
+  <a href="#">A-C</a>
+  <ul>
+	<li><a href="AYA.html">Ai Yori Aoshi</a></li>
+   <li><a href="Angelic.html">Angelic Layer</a></li>
+	 <li><a href="AD.html">Azumanga Daioh</a></li>
+   <li><a href="Bleach.html">Bleach</a></li>
+	 <li><a href="Beyblade.html">Beyblade</a>
+	 <li><a href="Blue.html">Blue Seed</a>
+	 <li><a href="BC.html">Bubblegum Crisis</a>
+	    <li><a href="CCS.html">Cardcaptor Sakura</a></li>
+   <li><a href="Chobits.html">Chobits</a></li>
+	    <li><a href="CB.html">Cowboy Bebop</a></li>
+	 
+  </ul>
+ </li>
+ <li>
+  <a href="#">D-F</a>
+  <ul>
+   <li><a href="DCDC.html">DC Da Capo</a></li>
+   <li><a href="DNA.html">DN Angel</a></li>
+	    <li><a href="Digi.html">Digimon</a></li>
+   <li><a href="DBZ.html">Dragonball Z</a></li>
+	    <li><a href="ES.html">Excel Saga</a></li>
+			 <li><a href="FOR.html">Flame of Recca</a></li>
+   <li><a href="FLCL.html">FLCL</a></li>
+	    <li><a href="Fruits.html">Fruits Basket</a></li>
+   <li><a href="FMA.html">Full Metal Alchemist</a><ul>
+	 <li><a href="FMP.html">Full Metal Panic</a></li></ul></li>
+	    <li><a href="FY.html">Fushigi Yuugi</a></li>
+	 
+	 </ul>
+   <li>
+    <a href="#">G-L</a>
+    <ul>
+  <li><a href="GB.html">Gash Bell</a></li>
+	<li><a href="GA.html">Galaxy Angel</a></li>
+   <li><a href="Grav.html">Gravitation</a></li>
+	    <li><a href="GS.html">Gundam Seed</a><ul>
+			
+   <li><a href="GW.html">Gundam Wing</a></li></ul></li>
+	    <li><a href="Hack.html">Hack//Sign</a><ul>
+			<li><a href="Hack2.html">Hack//Legend of Twilight</a></li>
+			</ul></li>
+			 <li><a href="HNG.html">Hikaru No Go</a></li>
+   <li><a href="HS.html">Hellsing</a></li>
+	    <li><a href="Inu.html">InuYasha</a></li>
+			<li><a href="Initial.html">Initial D</a></li>
+			  <li><a href="LH.html">Love Hina</a></li>
+   <li><a href="Lupin.html">Lupin III</a></li>
+    </ul>
+ </li>
+    <li>
+    <a href="#">M-O</a>
+    <ul>
+  <li><a href="MKR.html">Magic Knights Rayearth</a></li>
+   <li><a href="MSN.html">Martian Successor Nadesico</a></li>
+	    <li><a href="Meda.html">Medabots</a></li>
+   <li><a href="MR.html">Monster Rancher</a></li>
+	    <li><a href="Naruto.html">Naruto</a></li>
+			 <li><a href="Eva.html">Neon Genesis Evangelion</a></li>
+   <li><a href="NS.html">Ninja Scroll</a></li>
+	    <li><a href="OMG.html">Oh My Goddess</a></li>
+			    <li><a href="OT.html">Onegai Twins</a>
+					<ul><li><a href="OT.html">Onegai Teacher</a></li></ul></li>
+					    <li><a href="OP.html">One Piece</a></li>
+							    <li><a href="OS.html">Outlaw Star</a></li>
+    </ul>
+ </li>
+    <li>
+    <a href="#">P-R</a>
+    <ul>
+  <li><a href="Poke.html">Pokemon</a></li>
+	<li><a href="PPT.html">Popotan</a></li>
+	<li><a href="Rah.html">RahXephon</a></li>
+   <li><a href="Ranma.html">Ranma 1/2</a></li>
+	    <li><a href="RGU.html">Revolutionary Girl Utena</a></li>
+   <li><a href="RK.html">Rurouni Kenshin</a></li></ul>
+    </li>
+    <li>
+    <a href="#">S-U</a>
+    <ul>
+  <li><a href="SM.html">Sailor Moon</a></li>
+   <li><a href="SP.html">Scrapped Princess</a></li>
+	 <li><a href="SEL.html">Serial Experiments Lain</a>
+	    <li><a href="SK.html">Shaman King</a></li>
+   <li><a href="Slayers.html">Slayers</a></li>
+	    <li><a href="SOEX.html">Star Ocean EX</a></li>
+			 <li><a href="Trigun.html">Trigun</a></li>
+   <li><a href="TM.html">Tenshi Muyo</a></li>
+    </ul>
+ </li>
+    <li>
+    <a href="#">V-Z</a>
+     <ul>
+  <li><a href="Esc.html">Vision of Escaflowne</a></li>
+   <li><a href="WK.html">Weiss Kreutz</a></li>
+	    <li><a href="WHR.html">Witch Hunter Robin</a></li>
+   <li><a href="WR.html">Wolf's Rain</a></li>
+	    <li><a href="Yugi.html">YuGiOh</a></li>
+			 <li><a href="YYH.html">Yu Yu Hakusho</a></li>
+    </ul>
+ </li>
+</ul>
+<script type="text/javascript" src="layout2.js">
+</script>
+<p><strong><img src="multi.jpg"></strong><BR>
+<ul class="menulist" id="listMenu3Root">
+ <li><a href="Wallpaper.html" target="new">Wallpaper</a></li>
+
+ <li><a href="http://www.fileplanet.com/section.aspx?s=92060" target="new"">Music Videos</a></li>
+  <li><a href="http://www.fileplanet.com/section.aspx?s=95023" target="new">Episodes</a></li>
+	  <li><a href="Flash.html" target="new">Flash</a></li>
+		  <li><a href="Online.html" target="new">Mini-Games</a></li>
+</ul>
+<script type="text/javascript" src="layout3.js">
+</script>
+
+<p><strong><img src="search.jpg"></strong><BR>
+<FORM ACTION="/cgi-bin/script_library/site_search/search" METHOD="GET">
+<INPUT NAME="search_term" size=15>
+
+<SCRIPT TYPE="text/javascript">
+var sr = new submitroll("searchbut.jpg","searchbut.jpg","mysubmit");
+sr.write();
+</SCRIPT>
+
+<NOSCRIPT>
+<INPUT TYPE="hidden" NAME="display" VALUE="#FF0000">
+<INPUT TYPE=SUBMIT VALUE="Go!">
+</NOSCRIPT>
+
+</FORM>
+
+
+</FONT></DIV></DIV>
+
+<DIV id=Layer4 
+style="Z-INDEX: 4; LEFT: 605px; WIDTH: 140px; POSITION: absolute; TOP: 155px; HEIGHT: 115px">
+<font color=#336699 face=verdana size=1>
+
+<p><strong>  <img src="news.jpg"></strong><BR>
+<script type="text/javascript">
+
+/******************************************
+* Scrollable content script II- © Dynamic Drive (www.dynamicdrive.com)
+* Visit http://www.dynamicdrive.com/ for full source code
+* This notice must stay intact for use
+******************************************/
+
+iens6=document.all||document.getElementById
+ns4=document.layers
+
+//specify speed of scroll (greater=faster)
+var speed=5
+
+if (iens6){
+document.write('<div id="container" style="position:relative;width:125px;height:130px;border:0px solid black;overflow:hidden">')
+document.write('<div id="content" style="position:absolute;width:120px;left:0;top:0">')
+}
+</script>
+
+<ilayer name="nscontainer" width=100 height=130 clip="0,0,175,160">
+<layer name="nscontent" width=100 height=130 visibility=hidden>
+
+<p><font size="2" face="Arial" color="white">- New layout design...no fancy flash buttons this time heh.</font></p>
+<p><font size="2" face="Arial" color="white">- I hope you find it better and a little bit easier to maneuver..</font></p>
+<p><font size="2" face="Arial" color="white">- The iframes and scrolling buttons were a bit hard to work with.</font></p>
+<p><font size="2" face="Arial" color="white">- Enjoy..and if u like it, don't be afraid to sign the guestbook :P</font></p>
+<p><font size="2" face="Arial" color="white">- Ill try to update those movies and animes once I stop being lazy...hopefully</font></p>
+
+</layer>
+</ilayer>
+
+<script language="JavaScript1.2">
+if (iens6)
+document.write('</div></div>')
+</script>
+
+<table width="105px"><td><p align="right">
+<a href="#" onMouseover="moveup()" onMouseout="clearTimeout(moveupvar)">
+<img src="up.gif" border=0></a>  
+<a href="#" onMouseover="movedown()" onMouseout="clearTimeout(movedownvar)">
+<img src="down.gif" border=0></a></p></td>
+</table>
+
+<script language="JavaScript1.2">
+if (iens6){
+var crossobj=document.getElementById? document.getElementById("content") : document.all.content
+var contentheight=crossobj.offsetHeight
+}
+else if (ns4){
+var crossobj=document.nscontainer.document.nscontent
+var contentheight=crossobj.clip.height
+}
+
+function movedown(){
+if (iens6&&parseInt(crossobj.style.top)>=(contentheight*(-1)+100))
+crossobj.style.top=parseInt(crossobj.style.top)-speed+"px"
+else if (ns4&&crossobj.top>=(contentheight*(-1)+100))
+crossobj.top-=speed
+movedownvar=setTimeout("movedown()",20)
+}
+
+function moveup(){
+if (iens6&&parseInt(crossobj.style.top)<=0)
+crossobj.style.top=parseInt(crossobj.style.top)+speed+"px"
+else if (ns4&&crossobj.top<=0)
+crossobj.top+=speed
+moveupvar=setTimeout("moveup()",20)
+
+}
+
+function getcontent_height(){
+if (iens6)
+contentheight=crossobj.offsetHeight
+else if (ns4)
+document.nscontainer.document.nscontent.visibility="show"
+}
+
+</script>
+
+<p><strong><img src="movies.jpg"></strong><BR>
+<font class="title"><a href="PM.html" target="new">Princess Mononoke</a><br>
+<a href="VHD.html" target="new">Vampire Hunter D</a><br><a href="Blood.html" target="new">Blood: The last vampire</a><br><a href="Ghost.html" target="new">Ghost in the Shell</a>
+<br><a href="GOTF.html" target="new">Grave of the Fireflies</a>
+<br><a href="Akira.html" target="new">Akira</a><br><a href="SA.html" target="new">Spirited Away</a><br><a href="Spriggan.html" target="new">Spriggan</a><br><a href="totoro.html" target="new">My neighbor Totoro</a><br></font>
+
+
+<p><strong><img src="interact.jpg"><BR><BR>
+<tr>
+<td valign="top">
+<a href="Fic.html" target="new">Fanfiction</a></font></td></tr><tr> <td><a href="Art.html" target="new">Fan-Art</a>
+<p><font class="title"> <div align="left"><!-- \/ GuestGEAR Code by http://htmlgear.com \/ -->
+<a href="http://htmlgear.lycos.com/specs/guest.html" target="new">
+<img border=0 ismap src="http://htmlgear.lycos.com/img/guest/gb_white.gif"></a><br><a href="http://htmlgear.tripod.com/guest/control.guest?u=tongzou_2&i=1&a=view">
+<font face="arial,helv,helvetica,sans serif" size=-1>View My Guestbook</font></a><br><a href="http://htmlgear.tripod.com/guest/control.guest?u=tongzou_2&i=1&a=sign">
+<font face="arial,helv,helvetica,sans serif" size=-1>
+Sign My Guestbook</font></a><br><!-- /\ End GuestGEAR Code /\ --></div>  
+ </font><br>
+<a href="http://www.quickness.uni.cc">
+<img src="images/gnext.gif" border=0 alt="Layout By GeneratioNext" 
+style="filter:alpha(opacity=55);-moz-opacity:1.5" onMouseover="high(this)" onMouseout="low(this)"> </FONT></DIV>
+</a>
+</center>
+</FONT>
+</DIV>
+
+<DIV id=Layer5 
+style="Z-INDEX: 4; LEFT: 180px; WIDTH: 450px; POSITION: absolute; TOP: 53px; HEIGHT: 300px">
+<font color=#336699 face=verdana size=1>
+<a href="">
+<img src="images/adbanner.jpg" border=0 alt="Place your adbanner here" width=468 height=60
+width=468 style="filter:alpha(opacity=55);-moz-opacity:1.5" onMouseover="high(this)" onMouseout="low(this)"> </FONT></DIV>
+
+</a>
+</DIV>
+
+<DIV id=Layer5 
+style="Z-INDEX: 4; LEFT: 151px; WIDTH: 440px; POSITION: absolute; TOP: 165px; HEIGHT: 300px">
+<font color=#336699 face=verdana size=1>
+
+<TABLE width="100%" border=0 borderColor="#8da2ba">
+<TBODY>
+
+<TR>
+ <TD><font color=#336699 face=verdana size=1>
+<p><BR>
+<center><strong>Welcome to Japanime! Over 50 animes analyzed!</center></strong><p>
+<br><p><center>
+<H3 align="center">Japanime!</H3>
+Welcome to Japanime! The ultimate Japanese Anime Resource! I'm Gofishus, the webmaster. First off, I'm not going to have any updates/history section because I just don't have the time or patience to update every week. This is a new site and I will be slowly filling in information for each anime, so check by every now and then ;). If you have any specific anime that you want me to provide info on, you can request it <a href="mailto:Gofishus@hotmail.com">Here</a>. Yes if you have any suggestions on my site,or if you want me to link you then Email me! I'm also looking for co-webmasters, so anyone who knows HTML and wants to help out can design their own section. I will give full credit! 
+Remember that this site gives brief information about each anime series/movie. If u want detailed information, then check out a specific fansite. But do enjoy my site, i hope you'll like it!
+My new Evangelion & Gundam Wing music video is now available <a href="http://www.fileplanet.com/files/130000/139451.shtml">here</a>.
+Also be sure to check out my other sites: <a href="http://www.angelfire.com/d20/tong">DBZ</a>, <a href="http://www.angelfire.com/d20/liero">Liero</a>, and <a href="http://www.angelfire.com/d20/crono">Chrono Trigger</a>.<br><p>
+<P> <img src="http://counter.golden.net/cgi-bin/Count.cgi?ft=9|frgb=69;139;50|tr=0|trgb=0;0;0|wxh=15;20|md=6|dd=A|df=login.dat"> <P><font size=1 color=white><a target="_top" href="http://t.extreme-dm.com/?login=gofishus"><img src="http://v1.extreme-dm.com/i.gif" height=38border=0 width=41 alt=""></a><script language="javascript1.2"><!--EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//--></script><script language="javascript"><!--EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";EXd.write("<img src=\"http://t0.extreme-dm.com","/c.g?tag=gofishus&j=y&srw="+EXw+"&srb="+EXb+"&","l="+escape(EXd.referrer)+"\" height=1 width=1>");//--></script><noscript><img height=1 width=1 alt=""src="http://t0.extreme-dm.com/c.g?tag=gofishus&j=n"></noscript></font>
+
+</center>
+
+</FONT></TD></TR></TBODY></TABLE><BR><BR>
+<DIV>
+
+<TABLE width="100%" border=1 borderColor="#336699">
+<TBODY>
+<TR><TD>
+<font color=#336699 face=verdana size=1>
+This site is NOT trying to infringe on any copyrights. It is merely a resource site.
+<br>
+Copyright 2002 Japanime. Site Designed by  <strong>
+<a href="http://www.quickness.uni.cc">http://www.quickness.uni.cc</a></strong>. All Rights Reserved.
+
+</TR></TD></TBODY></TABLE><BR><BR>
+</FONT></DIV>
+
+</FONT></B></CENTER></FONT></B></CENTER></BODY></HTML>

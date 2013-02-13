@@ -1,0 +1,1816 @@
+Riven Spoiler
+Wizards of the Coast, Inc.
+(Released ???, this year)
+
+143 Cards Total
+Color: 18 Black, 18 Blue, 18 Green, 18 Red, 18 White,
+5 Land, 37 Multi, 6 Artifact, 5 Split
+Rarity: 55 Common, 44 Uncommon, 44 Rare
+
+Card Name:	Volver
+Card Color:	WBURG
+Mana Cost:	2WBURG
+Type & Class:	Creature - Volver Legend
+Pow/Tou:	6/6
+Card Text:	Kicker: U,R,B,G or W
+		If you paid the U, Volver has flying
+		If you paid the R, Volver has first strike
+		If you paid the G, Volver has trample
+		If you paid the W, Volver has spirit link
+		If you paid the B, Volver has fear
+Flavor Text:	
+Artist:		Pete Venters
+Rarity:		R
+Card #:		1/143
+
+Card Name:	Lhurgoyf
+Card Color:	G
+Mana Cost:	2GGG
+Type & Class:	Creature - Lhurgoyf Legend
+Pow/Tou:	*/*
+Card Text:	Lhurgoyf has power and toughness equal to the number of card in all graveyards.
+		B:Regenerate Lhurgoyf
+		Attacking doesn't cause Lhurgoyf to tap
+		Haste	
+		Flying
+		Trample
+Flavor Text:	n/a
+Artist:		Roger Raupp
+Rarity:		R
+Card #:		2/143
+
+Card Name:	Teferi, Jamuraan Protector
+Card Color:	WU
+Mana Cost:	2WU
+Type & Class:	Creature - Wizard Legend
+Pow/Tou:	3/3
+Card Text:	{tap}:Target permanent gains or loses protection from the color of your choice until end of turn.
+Flavor Text:	"If I will do nothing, I will protect my people"
+Artist:		Randy Gallegos
+Rarity:		R
+Card #:		3/143
+
+Card Name:	The Ancestor
+Card Color:	W
+Mana Cost:	WWW
+Type & Class:	Creature - Cleric Legend
+Pow/Tou:	2/2
+Card Text:	You can't be the target of spells or abilities
+		Prevent all damage that would be dealt to you
+		X1W,{tap}:Destroy target creature with power X or less
+Flavor Text:	"Bow down to me"
+Artist:		Wayne England
+Rarity:		R
+Card #:		4/143
+
+Card Name:	Akroma, Angelic Avenger
+Card Color:	W
+Mana Cost:	4WWW
+Type & Class:	Creature - Angel Illusion Legend
+Pow/Tou:	6/4
+Card Text:	Flying, Trample
+		When Akroma comes into play, return all other permanents to their owners hands
+		{tap}:Return target permanent to its owner's hand
+Flavor Text:	"My destiny is to avenge my protector"
+Artist:		Roger Raupp
+Rarity:		R
+Card #:		5/143
+
+Card Name:	Yawgmoth, Phyrexian Overlord
+Card Color:	B
+Mana Cost:	5BBBB
+Type & Class:	Creature - Demon Legend
+Pow/Tou:	9/1
+Card Text:	Flying, First Strike, Fear
+		{tap}:Remove target permanent from the game
+		When Yawgmoth comes into play,destroy all other permanents you control
+		Whenever Yawgmoth damages a creature, put a +2/+2 counter on it
+		Pay 3 life: Regenerate Yawgmoth
+Flavor Text:	"It is time"
+Artist:		Roger Raupp
+Rarity:		R
+Card #:		6/143
+
+Card Name:	Firebreathing
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	You may play this antime you could play an instant
+		Enchanted creature has "R:+1/+0 until end of turn
+Flavor Text:	"Power is the answer" -Phage
+Artist:		Scott M. Fischer
+Rarity:		C
+Card #:		7/143
+
+Card Name:	Break Up
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Turn target creature with morph face up
+Flavor Text:	"Why do we pray to the Ancestor? Because She listens." 
+		-Mystic elder
+Artist:		Carl Critchlow
+Rarity:		C
+Card #:		8/143
+
+Card Name:	True Familiar
+Card Color:	A
+Mana Cost:	3
+Type & Class:	Artifact Creature - Familiar Legend
+Pow/Tou:	2/2
+Card Text:	True Familiar can't be the target of spells or abilities
+		Creatures you control can't be the target of spells or abilities
+		All spells you play cost 1 less to pay
+		Threshold - All spells you play cost 2 less to pay
+Flavor Text:	n/a
+Artist:		Rebecca Guay
+Rarity:		R
+Card #:		9/143
+
+Card Name:	Solidify
+Card Color:	R
+Mana Cost:	R
+Type & Class:	enchant creature
+Pow/Tou:	n/a
+Card Text:	You may play this anytime you could play an instant
+		enchanted creature is a wall
+Flavor Text:	n/a
+Artist:		Carl Critchlow
+Rarity:		C
+Card #:		10/143
+
+Card Name:	Urza Planeswalker
+Card Color:	U
+Mana Cost:	2UUU
+Type & Class:	Creature - Wizard Legend
+Pow/Tou:	3/3
+Card Text:	{tap}:target permanent can't be the target of spells or abilties this turn
+		UUU:Target permanent becomes or gains protection from the color of your choice
+Flavor Text:	"The time has come, the phyrexians must pay"
+Artist:		Donato Giancola
+Rarity:		R
+Card #:		11/143
+
+Card Name:	Inflation
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	You may play this anytme you could play an instant
+		Enchanted creature has "B:+1/+1 until end of turn
+Flavor Text:	n/a
+Artist:		Alan Pollack
+Rarity:		C
+Card #:		12/143
+
+Card Name:	Phantom's Grasp
+Card Color:	W
+Mana Cost:	X1W
+Type & Class:	enchant creature
+Pow/Tou:	n/a
+Card Text:	enchanted creature comes into play with X +1/+1 counters on it and 
+		has: prevent all damage that is dealt to this creature, remove a +1/+1 counter.
+Flavor Text:	n/a
+Artist:		Dave Dorman
+Rarity:		U
+Card #:		13/143
+
+Card Name:	Moat
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Non-flying creatures can't attack you
+Flavor Text:	"If you can't get across it, fly over it" -Commander Eesha"
+Artist:		Adam Rex
+Rarity:		R
+Card #:		14/143
+
+Card Name:	Phyrexian Warcruiser
+Card Color:	A
+Mana Cost:	5
+Type & Class:	Artifact Creature - Ship
+Pow/Tou:	4/5
+Card Text:	Threshold - Phyrexian Warcruiser has First Strike,Haste,Trample,Flying,Fear
+		Spirit Link,B:Regenerate Phyrexian Warcruiser and Attacking doesn't cause Phyrexian Warcruiser to tap
+Flavor Text:	Phyrexians weave tales thicker than tapestries.
+Artist:		Eric Peterson
+Rarity:		R
+Card #:		15/143
+
+Card Name:	Phage The Untouchable
+Card Color:	B
+Mana Cost:	2BBB
+Type & Class:	Creature - Bird Soldier Spirit
+Pow/Tou:	4/1
+Card Text:	First Strike
+		0:Return Phage to its owner's hand
+		0:Phage can't be the target of spells or abilities this turn
+		0:Regenerate Phage
+Flavor Text:	"You're worthless to me"
+Artist:		David Martin
+Rarity:		R
+Card #:		16/143
+
+Card Name:	Aven Overseer
+Card Color:	W
+Mana Cost:	3WWWW
+Type & Class:	Creature - Bird Soldier Legend
+Pow/Tou:	3/7
+Card Text:	Flying, Protection from Creatures
+		Aven Overseer can't be the target of spells or abilities
+		Prevent all damage that would be dealt to Aven Overseer
+Flavor Text:	n/a
+Artist:		Jim Nelson
+Rarity:		R
+Card #:		17/143
+
+Card Name:	Solitude
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Prevent all damage that would be dealt to you.
+Flavor Text:	n/a
+Artist:		Eric Peterson
+Rarity:		R
+Card #:		18/143
+
+Card Name:	Magnetic Burst
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	You may play this anytime you could play an instant
+		Whenever enchanted creature deals damage, you gain that much life
+Flavor Text:	"Our unity revives our hopes."
+Artist:		Jeff Easley
+Rarity:		U
+Card #:		19/143
+
+Card Name:	Ivory Mask
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	You can't be the target of spells or abilities
+Flavor Text:	Webs of the mask unravel in the light of truth.
+Artist:		Doug Chaffee
+Rarity:		R
+Card #:		20/143
+
+Card Name:	Megamorph
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage, it does double that damage instead
+Flavor Text:	n/a
+Artist:		Christopher Moeller
+Rarity:		U
+Card #:		21/143
+
+Card Name:	Untamed Winds
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature is unblockable.
+		Whenever enchanted creature deals damage to a player, you may draw a card.
+Flavor Text:	"Our unity conquers all fears." 
+Artist:		Christopher Moeller
+Rarity:		U
+Card #:		22/143
+
+Card Name:	Venomous Fangs
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a creature, destroy that creature
+Flavor Text:	"Im not here to be entertained" - Titania, Gaia Disciple
+Artist:		Matthew D. Wilson
+Rarity:		U
+Card #:		23/143
+
+Card Name:	Full Moon
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a creature, put a +1/+1 counter on it.
+Flavor Text:	n/a
+Artist:		Scott M. Fischer
+Rarity:		U
+Card #:		24/143
+
+Card Name:	Semelia, Guardian Angel
+Card Color:	BW
+Mana Cost:	3BW
+Type & Class:	Creature - Angel Legend
+Pow/Tou:	3/3
+Card Text:	Flying, Creature you control get +1/+1, Opponent's creatures get -1/-1
+		2W: Creatures you control get +1/+1 until end of turn
+		2B: Opponent's creatures get -1/-1 until end of turn
+Flavor Text:	n/a
+Artist:		Rob Alexander
+Rarity:		R
+Card #:		25/143
+
+Card Name:	Mother Gaia
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Creature - Legend
+Pow/Tou:	1/10
+Card Text:	Kicker X
+		All other legends and elves get +1/+1
+		2G: Put a 1/1 green elf token into play
+		Sacrifice an elf: all elves get +1/+1 until end of turn
+		If you paid the kicker cost, put X 1/1 green elf tokens into play
+Flavor Text:	"I call and the world answers"
+Artist:		Gary Ruddell
+Rarity:		R
+Card #:		26/143
+
+Card Name:	Avatara
+Card Color:	WBURG
+Mana Cost:	3WBURG
+Type & Class:	Creature - Avatar Legend
+Pow/Tou:	7/7
+Card Text:	Flying, First Strike, Fear, Spirit Link, Trample
+Flavor Text:	n/a
+Artist:		Ron Spears
+Rarity:		R
+Card #:		27/143
+
+Card Name:	Mishra, Phyrexian Emissionary
+Card Color:	BW
+Mana Cost:	3BW
+Type & Class:	Creature - Legend
+Pow/Tou:	3/3
+Card Text:	X1W,{tap}: Mishra deals X damage to target creature or player, you gain X life.
+Flavor Text:	"I am the universal supreme deity!"
+Artist:		Heather Hudson
+Rarity:		R
+Card #:		28/143
+
+Card Name:	Megeta's Blessing
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature comes into play, destroy it
+Flavor Text:	n/a
+Artist:		Mike Ploog
+Rarity:		R
+Card #:		29/143
+
+Card Name:	Alexi's Blessing
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature comes into play, return it to its owner's hand
+Flavor Text:	n/a
+Artist:		Mike Ploog
+Rarity:		R
+Card #:		30/143
+
+Card Name:	Greel's Blessing
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature comes into play, that player discards a card from his/her hand
+Flavor Text:	n/a
+Artist:		Mike Ploog
+Rarity:		R
+Card #:		31/143
+
+Card Name:	Latulla's Blessing
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature comes into play, that creature's controller takes X damage, 
+		where X is its converted mana cost
+Flavor Text:	n/a
+Artist:		Mike Ploog
+Rarity:		R
+Card #:		32/143
+
+Card Name:	Jolreal's Blessing
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Lands are now 3/3 creatures that still count as lands
+Flavor Text:	n/a
+Artist:		Mike Ploog
+Rarity:		R
+Card #:		33/143
+
+Card Name:	Freyalise, Master Planeswalker
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Creature - Wizard Legend
+Pow/Tou:	4/4
+Card Text:	As Freyalise comes into play, untap all basic lands you control and tap all basic lands target opponent controls
+		1GG,{tap}: tap or untap all basic lands target player controls.
+Flavor Text:	"I cover the land with mana and it thrives."
+Artist:		Edward P. Beard, Jr.
+Rarity:		R
+Card #:		34/143
+
+Card Name:	Otarian Enchantress
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Creature - Druid
+Pow/Tou:	*/*
+Card Text:	Power and toughness are equal to the number of enchantments and artifacts in play.
+		Whenever you play an enchantment or artifact, you may draw a card.
+		G,{tap}: put an enchantment or artifact from your hand into play.
+Flavor Text:	n/a
+Artist:		Alan Pollack
+Rarity:		R
+Card #:		35/143
+
+Card Name:	Mirror
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	make a copy of target permanent or spell, there may be new targets for the spell.
+Flavor Text:	n/a
+Artist:		Tony Szczudlo
+Rarity:		R
+Card #:		36/143
+
+Card Name:	Split Damage
+Card Color:	R
+Mana Cost:	RR
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature may divide its combat damage among any number of target creatures or players
+Flavor Text:	n/a
+Artist:		Jim Nelson
+Rarity:		U
+Card #:		37/143
+
+Card Name:	Attract
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature can't be the target of spells or abilities.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		C
+Card #:		38/143
+
+Card Name:	Detract
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has to be the target of spells or abilities.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		C
+Card #:		39/143
+
+Card Name:	Ring of Truth
+Card Color:	W
+Mana Cost:	WW
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has protection from all colors.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		40/143
+
+Card Name:	Ring of Doom
+Card Color:	B
+Mana Cost:	BB
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has "{tap}: Destroy target creature".
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		41/143
+
+Card Name:	Ring of Duty
+Card Color:	G
+Mana Cost:	GG
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has "{tap}: Add two mana of any color to your mana pool".
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		42/143
+
+Card Name:	Ring of Law
+Card Color:	R
+Mana Cost:	RR
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has "{tap}: This creature deals 3 damage to target creature or player".
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		43/143
+
+Card Name:	Ring of Reason
+Card Color:	U
+Mana Cost:	UU
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has "{tap}: Draw three cards".
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		44/143
+
+Card Name:	Mox 
+Card Color:	A
+Mana Cost:	4
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	{tap}: add 4 colorless mana to your mana pool.
+		Sacrifice Mox: add any number of colorless mana to your mana pool.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		45/143
+
+Card Name:	Ring of All
+Card Color:	WBURG
+Mana Cost:	WBURG
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has Trample, Spirit Link, Fear, First Strike, Flying, Haste,
+		Attacking doesn't cause this creature to tap, +3/+3, 1: Regenerate this Creature 
+		and Protection from any color.
+Flavor Text:	n/a
+Artist:		Bradley Williams
+Rarity:		R
+Card #:		46/143
+
+Card Name:	Crypt Angel
+Card Color:	A
+Mana Cost:	3
+Type & Class:	Artifact Creature - Angel
+Pow/Tou:	1/2
+Card Text:	Kicker 1, Pay X life
+		Flying
+		If you paid the kicker, Crypt Angel comes into play with X +1/+1 counters on it.
+Flavor Text:	n/a
+Artist:		Mark Brill
+Rarity:		R
+Card #:		47/143
+
+Card Name:	Titania, Gaia Disciple
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Elf Legend
+Pow/Tou:	1/1
+Card Text:	Whenever a player plays a spell, put a +1/+1 counter on Titania, Gaia Disciple.
+Flavor Text:	"What Was That?"
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		48/143
+
+Card Name:	Specter's Wail
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a player, that player discards a card.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		49/143
+
+Card Name:	Dervish's Wind
+Card Color:	G
+Mana Cost:	1GG
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a player, put a +1/+1 counter on enchanted creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		50/143
+
+Card Name:	Matoc, Lavamancer
+Card Color:	RGW
+Mana Cost:	RGW
+Type & Class:	Creature - Warrior Legend
+Pow/Tou:	3/2
+Card Text:	First Strike	
+		G: Regenerate Matoc
+		R: Matoc deals 1 damage to target creature or player.
+		W: Matoc gains protection from any color until end of turn.
+		RGW: Matoc gets +3/+3 and can't be blocked by blue or black creatures until end of turn.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		51/143
+
+Card Name:	Phyrexian Juggernaut
+Card Color:	A
+Mana Cost:	7
+Type & Class:	Artifact Creature
+Pow/Tou:	7/5
+Card Text:	Can't be blocked by Walls.
+		Attacks each turn if able.	
+		Rampage:2
+		Trample
+		Flanking
+		First Strike
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		52/143
+
+
+Card Name:	Honest Deed
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Spells you play can be played as an instant.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		53/143
+
+
+Card Name:	DisHonest Deed
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Spells the opponent plays has to be played as sorceries.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		54/143
+
+Card Name:	Steal Mana
+Card Color:	A
+Mana Cost:	2
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Spells you play cost 1 less to pay. 
+		Spells the opponent plays cost 1 more to pay.
+		Threshold - Spells you play cost 2 less to pay.
+		Spells the opponent plays cost 2 more to pay.	
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		55/143
+
+Card Name:	Terravolver
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Volver
+Pow/Tou:	*/*
+Card Text:	Trample
+		Power and toughness are equal to the number of green creatures and	
+		creatures with trample in play.
+		Whenever you play a land or green spell, put a +1/+1 counter on Terravolver.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		56/143
+
+Card Name:	Magnivolver
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Volver
+Pow/Tou:	*/*
+Card Text:	Haste
+		Power and toughness are equal to the number of red creatures and	
+		creatures with haste in play.
+		Whenever you play a sorcery or red spell, put a +1/+1 counter on Magnivolver.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		57/143
+
+Card Name:	Cognivolver
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Volver
+Pow/Tou:	*/*
+Card Text:	Flying
+		Power and toughness are equal to the number of blue creatures and	
+		creatures with flying in play.
+		Whenever you play an instant or blue spell, put a +1/+1 counter on Cognivolver.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		58/143
+
+Card Name:	Cantivolver
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Volver
+Pow/Tou:	*/*
+Card Text:	First Strike
+		Power and toughness are equal to the number of white creatures and	
+		creatures with first strike in play.
+		Whenever you play an enchantment or white spell, put a +1/+1 counter on Cantivolver.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		59/143
+
+
+Card Name:	Mortivolver
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Volver
+Pow/Tou:	*/*
+Card Text:	B:Regenerate
+		Power and toughness are equal to the number of black creatures and	
+		creatures with regeneration in play.
+		Whenever you play a creature or black spell, put a +1/+1 counter on Mortivolver.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		60/143
+
+
+Card Name:	Exiled Myst
+Card Color:	A
+Mana Cost:	1
+Type & Class:	Legendary Artifact
+Pow/Tou:	n/a
+Card Text:	G: creatures you control gain trample or +1/+1 until end of turn.
+		R: creatures you control gain haste or first strike until end of turn.
+		W: creatures you control gain spirit link or attacking doesn't cause it to tap until end of turn.
+		U: creatures you control gain flying or are unblockable until end of turn.
+		B: creatures you control gain fear or B:regenerate until end of turn.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		61/143
+
+Card Name:	Obsessive Growth
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature has trample. 
+		At the beginning of your upkeep, you may put a +1/+1 counter on enchanted creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		62/143
+
+Card Name:	Zephid's Cloak
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a player, you may return target permanent that player controls
+		to its owner's hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		63/143
+
+Card Name:	Shiv's Cloak
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a player, you may deal 3 damage to target
+		creature or player.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		64/143
+
+Card Name:	Gaea's Cloak
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a player, you may put a +2/+2 counter on target creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		65/143
+
+Card Name:	Serra's Cloak
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a player, you may gain 4 life.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		66/143
+
+Card Name:	Vampiric Cloak
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a player, you may destroy target non-artifact, non-black 
+		creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		67/143
+
+Card Name:	Super Rancor
+Card Color:	G
+Mana Cost:	XG
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +X/+X and has trample.
+		when super rancor is put into a graveyard from play, return it to its owner's hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		68/143
+
+Card Name:	Serra's Blessing
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature you control deals combat damage to a player, you may gain 3 life.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		69/143
+
+Card Name:	Zephid's Blessing
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature you control deals combat damage to a player, you may return target creature that 
+		player controls to its owner's hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		70/143
+
+Card Name:	Shiv's Blessing
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature you control deals combat damage to a player, you may deal 2 damage to target creature
+		or player.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		71/143
+
+Card Name:	Gaea's Blessing
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature you control deals combat damage to a player, you may put a +1/+1 counter on target creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		72/143
+
+Card Name:	Vampiric Blessing
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:	Whenever a creature you control deals combat damage to a player, you may destroy target artifact or	
+		black creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		73/143
+
+Reprints:
+
+Card Name:	Rhox
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Creature - Beast
+Pow/Tou:	5/5
+Card Text:	You may have Rhox do its combat damage to defending player as though it weren't blocked.
+		2G: Regenerate Rhox
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		74/143
+
+Card Name:	Serra Avatar
+Card Color:	W
+Mana Cost:	4WWW
+Type & Class:	Creature - Avatar
+Pow/Tou:	*/*
+Card Text:	Serra Avatar has power and toughness each equal to your life total.
+		When Serra Avatar is put into a graveyard, shuffle Serra Avatar into its owner's library instead.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		75/143
+
+Card Name:	Rushwood Elemental
+Card Color:	G
+Mana Cost:	GGGGG
+Type & Class:	Creature - Elemental
+Pow/Tou:	4/4
+Card Text:	Trample
+		At the beginning of your upkeep, you may put a +1/+1 counter on Rushwood Elemental.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		76/143
+
+Card Name:	Thorn Elemental
+Card Color:	G
+Mana Cost:	5GG
+Type & Class:	Creature - Elemental
+Pow/Tou:	7/7
+Card Text:	You may have Thorn Elemental do its combat damage to defending player as though it weren't blocked.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		77/143
+
+Card Name:	Elvish Piper
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Elf
+Pow/Tou:	1/1
+Card Text:	G,{tap}: Put a creature card from your hand into play.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		78/143
+
+
+Card Name:	Blinding Angel
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Creature - Angel
+Pow/Tou:	2/4
+Card Text:	Whenever Blinding Angel deals combat damage to a player, that player skips his/her next combat phase.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		79/143
+
+Card Name:	Birds of Paradise
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Creature - Bird
+Pow/Tou:	0/1
+Card Text:	{tap}: Add one mana of any color to your mana pool.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		80/143
+
+
+Card Name:	City of Brass
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Land
+Pow/Tou:	n/a
+Card Text:	Whenever City of Brass becomes tapped, It deals 1 damage to you.
+		{tap}: Add one mana of any color to your mana pool.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		81/143
+
+Card Name:	Gaea's Cradle
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Legendary Land
+Pow/Tou:	n/a
+Card Text:	{tap}: Add one mana for each creature you control.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		82/143
+
+Card Name:	Serra's Sanctum
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Legendary Land
+Pow/Tou:	n/a
+Card Text: 	{tap}: Add one mana for each enchantment you control.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		83/143
+
+Card Name:	Volrath's Stronghold
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Legendary Land
+Pow/Tou:	n/a
+Card Text:	{tap}: Add one colorless mana to your mana pool.
+		1B,{tap}: Put target card from your graveyard on top of your library.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		84/143
+
+Card Name:	Tolarian Academy
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Legendary Land
+Pow/Tou:	n/a
+Card Text:	{tap}: Add one mana for each artifact you control.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		85/143
+
+Card Name:	Keldon Necropolis
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Legendary Land
+Pow/Tou:	n/a
+Card Text:	{tap}: Add one colorless mana to your mana pool.
+		2R,{tap}: Keldon Necropolis deals 2 damage to target creature or player.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		86/143
+
+Card Name:	Icy Manipulator
+Card Color:	A
+Mana Cost:	4
+Type & Class: Artifact Creature
+Pow/Tou:	2/3
+Card Text:	1,{tap}: Tap target artifact, creature or land.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		87/143
+
+Card Name:	Vampiric Tutor
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Pay 2 life, search your library for a card and put it on top of your library.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		88/143
+
+Card Name:	Dust Bowls
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Legendary Land
+Pow/Tou:	n/a
+Card Text:	{tap}: Add one colorless mana to your mana pool.
+		1,{tap}: Tap target land.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		89/143
+
+Card Name:	Argothian Forest
+Card Color:	L
+Mana Cost:	n/a
+Type & Class:	Legendary Land
+Pow/Tou:	n/a
+Card Text:	{tap}: add one colorless mana to your mana pool.
+		G,{tap}: regenerate target creature or land.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		90/143
+
+Card Name:	Zephid's Tutor
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Search your library for an instant card and put it on top of your library.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		91/143
+
+Card Name:	Serra's Tutor
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Search your library for an enchantment or artifact card and put it on top of your library.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		92/143
+
+Card Name:	Gaea's Tutor
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Search your library for a creature card and put it on top of your library.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		93/143
+
+Card Name:	Shiv's Tutor
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Search your library for a sorcery card and put it on top of your library.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		94/143
+
+Card Name:	Crawlspace
+Card Color:	A
+Mana Cost:	3
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	No more than two creatures can attack you each combat phase.
+		No more than two creatures can block you each combat phase.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		95/143
+
+Card Name:	Rancor Cloak
+Card Color:	GW
+Mana Cost:	GW
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +2/+0 and has trample.
+		Whenever enchanted creature deals damage, you gain that much life.
+		Enchanted creature has protection from any color.
+		when Rancor is put into a graveyard from play, return it to its owner's hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		C
+Card #:		96/143
+
+Card Name:	Charisma
+Card Color:	U
+Mana Cost:	UUU
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Whenever enchanted creature deals damage to a creature, you control that creature as long as 
+		Charisma remains in play.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		97/143
+
+Card Name:	Serra's Embrace
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +2/+2, has flying and attacking doesn't cause it to tap.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		98/143
+
+Card Name:	Shiv's Embrace
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +2/+2, has flying and has "R: enchanted creature gets +1/+0 until end of turn".
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		99/143
+
+Card Name:	Zephid's Embrace
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +2/+2, has flying and can't be the target of spells or abilities.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		100/143
+
+Card Name:	Gaea's Embrace
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +3/+3, has trample and has "G: regenerate enchanted creature".
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		101/143
+
+
+Card Name:	Vampiric Embrace
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Enchanted creature gets +2/+2, and whenever it damages a creature, put a +1/+1 counter on it.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		102/143
+
+Card Name: Aphetto Meddler
+Card Color:	U
+Mana Cost:	UU
+Type & Class: Creature - Wizard
+Pow/Tou:	2/2
+Card Text:	When Aphetto Meddler comes into play, choose a nonland card.
+		the nonland card can't be played.
+		UU: Counter target spell
+		1U: target spell that targets a permanent targets another permanent instead.
+		U: return Aphetto Meddler to its owner's hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		103/143
+
+Card Name:	Two-Headed Dragon
+Card Color:	R
+Mana Cost:	4RR
+Type & Class:	Creature - Dragon
+Pow/Tou:	4/4
+Card Text:	Flying
+		1R: Two-headed dragon gets +2/+0 until end of turn.
+		Two-headed dragon can't be blocked except by two or more creatures.
+		It may block one additional creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		104/143
+
+Card Name:	Shiv's Wind
+Card Color:	R
+Mana Cost:	8R
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Shiv's Wind deals 10 damage to target creature or player.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		105/143
+
+
+Card Name:	Vampiric Wind
+Card Color:	B
+Mana Cost:	8B
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Destroy all creatures target player controls. 
+			You gain 2 life for each creature destroyed this way.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		106/143
+
+Card Name:	Gaea's Wind
+Card Color:	G
+Mana Cost:	8G
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Creatures you control get +7/+7 and gain trample until end of turn.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		107/143
+
+Card Name:	Zephid's Wind
+Card Color:	U
+Mana Cost:	8U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Search target player's library for up to 7 cards and remove them from the game.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		108/143
+
+Card Name:	Serra's Wind
+Card Color:	W
+Mana Cost:	8W
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Target player's life is at 20.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		109/143
+
+Card Name:	Somnophore
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Creature - Illusion
+Pow/Tou:	2/2
+Card Text:		Flying
+			Whenever Somnophore deals damage to a player, tap target creature.
+			That creature doesn't untap as long as Somnophore is in play.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		110/143
+
+Card Name:	Morphling
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Creature - Shapeshifter
+Pow/Tou:	3/3
+Card Text:		U: Untap Morphling
+			U: Morphling gains flying until end of turn.
+			U: Morphling can't be the target of spells or abilities this turn.
+			1: Morphling gets +1/+0 until end of turn.
+			1: Morphling gets +0/+1 until end of turn.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		111/143
+
+Card Name: Masticore
+Card Color:	A
+Mana Cost:	4
+Type & Class:	Artifact Creature
+Pow/Tou:	4/4
+Card Text:		At the beginning of your upkeep, sacrifice Masticore unless you discard a card from your hand.
+			2: Masticore deals 1 damage to target creature or player.
+			2: Regenerate Masticore.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		112/143
+
+Card Name: Glorious Anthem
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:		Creatures you control get +1/+1
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		113/143
+
+Card Name: Wrath of God
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:		Destroy all creatures. They can't be regenerated.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		114/143
+
+Card Name: Serra Angel
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Creature - Angel
+Pow/Tou:	4/4
+Card Text:		Flying
+			Attacking doesn't cause Serra Angel to tap.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		115/143
+
+Card Name: Mahamoti Djinn
+Card Color:	U
+Mana Cost:	4UU
+Type & Class:	Creature - Djinn
+Pow/Tou:	5/6
+Card Text:		Flying
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		116/143
+
+Card Name: Shivan Dragon
+Card Color:	R
+Mana Cost:	4RR
+Type & Class:	Creature - Dragon
+Pow/Tou:	5/5
+Card Text:		Flying
+			R: Shivan Dragon gets +1/+0 until end of turn
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		117/143
+
+Card Name: Swords to Plowshares
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Remove target creature from the game.
+			Its controller gains life equal to its power.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		U
+Card #:		118/143
+
+Card Name: Demonic Tutor
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:	Search your library for a card and put it in your hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		119/143
+
+Card Name: Royal Assassin
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Creature - Assassin
+Pow/Tou:	1/1
+Card Text:		{tap}: destroy target tapped creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		120/143
+
+Card Name: Tidal Kraken
+Card Color:	U
+Mana Cost:	6UU
+Type & Class:	Creature - Beast
+Pow/Tou:	6/6
+Card Text:	Tidal Kraken is unblockable.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		121/143
+
+Card Name: Biological Wurm
+Card Color:	G
+Mana Cost:	4GGG
+Type & Class:	Creature - Mutant Wurm
+Pow/Tou:	7/6
+Card Text:		Trample
+			Biological Wurm can't be the target of spells or ablities.		
+			When Biological Wurm is put into a graveyard from play, 
+			put 7 6/1 green wurm creature tokens with trample into play.
+			Those tokens can't be the target of spells or abilties.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		122/143
+
+Card Name: Intrepid Hero
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Soldier
+Pow/Tou:	1/1
+Card Text:		{tap}: destroy target creature with power 4 or greater.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		123/143
+
+Card Name: Fork
+Card Color:	R
+Mana Cost:	RR
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Make a copy of target sorcery or instant, you may choose new targets for the copy.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		124/143
+
+Card Name: Mana Flare
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:		Whenever a player taps a land for mana, it produces an additional mana of the same type.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		125/143
+
+Card Name: Ancestrall Recall
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Draw three cards.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		126/143
+
+
+Card Name: Force Field
+Card Color:	A
+Mana Cost:	2
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:		1: target creature only does 1 damage to you this turn.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		127/143
+
+
+Card Name: Early Harvest
+Card Color:	G
+Mana Cost:	1GG
+Type & Class:	Instant
+Pow/Tou:	n/a
+Card Text:		Target player untaps all basic lands he/she controls.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		128/143
+
+Card Name: Worship
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:		If you control a creature, damage that would reduce your life to less than 1
+			reduces it to 1 instead.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		129/143
+
+Card Name: Black Lotus
+Card Color:	A
+Mana Cost:	0
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:		Sacrifice Black Lotus: Add three mana of any color to your mana pool.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		130/143
+
+Card Name: Time Walk
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:		Take an extra turn.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		131/143
+
+Card Name: Clone
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Clone
+Pow/Tou:	*/*
+Card Text:		As clone comes into play, choose target creature.
+			Clone comes into play as a copy of that creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		132/143
+
+Card Name: Flametongue Mongoose
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Mongoose
+Pow/Tou:	5/1
+Card Text:		Haste
+			Flametongue Mongoose can't be countered.
+			Flametongue Mongoose can't be the target of spells or abilities.
+			When Flametongue comes into play, it deals 5 damage to target creature or player.
+			When Flametongue comes into play, Tap all other permanents in play.
+			At end of turn, return Flametongue Mongoose to your hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		133/143
+
+
+Card Name: Thundermare
+Card Color:	R
+Mana Cost:	5R
+Type & Class:	Creature - Horror
+Pow/Tou:	5/5
+Card Text:		Haste
+			When Thundermare comes into play, tap all other creatures in play.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		134/143
+
+Card Name: Coat of Arms
+Card Color:	A
+Mana Cost:	5
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:		Each creature gets +1/+1 with each other creature in play that shares a creature type with it.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		135/143
+
+Card Name: Sengir Vampire
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Creature - Vampire
+Pow/Tou:	4/4
+Card Text:		Flying
+			Whenever Sengir Vampire damages a creature, put a +1/+1 counter on it.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		136/143
+
+Card Name: Erhnam Djinn	
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Djinn
+Pow/Tou:	4/5
+Card Text:		During your upkeep, target non-wall creature an opponent controls gains forestwalk until 
+			your next upkeep.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		137/143
+
+Card Name: Pariah
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:	Damage that is dealt to you is dealt to enchanted creature instead.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		138/143
+
+Card Name: Opposition
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:		Tap an untapped creature you control: Tap target artifact, creature or land.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		139/143
+
+Card Name: Persuasion
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Enchant Creature
+Pow/Tou:	n/a
+Card Text:		You control enchanted creature.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		140/143
+
+Card Name: Planar Portal
+Card Color:	A
+Mana Cost:	6
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:		6,{tap}: search your library for a card and put that card in your hand.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		141/143
+
+Card Name: Mox Altar
+Card Color:	A
+Mana Cost:	2
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	At the beginning of your upkeep you may add 2 colorless mana to your mana pool.
+		Your permanents untap during each other player's untap step.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		142/143
+
+Card Name: Obliterate
+Card Color:	R
+Mana Cost:	6RR
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:		Obliterate can't be countered.
+			Destroy all permanents in play.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		143/143
+
+Card Name: Mind over Matter
+Card Color:	U
+Mana Cost:	2UUUU
+Type & Class:	Enchantment
+Pow/Tou:	n/a
+Card Text:		Discard a card from your hand: Tap or untap target artifact, creature or land.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		144/143
+
+Card Name: Rejuvinate
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Sorcery
+Pow/Tou:	n/a
+Card Text:		return all enchantments, artifacts and creatures from your graveyard to play.
+Flavor Text:	n/a
+Artist:		Tim Hildebrandt
+Rarity:		R
+Card #:		145/143
+
+Card Name:	Mox Pearl
+Card Color:	A
+Mana Cost:	4
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	{tap}: You gain 3 life..
+		3W,Sacrifice Mox Pearl: You gain 15 life.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		?/143
+
+Card Name:	Mox Ruby
+Card Color:	A
+Mana Cost:	4
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	{tap}: Mox ruby deals 3 damage to target creature or player.
+		3R,Sacrifice Mox Ruby: Mox Ruby deals 15 damage to target craeture or player..
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		?/143
+
+Card Name:	Mox Emerald
+Card Color:	A
+Mana Cost:	4
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	{tap}: target creature gets +3/+3 until end of turn.
+		3G,Sacrifice Mox: target creature gets +15/+15 until end of turn.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		?/143
+
+Card Name:	Mox Sapphire
+Card Color:	A
+Mana Cost:	4
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	{tap}: Draw cards equal to the number of cards in your hand.
+		3U,Sacrifice Mox: Draw 7 cards.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		?/143
+
+Card Name:	Mox Opal
+Card Color:	A
+Mana Cost:	4
+Type & Class:	Artifact
+Pow/Tou:	n/a
+Card Text:	{tap}: Add three black mana to your mana pool.
+		3B,Sacrifice Mox: add 15 black mana to your mana pool.
+Flavor Text:	n/a
+Artist:		Ben Thompson
+Rarity:		R
+Card #:		?/143
+
+
+

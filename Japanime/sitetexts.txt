@@ -1,0 +1,11 @@
+&Link1=Home
+
+&Link2=Contact
+
+&Link3=Forum
+
+&Link4=Links
+
+&Link5=Information
+
+&Link6=Multimedia

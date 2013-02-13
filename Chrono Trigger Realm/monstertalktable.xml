@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="euc-kr" ?>		
+
+<enemy_monster_talk_table>				
+
+	<alarm>			
+		<discovery>	tik...toc...tik...toc...tik...toc...	</discovery>
+		<discovery>	alarm!!  alert!!  its enemy, enemy!!!!	</discovery>
+		<attack>	take this!!	</attack>
+		<attack>	What are the scums like you doing in the clock tower!!	</attack>
+		<hp50>	tik...plump..thump...plump...	</hp50>
+		<hp25>	ti...toc...plump...thump...	</hp25>
+		<kill>	crack...dingdong...dingdong...	</kill>
+		<dead>	plump...crrak...kkrash!!	</dead>
+		<dead>	plump....crrak....	</dead>
+	</alarm>			
+	<alice>			
+		<attack>	you are not the master, you are just a pathetic human...	</attack>
+		<attack>	what, not the master!!!	</attack>
+		<attack>	Why did you pretend to be our master...You are mean!!	</attack>
+		<attack>	Why...are did you lie to me?  You want to be the master that bad?	</attack>
+		<hp50>	No.. I can't die now! Not before meeting the master...	</hp50>
+		<hp25>	M... Master..Please come quick...I can't hold any...	</hp25>
+		<kill>	Be proud of me, master. I've got rid of the villians imitating the master!	</kill>
+		<dead>	M..Master you didn't come 'til the end, master...I...good bye...	</dead>
+		<dead>	It...its...too....late I'll be... your servent after death, I'll wait you master..	</dead>
+		<dead>	no...too late...even if you come, you won't be able to revive me...	</dead>
+	</alice>			
+	<alligator>			
+		<discovery>	krrk...	</discovery>
+		<attack>	grk!  kwaaack!!!	</attack>
+		<hp50>	krrkkrrk...	</hp50>
+		<hp25>	kruk...kukkuk...cuk...	</hp25>
+		<kill>	kkkk....	</kill>
+		<dead>	k.....	</dead>
+	</alligator>			
+	<angeling>			
+		<discovery>	Human! huphm!	</discovery>
+		<discovery>	I found human!  Lets go, my followers!!	</discovery>
+		<attack>	Die, you low races!!!	</attack>
+		<attack>	Don't even think of attack back!!	</attack>
+		<hp50>	You..You are not bad....	</hp50>
+		<hp25>	hup...You nearly got me...damn...	</hp25>
+		<kill>	You foolish...Know your place, you lower animals!!	</kill>
+		<dead>	urrp!  boom!!!	</dead>
+	</angeling>			
+	<anolian>			
+		<discovery>	gwurk...Human!!	</discovery>
+		<attack>	die, Human!	</attack>
+		<hp50>	kkuk...	</hp50>
+		<hp25>	hukhuk...	</hp25>
+		<kill>	gwurk!!  Killed, We killed human!!	</kill>
+		<dead>	kwek..Human...Human Killed me...gwurk!!	</dead>
+	</anolian>			
+	<archer_skeleton>			
+		<discovery>	Living creatures...Kill them all!!	</discovery>
+		<discovery>	I can hear the breath of living creature from somewhere!	</discovery>
+		<attack>	Die living creature!!	</attack>
+		<hp50>	uurk...	</hp50>
+		<hp25>	plump...keck...	</hp25>
+		<kill>	Killed it, kdderk...Another light of living has vanished..kdderk...	</kill>
+		<dead>	don't..don't think its all over!!	</dead>
+	</archer_skeleton>			
+	<bathory>			
+		<discovery>	eihihihit~ Where are you going?  come, Granny will give you a treat!!	</discovery>
+		<attack>	here, take it!! take this granny's love!!!	</attack>
+		<hp50>	eihihihit~	</hp50>
+		<hp25>	kolrok...	</hp25>
+		<kill>	this granny's love too much for you?  eihihihit~	</kill>
+		<dead>	where... where is your respect for the elders..	</dead>
+	</bathory>			
+	<bon_gun>			
+		<discovery>	You entered, knowing that you will die?	</discovery>
+		<attack>	It'll do it without pain.	</attack>
+		<hp50>	V..very well, I didn't expect you to fight equal to me like this	</hp50>
+		<hp50>	You are good... I regret that I underestimated you</hp50>
+		<hp25>	hoork...hoork...still...still I can fight more, I can!	</hp25>
+		<hp25>	Your breathing...is getting rougher..hoork hoork...	</hp25>
+		<kill>	I only hope this you didn't feel much pain, human!	</kill>
+		<kill>	Please don't come here anymore. I don't want to attack you.	</kill>
+		<kill>	Train 10 more years before fighting me again.	</kill>
+		<dead>	khup...I ..I lost...	</dead>
+		<dead>	I..I guess I need more practise...	</dead>
+	</bon_gun>			
+	<deviruchi>			
+		<discovery>	Yo Momma so fat she jumped up in the air and got stuck 
+
+	</discovery>
+		<attack>	Yo momma so fat shes on both side of the family</attack>
+		<attack>	Yo mama so ugly she gets 364 extra days to dress up for Halloween.
+	</attack>
+<attack>Yo mama soooo poor she can't even pay attention!
+</attack>
+<attack>Yo moma so stupid if she would to speak her mind she would be speechless
+
+</attack>
+<attack>Your Mama so dumb she brought a spoon to the super bowl.
+
+</attack>
+<attack>Yo Mama's so damn ugly that she turned your dad gay.
+
+</attack>
+<attack>Yo mama's so bald, Mr. Clean got jealous.
+
+</attack>
+<attack>Yo mama so ugly she fell out of the Ugly Tree, hitting every branch on the way down.
+
+</attack>
+<attack>Yo mama so stupid it takes her two hours to watch 60 Minutes.
+
+</attack>
+<attack>Yo mama so stupid she sold her Car for Petrol cash!
+
+</attack>
+		<hp50>	ouch ouch! Human..Human is attacking back!	</hp50>
+		<hp25>	This...This human is strong?	</hp25>
+		<kill>	Dead...No fun...try and wake up, Human! (kukkuk)	</kill>
+		<kill>	Dead, dead!  Human is dead..wookiki~	</kill>
+		<dead>	herk...Human...Human Killed me!	</dead>
+		<dead>	you...human...I'll bully you again later!	</dead>
+	</deviruchi>			
+	<evil_druid>			
+		<discovery>	Who came to this dark and slimiest place!!	</discovery>
+		<discovery>	Welcome, Human!  You came to right place to die!!	</discovery>
+		<attack>	Die, human!  Die and return to handful of soil!!	</attack>
+		<attack>	Complete death and argony is my only joy.  Die, human!!	</attack>
+		<hp50>	not bad, human!  but I'm not done yet!!	</hp50>
+		<hp25>	Oh...no ..you have guts...but how long can you hold?	</hp25>
+		<kill>	Finally you died. trying so hard to live, but now you are dead, how do you feel?	</kill>
+		<kill>	I hope the death don't bring you any peace	</kill>
+		<dead>	kek..kkerrrrrk!!!!	</dead>
+		<dead>	kuk..urlp...	</dead>
+	</evil_druid>			
+	<executioner>			
+		<discovery>	You opt for blood?  I'll check it out!!	</discovery>
+		<discovery>	You came, with your desire for blood!!	</discovery>
+		<attack>	here, take my attack! I'll test you!!	</attack>
+		<attack>	Now attack me!! Do you think you can beat me?	</attack>
+		<hp50>	Not yet!!  Far more to go, you blood thursty man!!	</hp50>
+		<hp25>	Very well!  But i'm still attacking you!	</hp25>
+		<kill>	it wasn't...it was just my illusion...?	</kill>
+		<kill>	It was just a normal person...I'm sorry I killed you, human.	</kill>
+		<dead>	of..of cause..I see you are a blood thursty man.but its not over yet!	</dead>
+		<dead>	you...you should think its just the begining, human!!	</dead>
+	</executioner>	
+<fake_angel>			
+		<discovery>	Who came to this dark and slimiest place!!	</discovery>
+		<discovery>	Welcome, Human!  You came to right place to die!!	</discovery>
+		<attack>	Yo mama so stupid, she tripped over a cordless phone.	</attack>
+		<attack>	Yo girlfriend so cheap I threw her a penny for sex and she gave me change...
+!	</attack>
+<attack>Yo moma's like a Chewing Gum machine - 5 cents per blow
+</attack>
+<attack>Yo mommas so dirty, she turned the local swimming baths into the dead sea.
+</attack>
+<attack>Yo mama so ugly she made an onion cry.
+</attack>
+<attack>Yo mama so old her birthday expired.
+
+</attack>
+<attack>Yo Mama so old she the only Creature in Jurassic Park they never had to animate
+
+</attack>
+<attack>Yo mama so old, I told her to act her own age...and she died.
+
+</attack>
+<attack>Yo Mama like a television - even a 2 year old can turn her on
+</attack>
+<attack>
+Yo Sista like a mailbox, open all day and all night...
+</attack>
+		<hp50>	not bad, human!  but I'm not done yet!!	</hp50>
+		<hp25>	Oh...no ..you have guts...but how long can you hold?	</hp25>
+		<kill>	Finally you died. trying so hard to live, but now you are dead, how do you feel?	</kill>
+		<kill>	I hope the death don't bring you any peace	</kill>
+		<dead>	kek..kkerrrrrk!!!!	</dead>
+		<dead>	kuk..urlp...	</dead>
+	</fake_angel>				
+	<ghostring>			
+		<discovery>	where is it...where is it...hoong...	</discovery>
+		<discovery>	its that it?  are you sure its there?  I'll get there...wait...hoong...	</discovery>
+		<attack>	here...take me...whats wrong?  whats wrong? ...hoong...	</attack>
+		<attack>	You don't like me? Don't you like me anymore?  ...hoong...	</attack>
+		<hp50>	Why...Why are you attacking me?  Don't you...like me?  hoong...	</hp50>
+		<hp25>	hoong...hoong...	</hp25>
+		<kill>	Your body...its cold...now we..can be together...	</kill>
+		<kill>	now...together we can...fly around, now.	</kill>
+		<dead>	why...why did you....	</dead>
+		<dead>	you...you don't like me anymore...hoong....	</dead>
+	</ghostring>			
+	<goblin_1>			
+		<discovery>	Human detected!	</discovery>
+		<attack>	Charge!	</attack>
+		<hp50>	hut!	</hp50>
+		<hp25>	huk!!	</hp25>
+		<kill>	chirrk..kidukkiduk...	</kill>
+		<dead>	kek!	</dead>
+	</goblin_1>			
+	<goblin_2>			
+		<discovery>	Its Human, Human!!	</discovery>
+		<attack>	Lets give a bash! hit human!!	</attack>
+		<hp50>	huik!!!	</hp50>
+		<hp25>	hua!!!	</hp25>
+		<kill>	hihihi!!	</kill>
+		<dead>	huk!	</dead>
+	</goblin_2>			
+	<goblin_3>			
+		<discovery>	hut! Human!	</discovery>
+		<attack>	Kill! Human!	</attack>
+		<hp50>	Uhk! Danger!	</hp50>
+		<hp25>	Not yet!	</hp25>
+		<kill>	hihi!	</kill>
+		<dead>	Urk!	</dead>
+	</goblin_3>			
+	<goblin_4>			
+		<discovery>	Its human!	</discovery>
+		<attack>	Kill the human!	</attack>
+		<hp50>	huk!	</hp50>
+		<hp25>	att!	</hp25>
+		<kill>	giggles...	</kill>
+		<dead>	kurk!	</dead>
+	</goblin_4>			
+	<goblin_5>			
+		<discovery>	Human...	</discovery>
+		<attack>	Kill...	</attack>
+		<hp50>	...	</hp50>
+		<hp25>	......	</hp25>
+		<kill>	Hut...	</kill>
+		<dead>	Hup...	</dead>
+	</goblin_5>			
+	<goblin_archer>			
+		<discovery>	I can hit target from miles away! Particullary for the humans...cheerk...	</discovery>
+		<attack>	hoit! hit, human!	</attack>
+		<hp50>	oop!	</hp50>
+		<hp25>	hatt!!	</hp25>
+		<kill>	hahihohiho!!	</kill>
+		<dead>	damn...	</dead>
+	</goblin_archer>			
+	<golem>			
+		<attack>	protect...kill...	</attack>
+		<hp50>	golem..hurt...	</hp50>
+		<hp25>	hurt...hurt...it hurts..	</hp25>
+		<kill>	Quiet...Not talking...Not moving...	</kill>
+		<dead>	Golem...ag...again turn to...stone...	</dead>
+	</golem>			
+	<greatest_general>			
+		<discovery>	hey, you!!  come closer!!	</discovery>
+		<attack>	I'll give you a tough hug!!	</attack>
+		<hp50>	hey you don't hit under the belt!!	</hp50>
+		<hp25>	uhtuht...(흔들흔들)	</hp25>
+		<kill>	How was my hug?  warm?  I see warm blood flowing?	</kill>
+		<dead>	I..I don't want to break apart!!	</dead>
+	</greatest_general>			
+	<high_orc>			
+		<discovery>	chweek!!! How come human entered here!!	</discovery>
+		<attack>	chweek! Die, human!!	</attack>
+		<hp50>	chweek! hurt, it hurts!	</hp50>
+		<hp25>	chweek! I'll hold on...I can hold on longer!	</hp25>
+		<kill>	human..chweek!! killed!!!  chweek!!!	</kill>
+		<dead>	dead..chweek..human killed me...chweek!	</dead>
+	</high_orc>	
+<incubus>			
+		<discovery>	Yo mama has wooden boobs and breast feeds beavers
+	</discovery>
+		<discovery>	Yo Mommy got so many gaps in her teeth it reminds me of Piano keys
+	</discovery>
+		<attack>	Shouldn't you have a license for being that ugly?
+	</attack>
+		<attack>	Sure, I've seen people like you before - but I had to pay an admission...
+	</attack>
+<attack>Yo mama so greasy she uses bacon as a band aid.
+</attack>
+<attack>Yo mama so greasy her freckles slipped off.
+</attack>
+<attack>Yo mama is like a stamp - you lick her, then stick her, and finally then send her away
+</attack>
+<attack>Yo mama is like a shotgun - first she cocks...then she blows.
+
+</attack>
+<attack>Yo mama is like a hardware store - only 10 cents a screw.
+
+</attack>
+<attack>Yo mama is like McDonalds ... Billions and Billions served...
+</attack>
+<attack>Yo kid brother so fat he sat on 4 quarters and made a dollar.
+
+</attack>
+<attack>Yo ex-girlfriend is like Humpty Dumpty...first she gets humped, then she gets dumped.
+</attack>
+		<hp50>	not bad, human!  but I'm not done yet!!	</hp50>
+		<hp25>	Oh...no ..you have guts...but how long can you hold?	</hp25>
+		<kill>	Finally you died. trying so hard to live, but now you are dead, how do you feel?	</kill>
+		<kill>	I hope the death don't bring you any peace	</kill>
+		<dead>	kek..kkerrrrrk!!!!	</dead>
+		<dead>	kuk..urlp...	</dead>
+	</incubus>				
+	<injustice>			
+		<discovery>	taking your head isn't that hard.	</discovery>
+		<attack>	well, I'll let your rips kiss the cold ground!	</attack>
+		<hp50>	huwoot!	</hp50>
+		<hp25>	not bad.	</hp25>
+		<kill>	your body is cold?  need a heater?  khahaha!!	</kill>
+		<dead>	woowoo...human...low creatures like human should never beat me...how...	</dead>
+	</injustice>			
+	<isis>			
+		<discovery>	you! what are you doing!  this is the place for emperor!!	</discovery>
+		<attack>	be quiet!  if you are going to die, die quietely!!	</attack>
+		<hp50>	you..you attack back...	</hp50>
+		<hp25>	now..could you please fall down?	</hp25>
+		<kill>	emperor enjoys the silence..please be quiet!!	</kill>
+		<dead>	ohh..ohh no.. emperor please forgive me...	</dead>
+	</isis>			
+	<joker>			
+		<discovery>	Yo mama so stupid she puts a ruler on her pillow to see how long she slept
+	</discovery>
+		<attack>	Yo mama is like peanut butter -- oh so smooth, creamy, and easy to spread.
+
+	</attack>
+<attack>Yo mama so stupid she noticed a sign reading 'Wet Floor'...so she just did!
+
+</attack>
+<attack>Yo mama so stupid she got locked in the Quickie Mart and nearly starved to death.
+
+
+</attack>
+<attack>Yo mama so stupid she asked for a refund on a jigsaw puzzle complaining it was broken.
+
+
+</attack>
+<attack>Yo mama so stupid she reckoned a Quarterback was a refund...
+
+</attack>
+<attack>Yo mama so stupid she invented a silent car alarm.
+
+</attack>
+<attack>Yo mama so fat when she bends over, we enter Daylight Saving Time.
+
+</attack>
+<attack>Yo mama so fat folks exercise by jogging around her!
+
+</attack>
+<attack>Yo mama so fat she fell into the Grand Canyon....and got stuck
+</attack>
+<attack>Yo mama so fat the circus use her as a trampoline
+
+</attack>
+		<hp50>	oh, you attack back...huhut...	</hp50>
+		<hp25>	you are cute...lets go to the end, daring.	</hp25>
+		<kill>	oh? its over already? but I'm just starting...	</kill>
+		<dead>	you...ar....too ..mean..	</dead>
+	</joker>			
+	<khalitzburg>			
+		<discovery>	Living...Human...alive...	</discovery>
+		<attack>	kill...kill...kill...kill...kill...kill...kill...	</attack>
+		<hp50>	lets make allie...lets make allie...lets make allie...allie...	</hp50>
+		<hp25>	I wan't die...I wan't die...I wan't die...I wan't die...	</hp25>
+		<kill>	Allie...another allie...allie...another allie...	</kill>
+		<dead>	krrk.....body...body is breaking apart...	</dead>
+	</khalitzburg>			
+	<knight_of_abyss>			
+		<discovery>	Would you compete me?	</discovery>
+		<attack>	here, Take my attack!!	</attack>
+		<hp50>	Very stong...You are a good counterpart!	</hp50>
+		<hp25>	I accept you as my rival!!	</hp25>
+		<kill>	no...you are dead...I take back my accepting you as a rival!	</kill>
+		<dead>	You beat me...Strong one! I wish you don't abuse your strength!!	</dead>
+	</knight_of_abyss>			
+	<kobold_1>			
+		<discovery>	Human...bawwow!!	</discovery>
+		<attack>	bawbaw!	</attack>
+		<hp50>	attack, hit!	</hp50>
+		<hp25>	urk!!	</hp25>
+		<kill>	Killed, we killed!!	</kill>
+		<dead>	kaeng!!	</dead>
+	</kobold_1>			
+	<kobold_2>			
+		<discovery>	grrr!!!	</discovery>
+		<attack>	bawwow~	</attack>
+		<hp50>	kng!!	</hp50>
+		<hp25>	hukhuk...	</hp25>
+		<kill>	bawwwww~	</kill>
+		<dead>	kaeng!!	</dead>
+	</kobold_2>			
+	<kobold_3>			
+		<discovery>	Grrrrrrr!!!	</discovery>
+		<attack>	bawbaw!!  bite human apart!!	</attack>
+		<hp50>	kiking...	</hp50>
+		<hp25>	bawwow...	</hp25>
+		<kill>	uwaaaaa!!	</kill>
+		<dead>	kaeng!!	</dead>
+	</kobold_3>			
+	<kobold_archer>			
+		<discovery>	bawwow~ find it! its here!	</discovery>
+		<attack>	chuchut!!  chuchut!!	</attack>
+		<hp50>	kkaeng..	</hp50>
+		<hp25>	kinggkingg~	</hp25>
+		<kill>	ukyalkyal~	</kill>
+		<dead>	kkaeng!!	</dead>
+	</kobold_archer>			
+	<marduk>			
+		<discovery>	What kind of power are you looking for!!	</discovery>
+		<attack>	well, take my wrath!	</attack>
+		<hp50>	You can't take my strength!	</hp50>
+		<hp25>	if you flee now, I'll let you go!	</hp25>
+		<kill>	You are not ccareful enough...better look around elsewhere!	</kill>
+		<dead>	uk...how can it be...god, guide my soul...to you...	</dead>
+	</marduk>			
+	<marionette>			
+		<discovery>	wow! lets play together, mr.human!	</discovery>
+		<attack>	it would be fun, if you go into fire!!  giggles~	</attack>
+		<hp50>	It hurts!	</hp50>
+		<hp25>	little...more fire will keep you quiet.	</hp25>
+		<kill>	ooh! was it too hot? but it was fun, weak mr.human! giggles~	</kill>
+		<dead>	oh yes...I've been hanging up there too long...thank you...	</dead>
+	</marionette>			
+	<merman>			
+		<discovery>	bubble...it human...bubblebubble...	</discovery>
+		<attack>	You have some guts, tresspassing our kingdom, human...bubblebubble...	</attack>
+		<hp50>	This..this human is strong!!	</hp50>
+		<hp25>	I...underestimated you...	</hp25>
+		<kill>	why...You came all the way here with that...bubblebubble...	</kill>
+		<dead>	ohhno...I don't want to turn..into the sea bubble again...bubblebubble...	</dead>
+	</merman>			
+	<metaller>			
+		<attack>	attacking back?  You want a fight?  wanna be smacked down by instruments?	</attack>
+		<hp50>	why?  why are you hitting me?  why do you break~??	</hp50>
+		<hp25>	funny, is it?  funny, huh?  funny, huh?  funny, huh?  funny, huh?	</hp25>
+		<kill>	what?  you are weak?  you should be really ashamed, right?	</kill>
+		<dead>	wha...my violin is stradivarius!! its expensive!!	</dead>
+	</metaller>			
+	<minorous>			
+		<discovery>	Its been long since I met my last weak opponent...MOO~!	</discovery>
+		<attack>	I'll crash you flat with my hammar!!!	</attack>
+		<hp50>	Uhh!  You...you blocked my attack?	</hp50>
+		<hp25>	Well done! But its going to be your last match!!	</hp25>
+		<kill>	Its good to you see flattened like that, human! UmMooHuHuHu~	</kill>
+		<dead>	Moowuauugggg~!!	</dead>
+	</minorous>			
+	<mummy>			
+		<discovery>	May the Living receive death !  dead receive pain!!	</discovery>
+		<attack>	For the honor of osiris!!!	</attack>
+		<hp50>	We are forgotten ones...our names cannot be found anywhere...	</hp50>
+		<hp25>	you...you shall go with me...	</hp25>
+		<kill>	death...it can gives ethernal rest and peace.	</kill>
+		<dead>	now...finally...i can rest...forgive me, great paraoh...ohhh...	</dead>
+	</mummy>			
+	<munak>			
+		<discovery>	found you...wait...	</discovery>
+		<attack>	its not very good to live alone...	</attack>
+		<hp50>	why...why did you...	</hp50>
+		<hp25>	I...I want to be with you...for that you need to die.	</hp25>
+		<kill>	yes...now we are together...unless you revive...	</kill>
+		<dead>	kyaa!!  I...I don't want to end like this!	</dead>
+	</munak>			
+	<mutant_dragon>			
+		<discovery>	kuhhuhu...now its time to burn...wait up!!!	</discovery>
+		<attack>	I burn you to the dust with the hellfire!!	</attack>
+		<hp50>	kueh..kueh...you are tough! but you won't last long!!	</hp50>
+		<hp25>	now, burn!! burn up and turn to the ashes!!	</hp25>
+		<kill>	How do you feel like to be a black ashes? huh? kurarararar~	</kill>
+		<kill>	kurarrarrar~!!! Finally everythings became the ashes, good!!	</kill>
+		<dead>	kuahahah~ Not..Not like this!!	</dead>
+	</mutant_dragon>			
+	<mysteltainn>			
+		<discovery>	wait up! Arn't you eager to fight me?	</discovery>
+		<attack>	good! thats how you fight! I'll show you how to use swords exactly!	</attack>
+		<attack>	Sword is killing tool! sword fencing is for murder people! Know this before attack me!	</attack>
+		<hp50>	You are doing well! But how about this?	</hp50>
+		<hp25>	Good Good! You are blocking well, right! Take this!!	</hp25>
+		<kill>	huh! this guy wasn't the one...is there only weak ones around, here?	</kill>
+		<dead>	G..good..since you are quiet a good fighter, I don't regret being.... destroyed...	</dead>
+	</mysteltainn>			
+	<obeaune>			
+		<discovery>	gotcha, my love...	</discovery>
+		<attack>	now, receive my attack!	</attack>
+		<hp50>	you...you became stronger?	</hp50>
+		<hp25>	be..before you were not this strong!!	</hp25>
+		<kill>	humhp! far more to go! if you can't take attack like this, don't come back!	</kill>
+		<dead>	ah..goo..good..no..now you can beat me...cong..rats...	</dead>
+	</obeaune>			
+	<orc_archer>			
+		<discovery>	Cheit! kill the trespasser!	</discovery>
+		<attack>	Shoot many times and hit many times! everyone fire!! Cheit!!	</attack>
+		<hp50>	Cheit!! strong..human is strong...reposition!!	</hp50>
+		<hp25>	Cheit!! recharge the arrows...war must go on...Cheit!!	</hp25>
+		<kill>	Cheeeeeiiiiit!!!!  Defeated the human! ork will go on forever!!!  Cheit!	</kill>
+		<dead>	keerk...Hornor to the orks...death to the humans!! Cheeee....	</dead>
+	</orc_archer>			
+	<orc_lady>			
+		<discovery>	I'll give you the hornor to look close at my great beauty!!	</discovery>
+		<attack>	what! whats with your eyes!! you don't like me!! here!! look at my beauty!!	</attack>
+		<hp50>	you...you would muck a lady like this?  sniff...	</hp50>
+		<hp25>	ah...plz...don't you hit cuty like me...sniffsniff...	</hp25>
+		<kill>	ohhohot! You got a seizure just by looking at my beautiful face?	</kill>
+		<dead>	kuruk!! watch your back, human!  Cheeeiikk!!!	</dead>
+	</orc_lady>			
+	<orc_skeleton>			
+		<discovery>	alive...alive...its a living creature...	</discovery>
+		<attack>	die...die...everything alive must die...	</attack>
+		<hp50>	no pain..when you die theres no pain...	</hp50>
+		<hp25>	rest...give me rest...	</hp25>
+		<kill>	yet...is it yet...still far to go...	</kill>
+		<dead>	now...now I can...	</dead>
+	</orc_skeleton>			
+	<orc_zombie>			
+		<discovery>	live...death...cheeit!! alive...cheeit..attack...	</discovery>
+		<attack>	kill...kill..die...cheeit...	</attack>
+		<hp50>	body..cheeit..breaking apart...	</hp50>
+		<hp25>	my body...its...no more...	</hp25>
+		<kill>	next...next...life...cheeit...find and kill......	</kill>
+		<dead>	dust...to dust...cheeit!	</dead>
+	</orc_zombie>			
+	<ork_warrior>			
+		<discovery>	cheek! our land, you trespassed!  cheek! catch the trespasser!	</discovery>
+		<attack>	take out the trespasser! cheek! kill!! cheek!!!	</attack>
+		<hp50>	strong! prepare for war! cheek!	</hp50>
+		<hp25>	allies! hold your weapons higher!  cheek!!	</hp25>
+		<kill>	Defeated them!! cheek!! we are victorius!!	</kill>
+		<dead>	We lost!! everyone retreat...cheeik....	</dead>
+	</ork_warrior>			
+	<pirate_skel>			
+		<discovery>	nothing is better than pillaging...eheladiya~	</discovery>
+		<attack>	attack!! until we get everything...eheladiya~	</attack>
+		<hp50>	ten people and five! float in to the a corpse island~ but only a bottle-o-grog ~	</hp50>
+		<hp25>	rest were killed by grog and demons~ eheladiya~~	</hp25>
+		<kill>	hunt, hunt...hunt the body and find the loot..eheladiya~	</kill>
+		<dead>	even if we die we are the pillagers..pirate forces..ehela...diya...	</dead>
+	</pirate_skel>			
+	<raggler>			
+		<discovery>	detected enemy vessel! requesting back up!! kiruk~	</discovery>
+		<attack>	everyone attack the same spot! annihilate the enemy!! kiruk~	</attack>
+		<hp50>	check for the bullets! prepare for their surprise attack!! kiruk~	</hp50>
+		<hp25>	kiruk~ they are stronger than they look! reposition yourselves!	</hp25>
+		<kill>	enemy annihilated! now back to the base! kirururuk~	</kill>
+		<dead>	we are hit..mayday...mayday...mayday...may...	</dead>
+	</raggler>			
+	<raydric>			
+		<discovery>	Until you fall!!	</discovery>
+		<attack>	its time for one on one.	</attack>
+		<attack>	your mistake will lead you to death. better becareful?	</attack>
+		<attack>	my name is  'ayanami raydric'... believe it or not.	</attack>
+		<attack>	its your unlucky day.	</attack>
+		<attack>	You will be my 398246th victim!!	</attack>
+		<attack>	plate soaked with blood is so beautiful.	</attack>
+		<attack>	if you accept that you lost I'll let you go alive.	</attack>
+		<attack>	wipe them out!!	</attack>
+		<hp50>	not yet! I can go on further!	</hp50>
+		<hp25>	We knights will never fall back!	</hp25>
+		<hp25>	if you run away now, I'll let you go.	</hp25>
+		<hp25>	in 5 seconds you will fall!	</hp25>
+		<hp25>	I can't believe it..for attack like this...	</hp25>
+		<hp25>	not bad! how about this? bag for your future?	</hp25>
+		<hp25>	I never receive any wounds.	</hp25>
+		<hp25>	victory is ours! hold your position for last five minutes!!	</hp25>
+		<kill>	kukuku...victory! enemy have fall down and we are alive!!	</kill>
+		<dead>	i'll be back...	</dead>
+		<dead>	don't think its going to be the end!	</dead>
+		<dead>	you are.... pibug....!	</dead>
+		<dead>	I fought 'til end to protect my honor.	</dead>
+		<dead>	....... i went easy on you.	</dead>
+		<dead>	damn my waist hurt today..kuk!	</dead>
+		<dead>	You are the first one who stand after my attack...!	</dead>
+		<dead>	knight's hornor...is it all the old song...	</dead>
+	</raydric>			
+	<raydric_archer>			
+		<discovery>	enemy millitary detected! load the arrows!	</discovery>
+		<attack>	kill 'em with one shot!!	</attack>
+		<hp50>	they are attacking back! reposition yourselves!	</hp50>
+		<hp25>	we receive the critical damage! recheck our plan!	</hp25>
+		<kill>	enemy is quiet! look for any other enemys nearby!	</kill>
+		<dead>	war is...not over...yet...I..I'll...	</dead>
+	</raydric_archer>			
+	<requiem>			
+		<discovery>	carrying a coffin clinkclink...find the ones desacreting the grave...	</discovery>
+		<attack>	only for the sire!!	</attack>
+		<hp50>	silence is the ultimate seal!	</hp50>
+		<hp25>	now...can't...	</hp25>
+		<kill>	silent...everything around is now silent...	</kill>
+		<dead>	death...was it like this...	</dead>
+	</requiem>			
+	<rocker>			
+		<attack>	sskurim!!  sskurim!!  ssscream!!	</attack>
+		<hp50>	someone hit a break on me!!	</hp50>
+		<hp25>	i'm keep on accelerating!!!	</hp25>
+		<kill>	ahah...I'm over the limit...kikic...	</kill>
+		<dead>	music...its not end...	</dead>
+	</rocker>			
+	<skel_prisoner>			
+		<discovery>	heavy...tired...alive...jealous...	</discovery>
+		<attack>	give me body..give me your body...	</attack>
+		<hp50>	if you don't give, I'll make you like me...	</hp50>
+		<hp25>	break..apart...into the pieces fly away...	</hp25>
+		<kill>	small pieces...break apart...every pieces...kukuku...	</kill>
+		<dead>	return to earth...would it...accept me...	</dead>
+	</skel_prisoner>			
+	<skel_worker>			
+		<discovery>	jewels, such a beautiful minerals!!  come to me and shine!!	</discovery>
+		<attack>	what are you stealing in our mine, you theft!!	</attack>
+		<hp50>	you...the hell!! get out now!!	</hp50>
+		<hp25>	huk...he...help!! they are too strong I can't take it alone!!	</hp25>
+		<kill>	don't even dream about stealing!!	</kill>
+		<dead>	ku...minerals...ore...jewels...still...I need to find..ones..	</dead>
+	</skel_worker>			
+	<soldier_skeleton>			
+		<discovery>	wait up there, living creature!!	</discovery>
+		<attack>	haap!! I'll show you my spinning slash!	</attack>
+		<hp50>	oh my...bones...	</hp50>
+		<hp25>	ouk...my bones, there must be a rain tomorrow...!	</hp25>
+		<kill>	hmm..no enemy can face my blade!	</kill>
+		<dead>	don't be so confident! You are only a swing of fist for our boss!!	</dead>
+	</soldier_skeleton>			
+	<stalactic_golem>			
+		<attack>	Eh...enemy...its enemy...enemy...enemy...	</attack>
+		<hp50>	flatten...flatten  crash...	</hp50>
+		<hp25>	shake, ground...shake...enemy...crash...enemy...	</hp25>
+		<kill>	squashed...flat...hhh...grukgruk...	</kill>
+		<dead>	again..to earth..	</dead>
+	</stalactic_golem>			
+	<steam_goblin>			
+		<discovery>	steam is my life...fly with steam~♬ kukekeke~	</discovery>
+		<attack>	double steam punch attack!!  kukekeke~	</attack>
+		<hp50>	hieeek!!  engine over heated!! engine over heated!! engine over heated!!	</hp50>
+		<hp25>	kehek!!  engine's...engine is...	</hp25>
+		<kill>	nobody can match the power of steam..kukekeke~	</kill>
+		<dead>	bl...blowing! everyone escape...kueeek!!!	</dead>
+	</steam_goblin>			
+	<strouf>			
+		<discovery>	what are you doing under the sea!!	</discovery>
+		<attack>	do you really think you can beat me!!	</attack>
+		<hp50>	you rat!! take this too!	</hp50>
+		<hp25>	so you know how to attack!	</hp25>
+		<kill>	did you ever think scum like you can beat me?	</kill>
+		<dead>	kuk...you got me this time but you won't get out alive!	</dead>
+	</strouf>
+<succubus>			
+		<discovery>	Who came to this dark and slimiest place!!	</discovery>
+		<discovery>	Welcome, Human!  You came to right place to die!!	</discovery>
+		
+<attack>Yo momma so stupid she sits on the TV, and watches the couch!
+</attack>
+<attack>Yo momma so poor she can't afford to pay attention!
+</attack>
+<attack>Yo mama's so big, when she stands up the sun goes out
+</attack>
+<attack>Yo mama so ugly she make Michael Jackson look like Brad Pitt
+</attack>
+<attack>Yo mama so ugly yer Daddy takes her to work each day so he doesny have to kiss her goodbye...
+
+</attack>
+<attack>Yo Momma so fat she jumped up in the air and got stuck 
+</attack>
+<attack>Yo mama so lazy she's got a remote control just to operate her remote!
+
+
+</attack>
+<attack>	Yo mama has wooden boobs and breast feeds beavers
+
+	
+</attack>
+	
+<attack>Yo Mommy got so many gaps in her teeth it reminds me of Piano keys
+</attack>
+	
+<attack>Yo mama so smelly her poo is glad to escape.
+
+</attack>
+	
+		<hp50>	not bad, human!  but I'm not done yet!!	</hp50>
+		<hp25>	Oh...no ..you have guts...but how long can you hold?	</hp25>
+		<kill>	Finally you died. trying so hard to live, but now you are dead, how do you feel?	</kill>
+		<kill>	I hope the death don't bring you any peace	</kill>
+		<dead>	kek..kkerrrrrk!!!!	</dead>
+		<dead>	kuk..urlp...	</dead>
+	</succubus>					
+	<tirfing>			
+		<discovery>	to find the right opponent...I'm swinging again today~	</discovery>
+		<attack>	well lets see..which meat should I slice today~	</attack>
+		<hp50>	meat soaked with blood has delicate taste...lalala~	</hp50>
+		<hp25>	swing break cut slice split...thats my joy~	</hp25>
+		<kill>	cut in many pieces...should I split more? eihithithit~	</kill>
+		<dead>	I...I've indestructible...ahahahahak!!	</dead>
+	</tirfing>			
+	<vocal>			
+		<discovery>	I'm a wandering singer~  I'm the voculist!!	</discovery>
+		<attack>	rock! rock! rock! rock! rock! rock! rock! rock!	rock! rock! rock! rock!</attack>
+		<hp50>	swing and hit your head slam ramming body kick!! ~♬	</hp50>
+		<hp25>	si...singing is my life~♬ my life is rosy~♬♪	</hp25>
+		<kill>	screaming death spices up life~ ♬  lalalala~	</kill>
+		<dead>	ma...my screaming isn't sound that bad? isn't...it...♬	</dead>
+	</vocal>			
+	<wander_man>			
+		<discovery>	hiding over there, are you!!	</discovery>
+		<discovery>	someone is waiting for me!!	</discovery>
+		<attack>	NAM-JIN SINGLE SWORD secret attack! FLASH BLADE(閃)!!	</attack>
+		<hp50>	I'm shivering... its been so long!	</hp50>
+		<hp50>	very good friend.	</hp50>
+		<hp50>	Uht...You are not the beginner!	</hp50>
+		<hp25>	Let me rest... 	</hp25>
+		<hp25>	You are a good opponent, you are good...	</hp25>
+		<kill>	Nothing matches better than blood on the tip of blade.	</kill>
+		<kill>	I've defeated the leader!!	</kill>
+		<dead>	Now...I can rest.	</dead>
+		<dead>	Match is..over..but it won't be like this nexttime.	</dead>
+	</wander_man>			
+	<wind_ghost>			
+		<discovery>	ghost can float in the air~ but why not go though the walls?	</discovery>
+		<attack>	take this! lightening...lightening...eh...anyway attack!	</attack>
+		<hp50>	my cape...its all piece of rag now...	</hp50>
+		<hp25>	time...whats the time now? am I dead?	</hp25>
+		<kill>	who can compete against the blastering thunder?	</kill>
+		<dead>	I see ...the light from sky....I should go...there.. right...	</dead>
+	</wind_ghost>			
+	<wraith>			
+		<discovery>	crawl near you and giving a quick bite! is my specialty...	</discovery>
+		<attack>	argh open my jaw and "Ang!" give a bite!	</attack>
+		<hp50>	hoong...	</hp50>
+		<hp25>	you...i'll get you...	</hp25>
+		<kill>	it was tasty...your flesh taste good..I want some more.	</kill>
+		<dead>	........	</dead>
+	</wraith>			
+	<zerom>			
+		<discovery>	ehladiya~ todays work to tomorrow, tomorrow's work is for the day after...	</discovery>
+		<attack>	think of the stone I carry is as heavy as you are and get smashed!!	</attack>
+		<hp50>	huek...	</hp50>
+		<hp25>	why me...only me...	</hp25>
+		<kill>	if you understand the weigh of life, you should start again!	</kill>
+		<dead>	ma...mommy...ㅠ_ㅠ	</dead>
+	</zerom>			
+	<zherlthsh>			
+		<discovery>	ohhohohohohohot!!!!	</discovery>
+		<attack>	now, call me the queen, right now!!!	</attack>
+		<hp50>	oh..yes! more! more I said more!!	</hp50>
+		<hp25>	no!  not yet!! more...plz more!!!	</hp25>
+		<kill>	Its just begining. are you already exhasted, huh slave?	</kill>
+		<dead>	ahah...ahah...sooo good!!  co..come again later...	</dead>
+	</zherlthsh>			
+	<zombie_prisoner>			
+		<discovery>	Grrr...	</discovery>
+		<attack>	Kwaaark!!	</attack>
+		<hp50>	Ma...my skins...	</hp50>
+		<hp25>	heavy...heavy...don't kill me...I don't want to die...	</hp25>
+		<kill>	krrrr..kilkilkilkil....	</kill>
+		<dead>	get...get me out of prison...light...I must see...	</dead>
+	</zombie_prisoner>			
+	<am_mut>			
+		<discovery>	Today lallala~ to find enemy lallala~	</discovery>
+		<attack>	This thorned bat must be painful than you thought	</attack>
+		<hp50>	ahat!	</hp50>
+		<hp25>	ahyayat!!	</hp25>
+		<kill>	many holes in your head...what would come out of it?	</kill>
+		<dead>	my..you can't tkae my bat...	</dead>
+	</am_mut>			
+	<ancient_mummy>			
+		<discovery>	glory to the paraoh...rest to paraoh...	</discovery>
+		<attack>	pain for the dead...hell for the living...	</attack>
+		<hp50>	oh great paraoh! Give me the stength to destroy the invader!!	</hp50>
+		<hp25>	oh great paraoh! Grant me the stregth! Painful death for the enemy!!	</hp25>
+		<kill>	My honor is yours, oh great paraoh!	</kill>
+		<dead>	now...return to the sun god...	</dead>
+	</ancient_mummy>			
+	<assulter>			
+		<discovery>	Detected the target, approaching!	</discovery>
+		<attack>	Take this! flaming whirlwind SURI-dagger!!!	</attack>
+		<hp50>	Preparing to receive enemy attack!	</hp50>
+		<hp25>	Quick, Secretly, rapidly...that is the fate of ninja!	</hp25>
+		<kill>	resistence is futile against the unbeatable assination skills	</kill>
+		<dead>	my...my assasination skills...	</dead>
+	</assulter>			
+	<cat_o_nine_tail>			
+		<discovery>	Jingle~ jingle~ splingly everyday~	</discovery>
+		<attack>	hey!! where are you hitting? why are you touching me? why are you looking at me like that?	</attack>
+		<hp50>	ahah...ah..it hurts...	</hp50>
+		<hp25>	now...can you please die? plz?	</hp25>
+		<kill>	ohhot~ how do you feel, kissing the ground? huh?	</kill>
+		<dead>	ahah..I...I'm not the TOUFU seller!!!	</dead>
+	</cat_o_nine_tail>			
+	<dark_illusion>			
+		<discovery>	following through the myst searching for the power...	</discovery>
+		<attack>	You can't beat me in the myst!	</attack>
+		<hp50>	Power from hell cannot reach me...	</hp50>
+		<hp25>	By the name of demon king, you shall kneel before me!!	</hp25>
+		<kill>	Enter the forever darkness into the ethernal sleep!	</kill>
+		<dead>	Again into the chaos...but I shall return!	</dead>
+	</dark_illusion>			
+	<g_assulter>			
+		<attack>	Take this! flaming whirlwind SURI-dagger!!!	</attack>
+		<hp50>	Preparing to receive enemy attack!	</hp50>
+		<hp25>	Quick, Secretly, rapidly...that is the fate of ninja!	</hp25>
+		<kill>	Mission accomplished, enemy destroyed	</kill>
+		<dead>	Blam!	</dead>
+	</g_assulter>			
+	<goblin_leader>			
+		<discovery>	You will be the victim of my spear?	</discovery>
+		<attack>	come on! kaooh!!	</attack>
+		<hp50>	I didn't kill you yet! krrrk...	</hp50>
+		<hp25>	Is that all you got?  come on try harder!!...krr~	</hp25>
+		<kill>	I suppose now you know your place...krrrk...	</kill>
+		<dead>	Not bad...nexttime...I won't go easy on you...	</dead>
+	</goblin_leader>			
+	<kobold_leader>			
+		<discovery>	AHWOOOO~ Kobold leader is at your service!  sniffsniff...	</discovery>
+		<attack>	You won't get away, not as long as I remember your smell! kungkung~	</attack>
+		<hp50>	what kind of dog am I look like?	</hp50>
+		<hp25>	I see...your body is wide open!!  Grrrrrr~	</hp25>
+		<kill>	AHWOOOO~~ I slayed a human!	</kill>
+		<dead>	KAEKAENG~	</dead>
+	</kobold_leader>			
+	<majoruros>			
+		<discovery>	flat...pushu...crush...pushu...	</discovery>
+		<attack>	stone...cracking...hammaring...strong..you..die...pushu...	</attack>
+		<hp50>	huuk...huuk...	</hp50>
+		<hp25>	not..end...no...soon..you die...	</hp25>
+		<kill>	flat...mashed...good..good..hhh...pushu...	</kill>
+		<dead>	kuurrhg~	</dead>
+	</majoruros>			
+	<maya_puple>			
+		<discovery>	oi! did you see our mother?	</discovery>
+		<attack>	its you! your kidnapped our mother right?	</attack>
+		<hp50>	give back! give back our mother!	</hp50>
+		<hp25>	why...did you kidnapped her? you want money?	</hp25>
+		<kill>	crap..I can't ask since you die..better look elsewhere.	</kill>
+		<dead>	sniff...mother...is it...I don't have to look for her for 3 million miles do I have to...	</dead>
+	</maya_puple>			
+	<mobster>			
+		<discovery>	huh? hey! come here!!	</discovery>
+		<attack>	I'm asking nicely..give me your wallet!!	</attack>
+		<hp50>	hey! You think you are good with fist?	</hp50>
+		<hp25>	ha, why you rotten! you want some?	</hp25>
+		<kill>	shit~ you fool, you can't do shit, I can just take you out like this...	</kill>
+		<dead>	why...you ...you were a even stronger mobster than me?	</dead>
+	</mobster>			
+	<owl_baron>			
+		<discovery>	you overthere...do you have any business with me? booo~	</discovery>
+		<attack>	even if you don't I have something to do with you..booo~	</attack>
+		<hp50>	You are strong. would you be my security guard?	</hp50>
+		<hp25>	Its a good deal. Stop your sword for a sec.	</hp25>
+		<kill>	You are foolish...try to doubt about other peoples saying.	</kill>
+		<dead>	You..You are quiet a good tactician already?	</dead>
+	</owl_baron>			
+	<owl_duke>			
+		<discovery>	crap...day after the day, only education.	</discovery>
+		<attack>	hey! you will come here and play with me!	</attack>
+		<hp50>	noble's life is all luxurius and studying...	</hp50>
+		<hp25>	its not like that I don't like... spending...hukhuk...	</hp25>
+		<kill>	How do you think of my expensive coat?	</kill>
+		<dead>	huep...	</dead>
+	</owl_duke>			
+	<panzer_goblin>			
+		<discovery>	Do you know steam was invented by newton during the industrial development?  kirrk~	</discovery>
+		<attack>	kirrk!! Jet Stream attack!!	</attack>
+		<hp50>	chieek! Engine overheat..Floor in cooling water!! kirrk~	</hp50>
+		<hp25>	pushu...engine overheat...cooling...kirrk~	</hp25>
+		<kill>	Enemy defeated! Move to the next target..kirrrr~	</kill>
+		<dead>		</dead>
+	</panzer_goblin>			
+	<skeleton_general>			
+		<discovery>	gotcha! You killed many of my men right?	</discovery>
+		<attack>	You cannot lie to me!	</attack>
+		<hp50>	take this critical hit all over your body!	</hp50>
+		<hp25>	every place my blade reaches will decay!	</hp25>
+		<kill>	nexttime you go pass any skull, bow to it!	</kill>
+		<dead>	You..you can't...boys!~ I'm sorry!!	</dead>
+	</skeleton_general>
+<violy>			
+		<discovery>	tik...toc...tik...toc...tik...toc...	</discovery>
+		<discovery>	alarm!!  alert!!  its enemy, enemy!!!!	</discovery>
+		<attack>	Your mamma's so fat, the body snatchers called home for backup.
+	</attack>
+		<attack>	Yo mama so stupid she puts a ruler on her pillow to see how long she slept.
+	</attack>
+<attack>Your Big sis like the Bermuda triangle...they swallow a whole lotta seamen.
+
+
+</attack>
+<attack>Yo Sister-in-law like a chicken coop - cocks flyin in and out all day...
+</attack>
+<attack>Yo' ex-girlfriend just like a squirrel - she always got some nuts in her mouth...
+
+</attack>
+<attack>Yo Auntie like a Library - open to the public.
+
+</attack>
+<attack>Yo' Grannies neck so damn wrinkled, I use it as a cheese grater
+</attack>
+<attack>Yo mama so greasy she got a job at the cinema - buttering popcorn with her leg hair...
+
+</attack>
+<attack>Yo mama's so stupid, she thinks Tiger Woods is a forest in India.
+
+
+</attack>
+<attack>Yo Mama's so freakin nasty, I talked to her over the PC and she gave me a virus
+</attack>
+		<hp50>	tik...plump..thump...plump...	</hp50>
+		<hp25>	ti...toc...plump...thump...	</hp25>
+		<kill>	crack...dingdong...dingdong...	</kill>
+		<dead>	plump...crrak...kkrash!!	</dead>
+		<dead>	plump....crrak....	</dead>
+	</violy>			
+	<wraith_dead>			
+		<discovery>	Open my jaws..."Ahng" give you a bite!	</discovery>
+		<attack>	Swallow at once and digest you slowly?	</attack>
+		<hp50>	Slowly you will be rotten in my arm.	</hp50>
+		<hp25>	here, you must die with this attack!!	</hp25>
+		<kill>	Finally you are same as me...you cannot die after death...	</kill>
+		<dead>	kkk..khat-hat-hat~	</dead>
+	</wraith_dead>			
+	<zombie_master>			
+		<discovery>	Slush..slush..looking for my opponent everyday...	</discovery>
+		<attack>	dark...when its dark I really..feel my body grow stronger..	</attack>
+		<hp50>	smell of decaying fungus is my life's great pleasure..	</hp50>
+		<hp25>	filthy fungus and rotting water is actually delicious.	</hp25>
+		<kill>	Now we are decaying together? Khilhilhil~	</kill>
+		<dead>	You...living always end..death! khilhilhil~	</dead>
+	</zombie_master>			
+	<baphomet>			
+		<discovery>	what, who are you!	</discovery>
+		<attack>	I'll cut you half with my crescent scythe!	</attack>
+		<hp50>	go on, attack! Give up your pathetic attack!	</hp50>
+		<hp25>	You took so long and you couldn't kill me! now its my turn</hp25>
+		<kill>	Few hits and you die..human...so pathetic!	</kill>
+		<dead>	N...Nice one, human! But I shall return!	</dead>
+	</baphomet>			
+	<dark_lord>			
+		<discovery>	anxiousy will drown your soul.	</discovery>
+		<discovery>	Emperor of chaos, land before your eyes!	</discovery>
+		<attack>	Wanderers in my land! Fall down to hell!	</attack>
+		<hp50>	I shall lead you to forever darkness. 	</hp50>
+		<hp50>	don't make me more angry. 	</hp50>
+		<hp50>	slowly, but surely I shall lead you to death!	</hp50>
+		<hp25>	Krk! I underestimated you.	</hp25>
+		<hp25>	well, leave your soul in my hand and rest!	</hp25>
+		<kill>	Your soul goes into the darkness.	</kill>
+		<kill>	Anyone else want to fall into hell, anyone?	</kill>
+		<dead>	no...not...not like this...again into the darkness...no return...krk!	</dead>
+		<dead>	어둠은 그대의 마음속에 영원히 존재하네.	</dead>
+	</dark_lord>			
+	<doppelganger>			
+		<discovery>	you are there...	</discovery>
+		<attack>	come, lets talk with swords!	</attack>
+		<hp50>	Yes! that was a great timing to attack!	</hp50>
+		<hp25>	Excellent move! Not still not good enough	</hp25>
+		<kill>	Just as I thought...you won't do. better wait for the other.	</kill>
+		<dead>	You...You were an excellent opponent..now I can go with honor...krh...	</dead>
+	</doppelganger>			
+	<drake>			
+		<discovery>	Prepare and set sail! move your asses, you lazy pigs!!	</discovery>
+		<attack>	What are you still doing here! set sail!!	</attack>
+		<hp50>	why did you leave steering gear, get back!	</hp50>
+		<hp25>	junk and sailing gears floating everywhere block this invaders!!	</hp25>
+		<kill>	Who the hell is sleeping here! Throw it into the sea!	</kill>
+		<dead>	my...my voyage is not...yet..over!!!!	</dead>
+	</drake>			
+	<eddga>			
+		<discovery>	long long ago the scary tiger...I'm the tiger of that folk tail!	</discovery>
+		<attack>	Grr...Grrrwaang!!!	</attack>
+		<hp50>	Run anywhere you can!	</hp50>
+		<hp25>	You are not running you must have over swellowen guts?	</hp25>
+		<kill>	You can get away from my hand..hhh~	</kill>
+		<dead>	s...smoke...I need more cigar...nicotine...krrng...	</dead>
+	</eddga>			
+	<knight_of_windstorm>			
+		<discovery>	I'm not RuDolf The Red Nose Reindeer! You must think I'm RuDolf!	</discovery>
+		<attack>	Wanna taste the RoDolf's wild swinging blade!	</attack>
+		<hp50>	I'm solid crystal icy pieces you can't destroy me!	</hp50>
+		<hp25>	In my shield your face will be carved!	</hp25>
+		<kill>	hh~ Until next winter you shall be frozen like that!	</kill>
+		<dead>	I...I lost...sniff...Mr..santa claus..ㅠ_ㅠ	</dead>
+	</knight_of_windstorm>			
+	<bloody_knight>			
+		<discovery>	Found enemy..be prepared..	</discovery>
+		<attack>	Only a matter of time until they perish...	</attack>
+		<hp50>	until we destroy all the enemy...we can't rest..	</hp50>
+		<hp25>	this...blood...cannot be washed can it...	</hp25>
+		<kill>	again...more blood...I'm sorry but I wish you understand it...	</kill>
+		<dead>	thanks...now back to the master with peace...	</dead>
+	</bloody_knight>			
+	<maya>			
+		<discovery>	wha...who are you! what do you want from my children?	</discovery>
+		<attack>	you won't lay a single touch as long as I'm here!	</attack>
+		<hp50>	ahat...your...attacking so tough...	</hp50>
+		<hp25>	I..I can't lose! I can't lose for my childrens sake...	</hp25>
+		<kill>	You bully my children again, I won't forgive you anymore!	</kill>
+		<dead>	ahh..I..I'm sorry..mother cannot..make it...	</dead>
+	</maya>			
+	<mistress>			
+		<discovery>	Something is moving around our house! attack!	</discovery>
+		<attack>	destroy the invader!	</attack>
+		<hp50>	good resistence! But we have an army!	</hp50>
+		<hp25>	don't fall back 'til the end!	</hp25>
+		<kill>	We;ve got them but there could be more around the house, watch carefully!	</kill>
+		<dead>	Mm...my men! Fight...Fight 'til the end!! kaark!!	</dead>
+	</mistress>			
+	<moonlight>			
+		<discovery>	Dashing in the dark, running around is exciting!	</discovery>
+		<attack>	Jingle~ Jingle~ Always I'm with the bell!	</attack>
+		<hp50>	ah...hukhuk...	</hp50>
+		<hp25>	You...You are so mean...ahh!	</hp25>
+		<kill>	Still more to practise, you! You can't get me!	</kill>
+		<dead>	Noo..No! dying..I still have..more to do...	</dead>
+	</moonlight>			
+	<orc_lord>			
+		<discovery>	Cheeik!! with the honor of orks!!	</discovery>
+		<attack>	With my kick I'll push you out of space! cheeik!!	</attack>
+		<hp50>	fight, orks! cheeik!!	</hp50>
+		<hp25>	cheeik!!  I feel my blood is boiling!!	</hp25>
+		<kill>	Pathetic humans don't dare come again! Cheeeeeik!!	</kill>
+		<dead>	Human..cheeik..Human got me...but...this isn't the end!	</dead>
+	</orc_lord>			
+	<ork_hero>			
+		<discovery>	Cheeik! Human! Orks, Get up!	</discovery>
+		<attack>	Don't underestimate us because we are out numbered! You will see our strength!	</attack>
+		<hp50>	Cheeik! No more...We won't be defeated by human no more!	</hp50>
+		<hp25>	Cheeik! don't give up until the very end!! cheeik!	</hp25>
+		<kill>	cheeik..this..isn't over..yet..soon..Cheeik!..another hero will rise after me!!	</kill>
+		<dead>		</dead>
+	</ork_hero>			
+	<osiris>			
+		<discovery>	Who is disturbing my sleep!	</discovery>
+		<attack>	I'll make you fall into sleep forever too!	</attack>
+		<hp50>	You won't hold on long!	</hp50>
+		<hp25>	You are resisting hard! Lets see how far you can go!	</hp25>
+		<kill>	Your death relaxes me.	</kill>
+		<dead>	I fall back now..but I hope you won't wake me up again, human!	</dead>
+	</osiris>			
+	<phreeoni>			
+		<discovery>	hurup! licklick I'll lick and make you wet~	</discovery>
+		<attack>	hururup~ You taste awesome~	</attack>
+		<hp50>	huruphurup...hukhuk...don't resist...I'll be done soon~	</hp50>
+		<hp25>	hururup~ chapchapchap~ kukuk..you taste too strong!	</hp25>
+		<kill>	It was good. very delicious...come again anothertime..hurup~	</kill>
+		<dead>	taste too strong...strong...no, I don't like...this taste...hururup~ chapchap~	</dead>
+	</phreeoni>			
+	<turtle_general>			
+		<discovery>	what are you doing in the turtle's sacred ground!	</discovery>
+		<attack>	If you murders us just to test your stength I'll kill you for that!	</attack>
+		<hp50>	You...you are strong, you!	</hp50>
+		<hp25>	Don't fall back! Some who try to live shall die!	</hp25>
+		<kill>	huhuhu...	</kill>
+		<dead>	Do...Do not tell my death to other turtles!!	</dead>
+	</turtle_general>					
+</enemy_monster_talk_table>				

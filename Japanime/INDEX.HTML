@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Welcome to Japanime!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=4.0)">
+<META name="Description" content="The ultimate japanese anime resource!">
+<META name="Keywords" content="DBZ, pokemon, digimon, evangelion, escaflowne, naruto, cowboy bebop, gundam wing, japanese anime, medabots, yu-gi-oh, beyblade, sailor moon, trigun, monster rancher">
+<script>
+
+/*
+Gradual-Highlight Image Script II- 
+By J. Mark Birenbaum (birenbau@ugrad.cs.ualberta.ca)
+Permission granted to Dynamicdrive.com to feature script in archive
+For full source to script, visit http://dynamicdrive.com
+*/
+
+nereidFadeObjects = new Object();
+nereidFadeTimers = new Object();
+
+/* object - image to be faded (actual object, not name);
+ * destop - destination transparency level (ie 80, for mostly solid)
+ * rate   - time in milliseconds between trasparency changes (best under 100)
+ * delta  - amount of change each time (ie 5, for 5% change in transparency)
+ */
+
+function nereidFade(object, destOp, rate, delta){
+if (!document.all)
+return
+    if (object != "[object]"){  //do this so I can take a string too
+        setTimeout("nereidFade("+object+","+destOp+","+rate+","+delta+")",0);
+        return;
+    }
+        
+    clearTimeout(nereidFadeTimers[object.sourceIndex]);
+    
+    diff = destOp-object.filters.alpha.opacity;
+    direction = 1;
+    if (object.filters.alpha.opacity > destOp){
+        direction = -1;
+    }
+    delta=Math.min(direction*diff,delta);
+    object.filters.alpha.opacity+=direction*delta;
+
+    if (object.filters.alpha.opacity != destOp){
+        nereidFadeObjects[object.sourceIndex]=object;
+        nereidFadeTimers[object.sourceIndex]=setTimeout("nereidFade(nereidFadeObjects["+object.sourceIndex+"],"+destOp+","+rate+","+delta+")",rate);
+    }
+}
+
+</script>
+
+<style type="text/css">
+<!--
+a {
+	font-family: "Black Chancery", "007 GoldenEye", "Walt Disney Script", Vivacious, Starcraft, Ringbearer, "Olde English", "Linkin Park", "Loki Cola";
+	font-size: 18px;
+	cursor: crosshair;
+}
+.style2 {font-family: "Black Chancery", "007 GoldenEye", "Walt Disney Script", Vivacious, Starcraft, Ringbearer, "Olde English", "Linkin Park", "Loki Cola"}
+.style6 {
+	font-family: Impact;
+	font-size: 18px;
+	color: #0066FF;
+}
+-->
+.style7 {font-size: 14px}
+.style7 {font-size: 16px}
+</style>
+<style> 
+<body> 
+
+
+</style> 
+</head>
+
+<body background="square.jpg" alink="white"><div style="position:relative">
+
+<script language="javascript" src="rainbow.js"></script>
+<table align=center><tr><td colspan="2">
+<img src="main2.jpg" width="505" height="244"></td>
+<td>
+</td></tr>
+  <tr><td><a href="Index1.html"><img src="side1.jpg" alt="IE users" width="250" height="128" border="0" style="filter:alpha(opacity=10)" onmouseover="nereidFade(this,100,30,5)" onmouseout="nereidFade(this,10,50,5)"></a></td>
+     <td> <a href="Index1.html"><img src="side2.jpg" alt="Mozilla users" width="250" height="128" border="0" style="filter:alpha(opacity=10)" onMouseOver="nereidFade(this,100,30,5)" onMouseOut="nereidFade(this,10,50,5)"></a> </td>
+</tr>
+<tr><td align="center"><a href="Index1.html" class="style1"> Internet Explorer users</span></a></td><td align="center">
+<a href="Index1.html" class="style2">Mozilla Firefox users</a></td></tr>
+</table>
+</div>
+<center>
+
+  <span class="style2"><br>
+  <span class="style6">Best viewed in IE||1024x768||CSS||Table||Javascript||HTML </span></span>
+  <br>
+<a target="_top" href="http://t.extreme-dm.com/?login=gofishus">
+<img src="http://t1.extreme-dm.com/i.gif" height=38
+border=0 width=41 alt=""></a><script language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script language="javascript"><!--
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=\"http://t0.extreme-dm.com",
+"/c.g?tag=gofishus&j=y&srw="+EXw+"&srb="+EXb+"&",
+"l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+</script><noscript><img height=1 width=1 alt=""
+src="http://t0.extreme-dm.com/c.g?tag=gofishus&j=n"></noscript>
+</font>
+
+ <font size=1 color=white>
+<script language="javascript1.2"><!--EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//--></script>
+
+<script language="javascript">
+<!--EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";EXd.write("<img src=\"http://t0.extreme-dm.com","/c.g?tag=gofishus&j=y&srw="+EXw+"&srb="+EXb+"&","l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+</script><noscript><img height=1 width=1 alt=""src="http://t0.extreme-dm.com/c.g?tag=gofishus&j=n"></noscript></font>
+<br>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=1036194; 
+var sc_invisible=0; 
+var sc_partition=9; 
+var sc_security="32e70fe5"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c10.statcounter.com/counter.php?sc_project=1036194&amp;java=0&amp;security=32e70fe5&amp;invisible=0" alt="web page hit counter" border="0"></a> </noscript>
+<!-- End of StatCounter Code --><br><a href="http://my.statcounter.com/project/standard/stats.php?project_id=1036194&amp;guest=1" class="style7">View My Stats</a>
+<!-- <img src="http://counter.golden.net/cgi-bin/Count.cgi?ft=9|frgb=69;139;50|tr=0|trgb=0;0;0|wxh=15;20|md=6|dd=A|df=login.dat" width="100" height="32"> -->
+</center>
+
+</body>
+</html>

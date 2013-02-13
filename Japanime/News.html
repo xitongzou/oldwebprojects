@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<title>Japanime!</title>
+<style type="text/css">
+
+
+#sDiv0, #sDiv1, #sDiv2, #sDiv3, #sDiv4, #sDiv5, #sDiv6, #sDiv7, #sDiv8, #sDiv9
+{
+position:absolute; height:1; width:1; font-family:arial black; font-size:9px; color:#FFFFAA; z-index:10;
+}
+
+</style>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+<!--
+
+/*
+Document firework script (By Matt Gabbert, mgabbert@usrtoday.com, http://www.nolag.com)
+Featured on Dynamicdrive.com
+For full source and 100's more DHTML scripts, visit http://www.dynamicdrive.com
+*/
+
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && self.innerWidth && (window.pageXOffset>-1));
+//my way of making sure the browser will have what I need
+
+var allDivs      = new Array(10);
+var documentWidth,documentHeight;
+
+function initAll(){
+	if(!ns && !ie && !w3)	return;
+
+	for(dNum=0; dNum<10; ++dNum){
+		if(ie)		allDivs[dNum]=eval('document.all.sDiv'+dNum+'.style');
+		else if(ns)	allDivs[dNum]=eval('document.layers["sDiv'+dNum+'"]');
+		else if(w3)	allDivs[dNum]=eval('document.getElementById("sDiv'+dNum+'").style');
+		moveTo(dNum,0,0);
+	}		
+}
+
+function moveTo(i,tempx,tempy){
+	if (ie){
+		documentWidth  =document.body.offsetWidth+document.body.scrollLeft-20;
+		randomy=Math.floor(Math.random()*document.body.offsetHeight)+document.body.scrollTop-20;
+	}
+	else if (ns){
+		documentWidth=window.innerWidth+window.pageXOffset-20;
+		randomy=Math.floor(Math.random()*window.innerHeight)+window.pageYOffset-20;
+	}
+	else if (w3){
+		documentWidth=self.innerWidth+window.pageXOffset-20;
+		randomy=Math.floor(Math.random()*self.innerHeight)+window.pageYOffset-20;
+	}
+
+	if(tempx>-50){
+		tempx-=45;
+		allDivs[i].left=tempx;
+		allDivs[i].top =tempy;
+		setTimeout("moveTo("+i+","+tempx+","+tempy+")",40)
+	}
+	else
+		setTimeout("moveTo("+i+",documentWidth-10,randomy)",2000/i+40);
+}
+
+window.onload=initAll
+//End-->
+</script>
+</head>
+<body bgcolor="black" text="yellow" link="yellow" vlink="#800080" alink="#ff0000">
+<div id="sDiv0">*</div>
+<div id="sDiv1">*</div>
+<div id="sDiv2">*</div>
+<div id="sDiv3">*</div>
+<div id="sDiv4">*</div>
+<div id="sDiv5">*</div>
+<div id="sDiv6">*</div>
+<div id="sDiv7">*</div>
+<div id="sDiv8">*</div>
+<div id="sDiv9">*</div>
+<br><p><center>
+<H3 align="center">Japanime!</H3>
+Welcome to Japanime! The ultimate Japanese Anime Resource! I'm Gofishus, the webmaster. First off, I'm not going to have any updates/history section because I just don't have the time or patience to update every week. This is a new site and I will be slowly filling in information for each anime, so check by every now and then ;). If you have any specific anime that you want me to provide info on, you can request it <a href="mailto:Gofishus@hotmail.com">Here</a>. Yes if you have any suggestions on my site,or if you want me to link you then Email me! I'm also looking for co-webmasters, so anyone who knows HTML and wants to help out can design their own section. I will give full credit! 
+Remember that this site gives brief information about each anime series/movie. If u want detailed information, then check out a specific fansite. But do enjoy my site, i hope you'll like it!
+My new Evangelion & Gundam Wing music video is now available <a href="http://www.fileplanet.com/files/130000/139451.shtml">here</a>.
+Also be sure to check out my other sites: <a href="http://www.angelfire.com/d20/tong">DBZ</a>, <a href="http://www.angelfire.com/d20/liero">Liero</a>, and <a href="http://www.angelfire.com/d20/crono">Chrono Trigger</a>.<br><p>
+<h3>Featured movies:</h3><a href="PM.html">Princess Mononoke</a><br>
+<a href="VHD.html">Vampire Hunter D</a><br><a href="Blood.html">Blood: The last vampire</a><br><a href="Ghost.html">Ghost in the Shell</a>
+<br><a href="GOTF.html">Grave of the Fireflies</a>
+<br><a href="Akira.html">Akira</a><br><a href="SA.html">Spirited Away</a><br><a href="Spriggan.html">Spriggan</a><br><a href="totoro.html">My neighbor Totoro</a><br>
+<P> <img src="http://counter.golden.net/cgi-bin/Count.cgi?ft=9|frgb=69;139;50|tr=0|trgb=0;0;0|wxh=15;20|md=6|dd=A|df=login.dat"> <P><font size=1 color=white><a target="_top" href="http://t.extreme-dm.com/?login=gofishus"><img src="http://v1.extreme-dm.com/i.gif" height=38border=0 width=41 alt=""></a><script language="javascript1.2"><!--EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//--></script><script language="javascript"><!--EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";EXd.write("<img src=\"http://t0.extreme-dm.com","/c.g?tag=gofishus&j=y&srw="+EXw+"&srb="+EXb+"&","l="+escape(EXd.referrer)+"\" height=1 width=1>");//--></script><noscript><img height=1 width=1 alt=""src="http://t0.extreme-dm.com/c.g?tag=gofishus&j=n"></noscript></font>
+
+</center>
+</body>
+</html>

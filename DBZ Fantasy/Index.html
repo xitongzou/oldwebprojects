@@ -1,0 +1,229 @@
+<html>
+
+<head>
+<title>DragonBall Z Splash Page!</title>
+<META name="Description" content="Lots of DragonBallZ stuff for DBZ freaks!">
+<META name="Keywords" content="DBZ,DragonBallZ,Tong,DragonBall,DragonBallGT,
+saiyans,supersaiyans,Goku,Gohan,Vegeta,Piccolo,Trunks,Tong Zou,DB,DBGT,SSJ,SSJ2,SSJ3,SSJ4,Roms,Emulators,DragonBall Z Fantasy">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 2000">
+<script language="JavaScript">
+
+<!--
+
+
+
+// You may edit the message below.
+
+var startMsg = "DragonBall Z Fantasy!";
+
+
+
+var str     = "";
+
+var msg     = "";
+
+var leftMsg = "";
+
+
+
+
+
+function setMessage()
+
+{
+
+    if (msg == "")
+
+    {
+
+        str = " ";
+
+        msg = startMsg;
+
+        leftMsg = "";
+
+    }
+
+
+
+    if (str.length == 1)
+
+    {
+
+        while (msg.substring(0, 1) == " ")
+
+        {
+
+            leftMsg = leftMsg + str;
+
+            str = msg.substring(0, 1);
+
+            msg = msg.substring(1, msg.length);
+
+        }
+
+
+
+        leftMsg = leftMsg + str;
+
+        str = msg.substring(0, 1);
+
+        msg = msg.substring(1, msg.length);
+
+
+
+        for (var ii = 0; ii < 120; ii++)
+
+        {
+
+           str = " " + str;
+
+        }
+
+    }
+
+    else
+
+        str = str.substring(10, str.length);
+
+
+
+    window.status = leftMsg + str;
+
+// This editable value (1000 = 1 second) 
+
+// corresponds to the speed of the shooting
+
+// message.
+
+    timeout = window.setTimeout('setMessage()',100);
+
+
+
+}
+
+// -->
+
+</script>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF">
+<div id="splashcontainer" style="position:absolute;width:350px;"></div>
+
+<layer id="splashcontainerns" width=450></layer>
+
+
+<script>
+
+/*
+Dynamic Splash Screen effect- © Dynamic Drive (www.dynamicdrive.com)
+For full source code, installation instructions, 100's more DHTML scripts, and Terms Of Use, 
+Visit http://dynamicdrive.com
+*/
+
+//Specify the paths of the images to be used in the splash screen, if any.
+//If none, empty out array (ie: preloadimages=new Array())
+var preloadimages=new Array("http://abstract.simplenet.com/point.gif","http://abstract.simplenet.com/point2.gif")
+//configure delay in miliseconds between each message (default: 2 seconds)
+var intervals=2000
+//configure destination URL
+var targetdestination="Index1.html"
+
+//configure messages to be displayed
+//If message contains apostrophe('), backslash them (ie: "I\'m fine")
+
+var splashmessage=new Array()
+var openingtags='<font face="Arial" size="4">'
+splashmessage[0]='<img src="http://abstract.simplenet.com/point.gif"> Welcome to DragonBall Z Fantasy! <img src="http://abstract.simplenet.com/point2.gif">'
+splashmessage[1]='Enjoy your stay!'
+splashmessage[2]='Just click the enter button to go in!'
+splashmessage[3]='Be patient,the page might take a while to load!'
+splashmessage[4]='Hey,how come you\'re still here?'
+splashmessage[5]='Click the enter button!'
+var closingtags='</font>'
+
+//Do not edit below this line (besides HTML code at the very bottom)
+
+var i=0
+
+var ns4=document.layers?1:0
+var ie4=document.all?1:0
+var ns6=document.getElementById&&!document.all?1:0
+var theimages=new Array()
+
+//preload images
+if (document.images){
+for (p=0;p<preloadimages.length;p++){
+theimages[p]=new Image()
+theimages[p].src=preloadimages[p]
+}
+}
+
+function displaysplash(){
+if (i<splashmessage.length){
+sc_cross.style.visibility="hidden"
+sc_cross.innerHTML='<b><center>'+openingtags+splashmessage[i]+closingtags+'</center></b>'
+sc_cross.style.left=ns6?parseInt(window.pageXOffset)+parseInt(window.innerWidth)/2-parseInt(sc_cross.style.width)/2 : document.body.scrollLeft+document.body.clientWidth/2-parseInt(sc_cross.style.width)/2
+sc_cross.style.top=ns6?parseInt(window.pageYOffset)+parseInt(window.innerHeight)/2-sc_cross.offsetHeight/2 : document.body.scrollTop+document.body.clientHeight/2-sc_cross.offsetHeight/2
+sc_cross.style.visibility="visible"
+i++
+}
+else{
+window.location=targetdestination
+return
+}
+setTimeout("displaysplash()",intervals)
+}
+
+function displaysplash_ns(){
+if (i<splashmessage.length){
+sc_ns.visibility="hide"
+sc_ns.document.write('<b>'+openingtags+splashmessage[i]+closingtags+'</b>')
+sc_ns.document.close()
+
+sc_ns.left=pageXOffset+window.innerWidth/2-sc_ns.document.width/2
+sc_ns.top=pageYOffset+window.innerHeight/2-sc_ns.document.height/2
+
+sc_ns.visibility="show"
+i++
+}
+else{
+window.location=targetdestination
+return
+}
+setTimeout("displaysplash_ns()",intervals)
+}
+
+
+
+function positionsplashcontainer(){
+if (ie4||ns6){
+sc_cross=ns6?document.getElementById("splashcontainer"):document.all.splashcontainer
+displaysplash()
+}
+else if (ns4){
+sc_ns=document.splashcontainerns
+sc_ns.visibility="show"
+displaysplash_ns()
+}
+else
+window.location=targetdestination
+}
+window.onload=positionsplashcontainer
+
+</script>
+
+<!--Set href in below link to the URL of the target destination-->
+
+<div align="right">
+<table border="0" width="200" height="100%" cellspacing="0" cellpadding="0">
+<td width="100%" valign="bottom" align="right">
+[ <a href="Index1.html"><img src="enter2.gif" alt="enter"></a> ]
+</td>
+</table>
+</div>
+
+
+</body>
+</html>

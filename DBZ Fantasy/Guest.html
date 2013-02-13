@@ -1,0 +1,69 @@
+<!doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+
+<head>
+<title>Guest Book</title>
+<meta name="GENERATOR" content="Arachnophilia 4.0">
+<meta name="FORMATTER" content="Arachnophilia 4.0">
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#800080" alink="#ff0000">
+<center>
+<img src="guest.gif">
+<h3>Sign My Guest Book!</h3>
+<p>No visit to my webpage would be complete without "signing" the Guest Book. Simply Fill
+out the fields below ,select the <b>Submit!</b> button and your missive should appear on 
+the News board or the DBZ Forum. So if you've got a comment,suggestion,
+news,etc. I'd love to hear it!</p></center>
+<br>
+<FORM ACTION="/cgi-bin/script_library/form_handler_mail" METHOD=POST>
+<INPUT TYPE="hidden" NAME="email_to" VALUE="Tong_Zou@hotmail.com">
+<INPUT TYPE="hidden" NAME="end_display" VALUE="End.html">
+First Name:<input type=text name="First"><p>
+Last Name:<input type=text name="Last"><p>
+Your Email:<input type=text name="Email"><p>
+Your URL(If you have one,or going to have one):<input type=text name="URL">
+<p>Do you have a website?
+<select name="Yes/No">
+<option>Yes</option>
+<option>No</option>
+<option>I'm going to</option>
+</select>
+<p>If yes or going to,Do you want me to add a link to your page?</p>
+<input type=radio name="link" value="yes">yes<br>
+<input type=radio name="link" value="no">no<br>
+<p>Which sections do you want me to improve?<p>
+<input type="checkbox" name="DBZ" value="FAQs">FAQs<br>
+<input type="checkbox" name="DBZ" value="Biographies">Biographies<br>
+<input type="checkbox" name="DBZ" value="Power Levels">Power Levels<br>
+<input type="checkbox" name="DBZ" value="All of them">All of them!<br>
+<input type="checkbox" name="Mutimedia" value="Picture Gallery">Picture Gallery<br>
+<input type="checkbox" name="Mutimedia" value="Gif Gallery">Gif Gallery<br>
+<input type="checkbox" name="Multimedia" value="Downloads">Downloads<br>
+<input type="checkbox" name="Mutimedia" value="Roms/Emulators">Roms/Emulators<br>
+<input type="checkbox" name="Other" value="Other">Other<br>
+<input type="checkbox" name="Other" value="None">None!<br>
+<p>What Section do you like best?</p>
+<select name="Section" size=10>
+<option>FAQs</option>
+<option>Biographies</option>
+<option>Power Levels</option>
+<option>Gif Gallery</option>
+<option>Picture Gallery</option>
+<option>Downloads</option>
+<option>Roms/Emulators</option>
+<option>Other</option>
+<option>None!</option>
+<option>I like all of them!</option>
+<br><p><input type=hidden name="email_to" value="Tong_Zou@Hotmail.com">
+<input type=hidden name="End_Display" value="a href="End.html">
+<br><p> Please enter your comments,suggestions,news,etc. in the box below:</p>
+<textarea name="comment" cols=60 rows=8 wrap>
+</textarea>
+<br><p><input type=submit value="Submit!">
+<input type=reset></form>
+
+</body>
+
+</html>
